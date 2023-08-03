@@ -11,9 +11,9 @@ author_profile: true
 &nbsp; [Directed Research Groups (DRG)](#drg)
 <br>
 
-<h3 id="courses">
+<h2 id="courses">
 Courses
-</h3>
+</h2>
 
 **TECHIN 600, Independent Research / University of Washington** <br>
 Graduate Teaching/Research Assistant, Graduate Course / Summer 2023
@@ -29,9 +29,9 @@ Graduate Teaching Assistant, Undergraduate Course / Spring 2023
 
 
 
-<h3 id="drg">
+<h2 id="drg">
 Directed Research Groups (DRG)
-</h3>
+</h2>
 
 **HCDE 496/596, AR Avatars in Online Group Interactions / University of Washington** <br>
 Co-Director, Undergraduate + Graduate Course / Winter, Spring 2023
