@@ -8,6 +8,7 @@ main:
     
   - title: "CV"
     url: /cv/
+    target: _blank
     
 #  - title: "Playground"
 #    url: /markdown/
