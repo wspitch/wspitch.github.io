@@ -11,7 +11,7 @@ title                    : "Pitch Sinlapanuntakul"
 title_separator          : "-"
 name                     : &name "Pitch Sinlapanuntakul"
 description              : &description "Pitch Sinlapanuntakul's Personal Website"
-url                      : https://wspitch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wspitch.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wspitch/wspitch.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pitch Sinlapanuntakul"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Human Centered Design & Engineering at the University of Washington. <br> <br> HCI, emerging technologies, cognitive augmentation | he/him"
+  bio              : "Ph.D. student in Human Centered Design & Engineering at the University of Washington. He/him. <br> <br> HCI, emerging technologies, cognitive augmentation"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
