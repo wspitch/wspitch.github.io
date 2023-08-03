@@ -1,13 +1,14 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/   
+    url: /research
 
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
+    target: "_blank"
     
 #  - title: "Playground"
-#    url: /markdown/
+#    url: /markdown
