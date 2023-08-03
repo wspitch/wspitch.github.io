@@ -9,20 +9,63 @@ author_profile: true
 
 [Publications](#pubs) &nbsp; / &nbsp; [Active Reseach](#active) &nbsp; / &nbsp; [Google Scholar Profile](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"}
 
-**Updated: Aug 2023**
-
-> See my [Google Scholar](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"} for a full list of my publications.
+Updated: Aug 2023
 
 <h2 id="pubs">
 Publications
 </h2>
 
-### Journal & Conference Papers
+### Journal Articles & Conference Proceedings
 
-Paper title <br>
-[Author1][A1], [Author2][A2], and [Author][A3] <br>
-Year, Journal/Conference <br>
+**Validation of the GUESS-18 for video game players with disabilities** <br>
+[Carmen Van Ommen][carmen],
+[Pitch Sinlapanuntakul][pitch],
+[Joseph R. Keebler][keebler], and
+[Barbara S. Chaparro][barb] <br>
+[to be appeared] Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2023 <br>
+
+**[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019)** <br>
+[Pitch Sinlapanuntakul][pitch],
+[Jenna Korentsides][jenna], and
+[Barbara S. Chaparro][barb] <br>
+Frontiers in Virtual Reality, 2023 <br>
+
+**[Exploring team competencies in cybersecurity](https://doi.org/10.1177/1071181322661496)** <br>
+[Pitch Sinlapanuntakul][pitch],
+[Crystal M. Fausett][crystal], and
+[Joseph R. Keebler][keebler] <br>
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022 <br>
+[PDF](https://journals.sagepub.com/doi/epdf/10.1177/1071181322661496)
+
+**[The effects of background noise on user experience and performance of mixed reality voice dictation](https://doi.org/10.1177/1071181322661376)** <br>
+[Pitch Sinlapanuntakul][pitch],
+[Katlyn S. Skilton][katlyn],
+[Jose N. Mathew][jose], and
+[Barbara S. Chaparro][barb] <br>
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022 <br>
+[PDF](https://journals.sagepub.com/doi/epdf/10.1177/1071181322661376)
+
+**[Understanding the effects of mixed reality on video game satisfaction, enjoyment, and performance](https://doi.org/10.1177/10468781221094473)** <br>
+[Weerachet "Pitch" Sinlapanuntakul][pitch],
+[Jessyca L. Derby][jess], and
+[Barbara S. Chaparro][barb] <br>
+Simulation & Gaming, 2022 <br>
 [PDF](link)
+
+**[Primacy and recency effects on position error in short-term memory recall](https://commons.erau.edu/beyond/vol5/iss1/2)** <br>
+[Weerachet Sinlapanuntakul][pitch],
+[Kelly Harris][kelly], and
+Brittany S. Wesley <br>
+Beyond: Undergraduate Research Journal, 2021 <br>
+
+<br>
+
+**Note:** My publications before mid-2022 are listed under my full name, Weerachet Sinlapanuntakul. Moving forward, I have chosen to publish under the name people know me by — Pitch. You may see my references as either Weerachet Sinlapanuntakul, Weerachet "Pitch" Sinlapanuntakul, or Pitch Sinlapanuntakul. <br>
+<br>
+
+
+
+
 
 <h2 id="active">
 Active Research
@@ -30,13 +73,45 @@ Active Research
 
 ### Works in Progress
 
-**title** <br>
-Updated: Date Year
+**AR avatar use for online collaborative interactions** <br>
+Updated: Date Year <br>
+with
+[Mark Zachry][mark]
 
-> Placeholder
+> project info placeholder
+
+**Current practices in using AR filters for self-presentation among young adults** <br>
+Updated: Date Year <br>
+with
+[Mark Zachry][mark]
+
+> project info placeholder
+
+**Leveraging the Complexity of Authentic Design Challenges in Guided Student Research** <br>
+Updated: Date Year <br>
+with
+[Connie Yang][connie],
+[Sophie Park][sophie], and
+[Mark Zachry][mark]
+
+> project info placeholder
 
 
 
-[A1]: https://www.google.com/
-[A2]: https://www.google.com/
-[A3]: https://www.google.com/
+
+
+[connie]: https://www.linkedin.com/in/connie-hyyang/
+[mark]: https://www.hcde.washington.edu/zachry
+[pitch]: https://wspitch.github.io/
+[sophie]: https://www.linkedin.com/in/sophieparkdesign/
+
+
+[barb]: https://faculty.erau.edu/Barbara.Chaparro
+[carmen]: https://www.linkedin.com/in/carmen-van-ommen/
+[crystal]: https://www.linkedin.com/in/crystal-fausett/
+[jenna]: https://www.linkedin.com/in/jenna-korentsides/
+[jess]: https://www.linkedin.com/in/jessycaderby/
+[jose]: https://www.linkedin.com/in/jose-mathew787/
+[katlyn]: https://www.linkedin.com/in/katlyn-skilton/
+[keebler]: https://faculty.erau.edu/Joseph.Keebler
+[kelly]: https://www.linkedin.com/in/kellyjuneharris/
