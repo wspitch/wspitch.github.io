@@ -6,18 +6,18 @@ author_profile: true
 
 ---
 
-
-------
-
-
-Updated: Aug 2023 <br>
-
+<br>
 [Publications](#pubs) &nbsp; / 
 &nbsp; [Active Reseach](#active) &nbsp; / 
 &nbsp; [Google Scholar Profile](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"}
 <br>
 
+Updated: Aug 2023
+<br>
 
+------
+
+<br>
 
 <h2 id="pubs">
 Publications
