@@ -17,8 +17,6 @@ Updated: Aug 2023
 
 ------
 
-<br>
-
 <h2 id="pubs">
 Publications
 </h2>
