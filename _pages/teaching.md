@@ -6,9 +6,8 @@ author_profile: true
 
 ---
 
-<h2 id="pubs">
-Teaching
-</h2>
+<br>
+Updated: Aug 2023
 
 **Course Number, Course Name / Institution** <br>
 Role, Graduate Course / Quarters Year
