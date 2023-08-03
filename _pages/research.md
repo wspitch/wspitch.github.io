@@ -19,9 +19,9 @@ Publications
 
 ### Journal & Conference Papers
 
-Paper title
-[Author1][A1], [Author2][A2], and [Author][A3]
-Year, Journal/Conference
+Paper title <br>
+[Author1][A1], [Author2][A2], and [Author][A3] <br>
+Year, Journal/Conference <br>
 [PDF](link)
 
 <h2 id="active">
