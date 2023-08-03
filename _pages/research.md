@@ -12,11 +12,6 @@ author_profile: true
 &nbsp; [Google Scholar Profile](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"}
 <br>
 
-Updated: Aug 2023
-<br>
-
-------
-
 <h2 id="pubs">
 Publications
 </h2>
