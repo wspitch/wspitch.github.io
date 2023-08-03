@@ -8,6 +8,8 @@ author_profile: true
 
 ------
 
+<br>
+
 **Course Number, Course Name / Institution** <br>
 Role, Graduate Course / Quarters Year
 
