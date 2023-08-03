@@ -79,14 +79,10 @@ with
 [Sophie Park][sophie], and
 [Mark Zachry][mark]
 
-> project info placeholder
-
 **Current practices in using AR filters for self-presentation among young adults** <br>
 Mar 2023 - Present <br>
 with
 [Mark Zachry][mark]
-
-> project info placeholder
 
 **TikTok captioning practices and impact on DHH users** <br>
 Jan 2023 - Present <br>
@@ -98,14 +94,10 @@ with
 [Jon E. Froehlich][jon], and
 [Leah Findlater][leah]
 
-> project info placeholder
-
 **AR avatar use for online collaborative interactions** <br>
 Jan 2023 - Present <br>
 with
 [Mark Zachry][mark]
-
-> project info placeholder
 
 
 
