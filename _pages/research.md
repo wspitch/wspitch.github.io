@@ -63,8 +63,6 @@ Brittany S. Wesley <br>
 
 > **Note:** My publications before mid-2022 are listed under my full name, Weerachet Sinlapanuntakul. Moving forward, I have chosen to publish under the name people know me by — Pitch. You may see my references as either Weerachet Sinlapanuntakul, Weerachet "Pitch" Sinlapanuntakul, or Pitch Sinlapanuntakul.
 
-<br>
-
 
 
 
@@ -75,7 +73,7 @@ Active Research
 
 ### Works in Progress
 
-**Leveraging the Complexity of Authentic Design Challenges in Guided Student Research** <br>
+**Leveraging the complexity of authentic design challenges in guided student research** <br>
 Apr 2023 - Present <br>
 with
 [Connie Yang][connie],
