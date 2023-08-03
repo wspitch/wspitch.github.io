@@ -14,6 +14,8 @@ I'm a rising second-year PhD student in the department of [Human Centered Design
 
 I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closly with [Dr. Barbara S. Chaparro][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in augmented/mixed reality. I also had the opportunity to work on evaluating perceived comfort with smart product materials + validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
 
+Please reach out if you would like to chat or discuss possible collaboration opportunities.
+
 ### Recent News
 
 year, placeholder for news
