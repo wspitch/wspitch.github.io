@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-### This site is under development. Please check back soon 🥹
+**This site is under development. Please check back soon** 🥹
