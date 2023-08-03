@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a rising second-year PhD student in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw], advised by [Dr. Mark Zachry][mark]. My research interests encompass human-computer interaction and emerging technologies. I am driven by the potential of emerging technologies to revolutionize how we think and work with augmented information, while keeping humans at the forefront. By combining experimental and qualitative research methods, my current work focuses on understanding the use of immersive technologies (e.g., augmented/mixed reality and avatars) for digitally-mediated interactions and human perception. 
 
-<small>I am slowly shifting my research direction, but that is TBD :)</small>
+<small> I am slowly working on shifting my research direction. Stay tuned for future updates! </small>
 
 I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closly with [Dr. Barbara S. Chaparro][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in augmented/mixed reality. I also had the opportunity to work on evaluating perceived comfort with smart product materials + validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
 
