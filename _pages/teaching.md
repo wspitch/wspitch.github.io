@@ -34,7 +34,7 @@ Directed Research Groups (DRG)
 </h3>
 
 **HCDE 496/596, AR Avatars in Online Group Interactions / University of Washington** <br>
-Co-Director, Undergrad + Graduate Course / Winter, Spring 2023
+Co-Director, Undergraduate + Graduate Course / Winter, Spring 2023
 
 > 6 students, with Mark Zachry, Ph.D. (co-director) <br>
 > This DRG explored literature related to the use of AR avatars for group collaborative interactions, designed the study research kit (e.g., study protocol, interview questions, and appararus material design), and ran pilot sessions.
