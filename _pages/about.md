@@ -16,6 +16,8 @@ I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S
 
 Please reach out if you would like to chat or discuss possible collaboration opportunities.
 
+-----
+
 ### Recent News
 
 Jun 2023, survived the first year of my Ph.D. 😭🎉
@@ -24,8 +26,11 @@ Oct 2022, presented 2 posters at the 66th HFES annual conference 🧑🏻‍🏫
 
 Sep 2022, started my Ph.D. in HCDE at the University of Washington 📚🐺
 
+-----
 
-
+### Check out my amazing friends below
+<small> (inspired by [Keri Mallari][keri]) </small>
+- this list is still under development
 
 
 [erau]: https://daytonabeach.erau.edu
@@ -37,9 +42,11 @@ Sep 2022, started my Ph.D. in HCDE at the University of Washington 📚🐺
 
 [andy]: https://www.linkedin.com/in/soohyunmoon
 [connie]: https://www.linkedin.com/in/connie-hyyang
+[donghoon]: https://donghoon.io
 [emma]: https://ej-mcdonnell.github.io
 [jon]: https://jonfroehlich.github.io
 [kate]: https://kateringland.com
+[keri]: https://keri.xyz
 [leah]: https://www.hcde.washington.edu/findlater
 [mark]: https://www.hcde.washington.edu/zachry
 [pitch]: https://wspitch.github.io
