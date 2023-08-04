@@ -1,6 +1,17 @@
 # Note-To-Self
 
+**Change avatar picture on the sidebar**
+- upload to /images and name it profile.png
+- check _config.yml
 
+**Change display picture for tab preview**
+- step 1 placeholder
+- step 2 placeholder
+
+**House keeping**
+- update recent news and friend list in _pages/about.md
+- update pubs and write about research areas in _pages/research.md
+- update teaching in Aut 2023 in _pages/teaching.md
 
 -----
 
