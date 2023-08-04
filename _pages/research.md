@@ -103,24 +103,26 @@ with
 
 
 
-[andy]: https://www.linkedin.com/in/soohyunmoon
-[connie]: https://www.linkedin.com/in/connie-hyyang
+[andy]: https://linkedin.com/in/soohyunmoon
+[connie]: https://linkedin.com/in/connie-hyyang
+[donghoon]: https://donghoon.io
 [emma]: https://ej-mcdonnell.github.io
 [jon]: https://jonfroehlich.github.io
 [kate]: https://kateringland.com
-[leah]: https://www.hcde.washington.edu/findlater
-[mark]: https://www.hcde.washington.edu/zachry
+[keri]: https://keri.xyz
+[leah]: https://hcde.washington.edu/findlater
+[mark]: https://hcde.washington.edu/zachry
 [pitch]: https://wspitch.github.io
-[sophie]: https://www.linkedin.com/in/sophieparkdesign
+[sophie]: https://linkedin.com/in/sophieparkdesign
 [tessa]: https://tessaeagle.github.io
 
 
 [barb]: https://faculty.erau.edu/Barbara.Chaparro
-[carmen]: https://www.linkedin.com/in/carmen-van-ommen
-[crystal]: https://www.linkedin.com/in/crystal-fausett
-[jenna]: https://www.linkedin.com/in/jenna-korentsides
-[jess]: https://www.linkedin.com/in/jessycaderby
-[jose]: https://www.linkedin.com/in/jose-mathew787
-[katlyn]: https://www.linkedin.com/in/katlyn-skilton
+[carmen]: https://linkedin.com/in/carmen-van-ommen
+[crystal]: https://linkedin.com/in/crystal-fausett
+[jenna]: https://linkedin.com/in/jenna-korentsides
+[jess]: https://linkedin.com/in/jessycaderby
+[jose]: https://linkedin.com/in/jose-mathew787
+[katlyn]: https://linkedin.com/in/katlyn-skilton
 [keebler]: https://faculty.erau.edu/Joseph.Keebler
-[kelly]: https://www.linkedin.com/in/kellyjuneharris
+[kelly]: https://linkedin.com/in/kellyjuneharris
