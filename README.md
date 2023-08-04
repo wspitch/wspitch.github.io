@@ -12,6 +12,7 @@
 - update recent news and friend list in _pages/about.md
 - update pubs and write about research areas in _pages/research.md
 - update teaching in Aut 2023 in _pages/teaching.md
+- update CV every 2-3 months by loading to /files as Pitch_Sinlapanuntakul_CV.pdf
 
 -----
 
