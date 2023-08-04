@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a rising second-year Ph.D. student in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw], advised by [Dr. Mark Zachry][mark]. My research interests encompass human-computer interaction and emerging technologies. I am driven by the potential of emerging technologies to revolutionize how we think and work with augmented information, while keeping humans at the forefront. By combining experimental and qualitative research methods, my current work focuses on understanding the use of immersive technologies (e.g., augmented/mixed reality and avatars) for digitally-mediated interactions and human perception. 
+I'm a rising second-year Ph.D. student in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw], advised by [Mark Zachry, Ph.D.][mark]. My research interests encompass human-computer interaction and emerging technologies. I am driven by the potential of emerging technologies to revolutionize how we think and work with augmented information, while keeping humans at the forefront. By combining experimental and qualitative research methods, my current work focuses on understanding the use of immersive technologies (e.g., augmented/mixed reality and avatars) for digitally-mediated interactions and human perception. 
 
 <small> I am slowly working on shifting my research direction. Stay tuned for future updates! </small>
 
-I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closly with [Dr. Barbara S. Chaparro][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in augmented/mixed reality. I also had the opportunity to work on evaluating perceived comfort with smart product materials + validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
+I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closly with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in augmented/mixed reality. I also had the opportunity to work on evaluating perceived comfort with smart product materials + validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
 
 Please reach out if you would like to chat or discuss possible collaboration opportunities.
 
@@ -31,6 +31,9 @@ Sep 2022, started my Ph.D. in HCDE at the University of Washington 📚🐺
 ### Check out my amazing friends below
 <small> (inspired by [Keri Mallari][keri]) </small>
 - this list is still under development
+
+
+
 
 
 [erau]: https://daytonabeach.erau.edu
