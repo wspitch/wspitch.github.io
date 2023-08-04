@@ -20,7 +20,7 @@ Please reach out if you would like to chat or discuss possible collaboration opp
 
 Jun 2023, survived the first year of my Ph.D. 😭🎉
 
-Oct 2022, presented 2 posters at 66th HFES annual conference 🧑🏻‍🏫
+Oct 2022, presented 2 posters at the 66th HFES annual conference 🧑🏻‍🏫
 
 Sep 2022, started my Ph.D. in HCDE at the University of Washington 📚🐺
 
