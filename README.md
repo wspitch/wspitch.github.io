@@ -1,6 +1,6 @@
 # Note-To-Self
 
-[wspitch.github.io](wspitch.github.io)
+[wspitch.github.io](https://wspitch.github.io)
 
 **Change avatar picture on the sidebar**
 - upload to /images and name it profile.png
