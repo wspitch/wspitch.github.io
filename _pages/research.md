@@ -81,8 +81,6 @@ with
 
 **Current practices in using AR filters for self-presentation among young adults** <br>
 Mar 2023 - Present <br>
-with
-[Mark Zachry][mark]
 
 **TikTok captioning practices and impact on DHH users** <br>
 Jan 2023 - Present <br>
