@@ -12,7 +12,7 @@ I'm a rising second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], i
 
 <small> I am slowly working on shifting my research direction. Stay tuned for future updates! </small>
 
-I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closly with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in augmented/mixed reality. I also had the opportunity to work on evaluating perceived comfort with smart product materials and validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
+I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closely with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in augmented/mixed reality. I also had the opportunity to work on evaluating perceived comfort with smart product materials and validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
 
 Please reach out if you would like to chat or discuss possible collaboration opportunities.
 
