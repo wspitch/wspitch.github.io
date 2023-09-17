@@ -23,7 +23,7 @@ Publications
 [Pitch Sinlapanuntakul][pitch],
 [Joseph R. Keebler][keebler], and
 [Barbara S. Chaparro][barb] <br>
-2023 / [to be appeared] Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
+(in press) / Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
 
 **[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch],
@@ -70,7 +70,7 @@ Brittany S. Wesley <br>
 Active Research
 </h2>
 
-### Works in Progress
+### Works in Submission/Progress
 
 **Leveraging the complexity of authentic design challenges in guided student research** <br>
 Apr 2023 - Present <br>
@@ -81,13 +81,15 @@ with
 
 **Current practices in using AR filters for self-presentation among young adults** <br>
 Mar 2023 - Present <br>
+with
+[Mark Zachry][mark]
 
 **TikTok captioning practices and impact on DHH users** <br>
 Jan 2023 - Present <br>
 with
 [Emma J. McDonnell][emma],
-[Andy Moon][andy],
 [Tessa Eagle][tessa],
+[Andy Moon][andy],
 [Kate Ringland][kate],
 [Jon E. Froehlich][jon], and
 [Leah Findlater][leah]
