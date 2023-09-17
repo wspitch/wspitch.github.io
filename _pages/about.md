@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a rising second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research interests encompass human-computer interaction and emerging technologies. I am driven by the potential of emerging technologies to revolutionize how we think and work with augmented information, while keeping humans at the forefront. By combining experimental and qualitative research methods, my current work focuses on understanding the use of immersive technologies (e.g., augmented reality and avatars) for digitally-mediated interactions and human perception. 
+I'm a second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research interests encompass human-computer interaction and emerging technologies. I am driven by the potential of emerging technologies to revolutionize how we think and work with augmented information, while keeping humans at the forefront. By combining experimental and qualitative research methods, my current work focuses on understanding the use of immersive technologies (e.g., augmented reality and avatars) for digitally-mediated interactions and human experience. 
 
 <small> I am slowly working on shifting my research direction. Stay tuned for future updates! </small>
 
