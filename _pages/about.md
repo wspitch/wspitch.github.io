@@ -29,8 +29,11 @@ Sep 2022, started my Ph.D. in HCDE at the University of Washington 📚🐺
 -----
 
 ### Check out my amazing friends below
-<small> (inspired by [Keri Mallari][keri]) </small>
-- this list is still under development
+<small> (inspired by [Keri Mallari][keri], this list is still under development) </small>
+- [Donghoon Shin][donghoon]
+- [Soobin Cho][soobin]
+- [Joey Schafer][joey]
+- [Julie Vera][julie]
 
 
 
@@ -47,12 +50,15 @@ Sep 2022, started my Ph.D. in HCDE at the University of Washington 📚🐺
 [connie]: https://linkedin.com/in/connie-hyyang
 [donghoon]: https://donghoon.io
 [emma]: https://ej-mcdonnell.github.io
+[joey]: http://students.washington.edu/schaferj/
 [jon]: https://jonfroehlich.github.io
+[julie]: https://julievera.notion.site/julievera/
 [kate]: https://kateringland.com
 [keri]: https://keri.xyz
 [leah]: https://hcde.washington.edu/findlater
 [mark]: https://hcde.washington.edu/zachry
 [pitch]: https://wspitch.github.io
+[soobin]: https://5oobin.github.io/website/
 [sophie]: https://linkedin.com/in/sophieparkdesign
 [tessa]: https://tessaeagle.github.io
 
