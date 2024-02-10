@@ -18,18 +18,19 @@ Publications
 
 ### Journal Articles & Conference Proceedings
 
-**Validation of the GUESS-18 for video game players with disabilities** <br>
+**[Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Carmen Van Ommen][carmen],
 [Pitch Sinlapanuntakul][pitch],
 [Joseph R. Keebler][keebler], and
 [Barbara S. Chaparro][barb] <br>
-(in press) / Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
 
 **[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch],
 [Jenna Korentsides][jenna], and
 [Barbara S. Chaparro][barb] <br>
 2023 / Frontiers in Virtual Reality <br>
+[PDF](https://wspitch.github.io/files/UX_Multi-Window_AR.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[Exploring team competencies in cybersecurity](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch],
@@ -51,7 +52,7 @@ Publications
 [Jessyca L. Derby][jess], and
 [Barbara S. Chaparro][barb] <br>
 2022 / Simulation & Gaming <br>
-[PDF](link){:target="_blank"}{:rel="noopener noreferrer"}
+[PDF](https://wspitch.github.io/files/MR_Gaming.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[Primacy and recency effects on position error in short-term memory recall](https://commons.erau.edu/beyond/vol5/iss1/2){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Weerachet Sinlapanuntakul][pitch],
