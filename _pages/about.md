@@ -20,7 +20,9 @@ Please reach out if you would like to chat or discuss possible collaboration opp
 
 ### Recent News
 
-March 2024, received an M.S. in HCDE (concurrent with Ph.D.)
+Mar 2024, received an M.S. in HCDE (concurrent with Ph.D.)
+
+Nov 2023, presented and passed my preliminary exam
 
 Jun 2023, finished the first year of my Ph.D.
 
