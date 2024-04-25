@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research
+  - title: "Publication"
+    url: /publication
 
   - title: "Teaching"
     url: /teaching
     
   - title: "CV"
-    url: /files/Pitch Sinlapanuntakul CV.pdf
+    url: /files/Pitch-Sinlapanuntakul-CV.pdf
     target: "_blank"
     
 #  - title: "Playground"
