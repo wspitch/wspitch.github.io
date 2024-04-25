@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-AI collaboration in design. Particularly, I am interested in how design practitioners can leverage generative AI to augment their creativity and problem-solving within the context of technology product design/innovation. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches. Currently, I am investigating the impact of AI on design values and the role of human intuition in the design process.
+I'm a second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-AI collaboration in design. Particularly, I am interested in how design practitioners can leverage generative AI to augment their creativity and problem-solving within the context of technology product design/innovation. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
 Previously, I led user research studies on augmented reality (AR) interfaces and interactions. These included the use of AR headsets, screen-based avatars, and filters for digitally-mediated interactions and experience
 
