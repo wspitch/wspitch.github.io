@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research"
-permalink: /research/
+title: "Publication"
+permalink: /publication/
 author_profile: true
 
 ---
@@ -15,8 +15,6 @@ author_profile: true
 <h2 id="pubs">
 Publications
 </h2>
-
-### Journal Articles & Conference Proceedings
 
 **Augmenting self-presentation: Augmented reality (AR) filters use among young adults** <br>
 [Pitch Sinlapanuntakul][pitch] and
