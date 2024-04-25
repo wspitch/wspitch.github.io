@@ -18,25 +18,31 @@ Publications
 
 ### Journal Articles & Conference Proceedings
 
+**Augmenting self-presentation: Augmented reality (AR) filters use among young adults** <br>
+[Pitch Sinlapanuntakul][pitch] and
+[Mark Zachry][mark] <br>
+2024 / HCII <br>
+[PDF](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+
 **[Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Carmen Van Ommen][carmen],
 [Pitch Sinlapanuntakul][pitch],
 [Joseph R. Keebler][keebler], and
 [Barbara S. Chaparro][barb] <br>
-Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
+2023 / HFES <br>
 
 **[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch],
 [Jenna Korentsides][jenna], and
 [Barbara S. Chaparro][barb] <br>
-2023 / Frontiers in Virtual Reality <br>
+2023 / Frontiers in VR <br>
 [PDF](https://wspitch.github.io/files/UX_Multi-Window_AR.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[Exploring team competencies in cybersecurity](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch],
 [Crystal M. Fausett][crystal], and
 [Joseph R. Keebler][keebler] <br>
-2022 / Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
+2022 / HFES <br>
 [PDF](https://journals.sagepub.com/doi/epdf/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[The effects of background noise on user experience and performance of mixed reality voice dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}** <br>
@@ -44,7 +50,7 @@ Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
 [Katlyn S. Skilton][katlyn],
 [Jose N. Mathew][jose], and
 [Barbara S. Chaparro][barb] <br>
-2022 / Proceedings of the Human Factors and Ergonomics Society Annual Meeting <br>
+2022 / HFES <br>
 [PDF](https://journals.sagepub.com/doi/epdf/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[Understanding the effects of mixed reality on video game satisfaction, enjoyment, and performance](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}** <br>
@@ -71,32 +77,15 @@ Brittany S. Wesley <br>
 Active Research
 </h2>
 
-### Works in Submission/Progress
+### Works in Progress
 
-**Leveraging the complexity of authentic design challenges in guided student research** <br>
-Apr 2023 - Present <br>
-with
-[Connie Yang][connie],
-[Sophie Park][sophie], and
-[Mark Zachry][mark]
-
-**Current practices in using AR filters for self-presentation among young adults** <br>
-Mar 2023 - Present <br>
+**Design intuition in AI-augmented design process** <br>
+Apr 2024 - Present <br>
 with
 [Mark Zachry][mark]
 
-**TikTok captioning practices and impact on DHH users** <br>
-Jan 2023 - Present <br>
-with
-[Emma J. McDonnell][emma],
-[Tessa Eagle][tessa],
-[Andy Moon][andy],
-[Kate Ringland][kate],
-[Jon E. Froehlich][jon], and
-[Leah Findlater][leah]
-
-**AR avatar use for online collaborative interactions** <br>
-Jan 2023 - Present <br>
+**AI and value sensitive design** <br>
+Apr 2024 - Present <br>
 with
 [Mark Zachry][mark]
 
