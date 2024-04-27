@@ -18,6 +18,32 @@ Please reach out if you would like to chat or discuss possible collaboration opp
 
 -----
 
+### Selected Publications
+
+<small> see my [Google Scholar](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao) for the full list of publications
+
+[Augmenting self-presentation: Augmented reality (AR) filters use among young adults](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf) <br>
+[Pitch Sinlapanuntakul][pitch] and
+[Mark Zachry][mark] <br>
+2024 / HCII <br>
+[Preprint PDF](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf)
+
+[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019) <br>
+[Pitch Sinlapanuntakul][pitch],
+[Jenna Korentsides][jenna], and
+[Barbara S. Chaparro][barb] <br>
+2023 / Frontiers in VR <br>
+[PDF](https://wspitch.github.io/files/UX_Multi-Window_AR.pdf)
+
+[Understanding the effects of mixed reality on video game satisfaction, enjoyment, and performance](https://doi.org/10.1177/10468781221094473) <br>
+[Weerachet "Pitch" Sinlapanuntakul][pitch],
+[Jessyca L. Derby][jess], and
+[Barbara S. Chaparro][barb] <br>
+2022 / Simulation & Gaming <br>
+[PDF](https://wspitch.github.io/files/MR_Gaming.pdf)
+
+-----
+
 ### Recent News
 
 Mar 2024, received an M.S. in HCDE (concurrent with Ph.D.)
