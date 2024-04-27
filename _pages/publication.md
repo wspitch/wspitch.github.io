@@ -16,7 +16,7 @@ author_profile: true
 Publications
 </h2>
 
-**Augmenting self-presentation: Augmented reality (AR) filters use among young adults(https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**[Augmenting self-presentation: Augmented reality (AR) filters use among young adults](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch] and
 [Mark Zachry][mark] <br>
 2024 / HCII <br>
