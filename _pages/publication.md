@@ -16,11 +16,11 @@ author_profile: true
 Publications
 </h2>
 
-**Augmenting self-presentation: Augmented reality (AR) filters use among young adults** <br>
+**Augmenting self-presentation: Augmented reality (AR) filters use among young adults(https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch] and
 [Mark Zachry][mark] <br>
 2024 / HCII <br>
-[Preprint](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+[Preprint PDF](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Carmen Van Ommen][carmen],
