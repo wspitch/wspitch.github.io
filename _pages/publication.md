@@ -56,7 +56,6 @@ Publications
 [Jessyca L. Derby][jess], and
 [Barbara S. Chaparro][barb] <br>
 2022 / Simulation & Gaming <br>
-[PDF](https://wspitch.github.io/files/MR_Gaming.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 **[Primacy and recency effects on position error in short-term memory recall](https://commons.erau.edu/beyond/vol5/iss1/2){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Weerachet Sinlapanuntakul][pitch],
