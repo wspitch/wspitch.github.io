@@ -40,7 +40,6 @@ Please reach out if you would like to chat or discuss possible collaboration opp
 [Jessyca L. Derby][jess], and
 [Barbara S. Chaparro][barb] <br>
 2022 / Simulation & Gaming <br>
-[PDF](https://wspitch.github.io/files/MR_Gaming.pdf)
 
 -----
 
