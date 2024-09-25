@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-centered AI in design. Particularly, I am interested in understanding and supporting design for AI + AI for design. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
+I'm a third-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-centered AI in design. Particularly, I am interested in understanding and supporting design for AI + AI for design. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
 Previously, I led user research studies on augmented reality (AR) interfaces and interactions. These included the use of AR headsets, screen-based avatars, and filters for digitally-mediated interactions and experience
 
