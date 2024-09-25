@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-AI collaboration in design. Particularly, I am interested in how design practitioners can leverage generative AI to augment their creativity and problem-solving within the context of technology product design/innovation. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
+I'm a second-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-centered AI in design. Particularly, I am interested in understanding and supporting design for AI + AI for design. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
 Previously, I led user research studies on augmented reality (AR) interfaces and interactions. These included the use of AR headsets, screen-based avatars, and filters for digitally-mediated interactions and experience
 
-I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closely with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experimental studies to investigate user experience and usability of interaction methods in AR. I also had the opportunity to work on evaluating perceived comfort with smart product materials and validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
+I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closely with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experiments to investigate user experience and usability of interaction methods in AR. I also had the opportunity to work on evaluating perceived comfort with smart product materials and validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
 
 Please reach out if you would like to chat or discuss possible collaboration opportunities.
 
@@ -74,7 +74,7 @@ Sep 2022, started my Ph.D. in HCDE at the University of Washington
 [uw]: https://washington.edu
 
 
-[aayushi]: https://aayushidangol.net/
+[aayushi]: https://www.linkedin.com/in/aayushi-dangol
 [andy]: https://linkedin.com/in/soohyunmoon
 [connie]: https://linkedin.com/in/connie-hyyang
 [donghoon]: https://donghoon.io
