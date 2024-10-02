@@ -22,47 +22,29 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 **Human-AI Interaction and Human-Centered AI**
 
-↗ [Envisioning the future of AI-powered design work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
+↗ Impacts of AI on Human Designers (in submission)
 <br>
-Impacts of AI on human designers: A systematic literature review (in submission)
+↗ [Envisioning the Future of AI-Powered Design Work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
 
 **HCI and AR-Enhanced Experiences**
 
-The development and validation of the motivations for avatar-mediated meetings (MAMM) scale
-
-↗ [Augmenting self-presentation: Augmented reality (AR) filters use among young adults](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
-
-↗ [Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}
-
-↗ [The effects of background noise on user experience and performance of mixed reality voice dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"} <br>
-[Pitch Sinlapanuntakul][pitch],
-[Katlyn S. Skilton][katlyn],
-[Jose N. Mathew][jose], and
-[Barbara S. Chaparro][barb] <br>
-2022 / HFES <br>
-
-↗ [Understanding the effects of mixed reality on video game satisfaction, enjoyment, and performance](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"} <br>
-[Weerachet "Pitch" Sinlapanuntakul][pitch],
-[Jessyca L. Derby][jess], and
-[Barbara S. Chaparro][barb] <br>
-2022 / Simulation & Gaming <br>
+↗ Avatars in Video-Mediated Collaborative Interactions [arXiv v.1](https://doi.org/10.48550/arXiv.2405.03844){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+↗ The Development and Validation of the Motivations for Avatar-mMdiated Meetings (MAMM) Scale
+<br>
+↗ AR Filters Use Among Young Adults[preprint](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+↗ [UX of a Multi-Window AR Environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+↗ [Effects of Background Noise on AR/MR Voice Dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+↗ [Effects of AR/MR on Video Game Satisfaction, Enjoyment, and Performance](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}
 
 **Design, UX, and A11Y**
 
-↗ [“Caption it in an accessible way that is also enjoyable”: Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}
-
-↗ [Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"} <br>
-[Carmen Van Ommen][carmen],
-[Pitch Sinlapanuntakul][pitch],
-[Joseph R. Keebler][keebler], and
-[Barbara S. Chaparro][barb] <br>
-2023 / HFES <br>
-
-[Exploring team competencies in cybersecurity](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"} <br>
-[Pitch Sinlapanuntakul][pitch],
-[Crystal M. Fausett][crystal], and
-[Joseph R. Keebler][keebler] <br>
-2022 / HFES <br>
+↗ [Characterizing User-driven Captioning Practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+↗ [Validation of the GUESS-18 for Video Game Players with Disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"} <br>
 
 -----
 
