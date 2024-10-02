@@ -52,9 +52,9 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 ### Check out my amazing friends below
 <small> (inspired by [Keri Mallari][keri]) </small>
-- [Donghoon Shin][donghoon]
-- [Aayushi Dangol][aayushi]
-- [Soobin Cho][soobin]
+↗ [Donghoon Shin][donghoon]{:target="_blank"}{:rel="noopener noreferrer"}
+↗ [Aayushi Dangol][aayushi]{:target="_blank"}{:rel="noopener noreferrer"}
+↗ [Soobin Cho][soobin]{:target="_blank"}{:rel="noopener noreferrer"}
 
 
 
