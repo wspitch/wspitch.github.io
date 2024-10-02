@@ -18,15 +18,14 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 -----
 
-## projects
+### projects
 
-### Human-AI Interaction and Human-Centered AI
-
-Impacts of AI on human designers: A systematic literature review (in submission)
+#### Human-AI Interaction and Human-Centered AI
 
 ↗ [Envisioning the future of AI-powered design work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
+Impacts of AI on human designers: A systematic literature review (in submission)
 
-### HCI and AR-Enhanced Experiences
+#### HCI and AR-Enhanced Experiences
 
 The development and validation of the motivations for avatar-mediated meetings (MAMM) scale
 
@@ -56,7 +55,7 @@ The development and validation of the motivations for avatar-mediated meetings (
 [Barbara S. Chaparro][barb] <br>
 2022 / Simulation & Gaming <br>
 
-### Design, UX, and A11Y
+#### Design, UX, and A11Y
 
 ↗ [“Caption it in an accessible way that is also enjoyable”: Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}
 
