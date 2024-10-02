@@ -5,8 +5,11 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching
+
+  - title: "home"
+    url: /about
     
-  - title: "CV"
+  - title: "cv"
     url: https://drive.google.com/file/d/1G0_gEpoWhZ0eHuPikuIslcL3zUOUlyNc/view?usp=sharing
 #    url: /files/Pitch-Sinlapanuntakul-CV.pdf
     target: "_blank"
