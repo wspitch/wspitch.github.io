@@ -19,9 +19,7 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 -----
 
 ### projects
-
 <br>
-
 **Human-AI Interaction and Human-Centered AI**
 
 ↗ Impacts of AI on human designers (in submission)
