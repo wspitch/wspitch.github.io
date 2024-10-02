@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on understanding and supporting design for human-centered AI. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
+I'm a 3rd-year PhD student, advised by [Mark Zachry, PhD][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My current research focuses on understanding and supporting design for human-centered AI, often drawing from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
 Previously, I led user research studies on AR interfaces and interactions, including the use of AR headsets, screen-based avatars, and filters for mediated interactions and experiences.
 
-I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closely with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experiments to investigate user experience and usability of interaction methods in AR. I also had the opportunity to work on evaluating perceived comfort with smart product materials and validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
+I have a B.S. graduated in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of interaction methods in/with AR. Sponsored by a Top Fortune 100 Tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit's comprehensiveness in assessing product design impressions.
 
-Please reach out to discuss possible collaboration opportunities :)
+Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 -----
 
