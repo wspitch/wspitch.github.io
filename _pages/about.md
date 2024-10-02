@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in the department of [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on human-centered AI in design. Particularly, I am interested in understanding and supporting design for AI + AI for design. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
+I'm a third-year Ph.D. student, advised by [Mark Zachry, Ph.D.][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My research focuses on understanding and supporting design for human-centered AI. My work and thinking often draw from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
-Previously, I led user research studies on augmented reality (AR) interfaces and interactions. These included the use of AR headsets, screen-based avatars, and filters for digitally-mediated interactions and experience
+Previously, I led user research studies on AR interfaces and interactions, including the use of AR headsets, screen-based avatars, and filters for mediated interactions and experiences.
 
 I graduated from [Embry-Riddle Aeronautical University][erau] in 2022 with a B.S. in [Human Factors Psychology][hf]. There, I worked closely with [Barbara S. Chaparro, Ph.D.][barb] in the [Research in User eXperience (RUX) Lab][rux], where I led experiments to investigate user experience and usability of interaction methods in AR. I also had the opportunity to work on evaluating perceived comfort with smart product materials and validating a toolkit's comprehensiveness in assessing product design impressions, sponsored by a Top Fortune 100 Tech company.
 
-Please reach out if you would like to chat or discuss possible collaboration opportunities.
+Please reach out to discuss possible collaboration opportunities :)
 
 -----
 
-### Selected Publications
+### Recent Publications
 
 <small> see my [Google Scholar](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao) for the full list of publications
 
@@ -40,20 +40,6 @@ Please reach out if you would like to chat or discuss possible collaboration opp
 [Jessyca L. Derby][jess], and
 [Barbara S. Chaparro][barb] <br>
 2022 / Simulation & Gaming <br>
-
------
-
-### Recent News
-
-Mar 2024, received an M.S. in HCDE (concurrent with Ph.D.)
-
-Nov 2023, presented and passed my preliminary exam
-
-Jun 2023, finished the first year of my Ph.D.
-
-Oct 2022, presented 2 posters at the 66th HFES annual conference
-
-Sep 2022, started my Ph.D. in HCDE at the University of Washington
 
 -----
 
