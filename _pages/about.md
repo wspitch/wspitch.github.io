@@ -37,7 +37,7 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 **Design, UX, and A11Y**
 
 ↗ [Authenticity in advanced UX education](https://doi.org/10.1109/ProComm61427.2024.00058){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}
+↗ [Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}<br>
 ↗ [Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}<br>
 
 -----
