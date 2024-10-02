@@ -19,7 +19,6 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 -----
 
 ### ↓ Projects
-
 <br>
 
 **Human-AI Interaction and Human-Centered AI**
