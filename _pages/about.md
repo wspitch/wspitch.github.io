@@ -19,9 +19,12 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 -----
 
 ### ↓ Projects
+
 <br>
+
 **Human-AI Interaction and Human-Centered AI**
 
+↗ Envisioning AI-infiltrated values of design practice (on going)<br>
 ↗ Impacts of AI on human designers (in submission)<br>
 ↗ [Envisioning the future of AI-powered design work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
 
