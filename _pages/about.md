@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+### hi
+
 I'm a 3rd-year PhD student, advised by [Mark Zachry, PhD][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My current research focuses on understanding and supporting design for human-centered AI, often drawing from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
 Previously, I led user research studies on AR interfaces and interactions, including the use of AR headsets, screen-based avatars, and filters for mediated interactions and experiences.
@@ -18,9 +20,9 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 -----
 
-### Recent Publications
+### projects
 
-<small> see my [Google Scholar](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao) for the full list of publications
+# Human-AI Interaction and Human-Centered AI
 
 ↗ [Augmenting self-presentation: Augmented reality (AR) filters use among young adults](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"} <br>
 [Pitch Sinlapanuntakul][pitch] and
