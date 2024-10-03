@@ -1,10 +1,5 @@
 # main links links
 main:
-#  - title: "Publication"
-#    url: /publication
-
-#  - title: "Teaching"
-#    url: /teaching
 
   - title: "home"
     url: /about
@@ -13,6 +8,3 @@ main:
     url: https://drive.google.com/file/d/1G0_gEpoWhZ0eHuPikuIslcL3zUOUlyNc/view?usp=sharing
 #    url: /files/Pitch-Sinlapanuntakul-CV.pdf
     target: "_blank"
-    
-#  - title: "Playground"
-#    url: /markdown
