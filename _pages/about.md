@@ -61,7 +61,7 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 [uw]: https://washington.edu
 
 
-[aayushi]: https://www.linkedin.com/in/aayushi-dangol
+[aayushi]: https://adango26.github.io
 [andy]: https://linkedin.com/in/soohyunmoon
 [connie]: https://linkedin.com/in/connie-hyyang
 [donghoon]: https://donghoon.io
