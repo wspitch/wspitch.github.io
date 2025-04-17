@@ -33,11 +33,10 @@ See my students' final concept videos:
 [Obscura](https://youtu.be/hR6HQHPSbcw){:target="_blank"}{:rel="noopener noreferrer"},
 [Social Grocer](https://youtu.be/W-pMxHQiPqg){:target="_blank"}{:rel="noopener noreferrer"},
 [Somni](https://youtu.be/aYgDNDIiLTs){:target="_blank"}{:rel="noopener noreferrer"},
-[Obuntu](https://youtu.be/Bw701QRAmk4){:target="_blank"}{:rel="noopener noreferrer"}
+[Obuntu](https://youtu.be/Bw701QRAmk4){:target="_blank"}{:rel="noopener noreferrer"}.
 
 **HCDE 593: MS Capstone** (2024 Spring)
-<br>
-Building on their identified problem space and research findings, student teams enagge in ideation, prototyping, and evaluation to develop and deliver their final solution/design/product.
+> Building on their identified problem space and research findings, student teams enagge in ideation, prototyping, and evaluation to develop and deliver their final solution/design/product.
 
 **HCDE 313: User Research** (2023 Spring)
 <br>
