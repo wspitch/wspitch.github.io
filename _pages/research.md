@@ -1,6 +1,6 @@
 ---
-permalink: /
-title:
+permalink: /research.html
+title: Research
 excerpt: "Research"
 author_profile: true
 redirect_from: 
