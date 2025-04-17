@@ -17,6 +17,29 @@ This page is under development (to be updated on 04/22/25).
 Publications
 </h2>
 
+### ↓ Projects<br><br>
+
+**Human-AI Interaction and Human-Centered AI**
+
+↗ Envisioning AI-infiltrated values of design practice (ongoing)<br>
+↗ Impacts of AI on human designers (in submission)<br>
+↗ [Envisioning the future of AI-powered design work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
+
+**HCI and AR-Enhanced Experiences**
+
+↗ [Avatars in video-mediated collaborative interactions (arXiv v.1)](https://doi.org/10.48550/arXiv.2405.03844){:target="_blank"}{:rel="noopener noreferrer"}<br>
+↗ Motivations for avatar-mediated meetings (MAMM) scale<br>
+↗ [AR filters use among young adults (preprint)](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
+↗ [UX of a multi-window AR environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}<br>
+↗ [Effects of background noise on AR/MR voice dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}<br>
+↗ [Effects of AR/MR on video game satisfaction](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}
+
+**Design, UX, and A11Y**
+
+↗ [Authenticity in advanced UX education](https://doi.org/10.1109/ProComm61427.2024.00058){:target="_blank"}{:rel="noopener noreferrer"}<br>
+↗ [Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}<br>
+↗ [Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}<br>
+
 **[Augmenting self-presentation: Augmented reality (AR) filters use among young adults](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}** <br>
 [Pitch Sinlapanuntakul][pitch] and
 [Mark Zachry][mark] <br>
