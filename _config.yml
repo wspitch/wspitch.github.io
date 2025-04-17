@@ -85,10 +85,10 @@ author:
   bio              : "Ph.D. student in HCDE at the University of Washington. <br> <br> 📌 Actively seeking research/UXR internship opportunities for Summer 2025 <br> <br> Updated Oct 01, 2024."
   location         : "Seattle, WA, USA"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en"
   email            : "wspitch@uw.edu"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        : "wspitch"
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "wspitch"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "wpitchs"
+  twitter          : #"wpitchs"
   vine             :
   weibo            :
   xing             :
