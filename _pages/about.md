@@ -43,6 +43,16 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 -----
 
+### Recent News
+
+Mar 2024, received an M.S. in HCDE (concurrent with Ph.D.)
+Nov 2023, presented and passed my preliminary exam
+Jun 2023, finished the first year of my Ph.D.
+Oct 2022, presented 2 posters at the 66th HFES annual conference
+Sep 2022, started my Ph.D. in HCDE at the University of Washington
+
+-----
+
 ### ↓ Check out my amazing friends below
 <small> (inspired by [Keri Mallari][keri]) </small><br>
 <br>
