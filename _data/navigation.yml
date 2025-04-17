@@ -3,7 +3,13 @@ main:
 
   - title: "home"
     url: /about
-    
+
+  - title: "research"
+    url: /research
+
+  - title: "teaching"
+    url: /teaching
+
   - title: "cv"
 #    url: https://drive.google.com/file/d/1G0_gEpoWhZ0eHuPikuIslcL3zUOUlyNc/view?usp=sharing
     url: /files/Pitch-Sinlapanuntakul-CV.pdf
