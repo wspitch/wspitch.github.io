@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "teaching"
 permalink: /teaching/
 author_profile: false
 ---
@@ -36,7 +36,8 @@ See my students' final concept videos:
 [Obuntu](https://youtu.be/Bw701QRAmk4){:target="_blank"}{:rel="noopener noreferrer"}.
 
 **HCDE 593: MS Capstone** (2024 Spring)
-> Building on their identified problem space and research findings, student teams enagge in ideation, prototyping, and evaluation to develop and deliver their final solution/design/product.
+<br>
+Building on their identified problem space and research findings, student teams enagge in ideation, prototyping, and evaluation to develop and deliver their final solution/design/product.
 
 **HCDE 313: User Research** (2023 Spring)
 <br>
