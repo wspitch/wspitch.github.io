@@ -1,6 +1,6 @@
 ---
-permalink: /
-title:
+permalink: /teaching.html
+title: Teaching
 excerpt: "Teaching"
 author_profile: true
 redirect_from: 
