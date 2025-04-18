@@ -18,8 +18,6 @@ Publications
 
 All papers should be publicly accessible but are also available upon request.
 
-### ↓ Projects<br><br>
-
 **Augmenting self-presentation: Augmented reality (AR) filters use among young adults**
 <br>
 [Pitch Sinlapanuntakul][pitch],
