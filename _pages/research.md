@@ -26,7 +26,7 @@ All papers should be publicly accessible but are also available upon request.
 [Mark Zachry][mark]
 <br>
 HCII 2024. 
-[Preprint](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+[[Preprint](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
@@ -38,7 +38,7 @@ Placeholder for project info
 [Barbara S. Chaparro][barb] 
 <br>
 HFES 2023.
-[Link](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}
+[[Link](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
@@ -49,7 +49,7 @@ Placeholder for project info
 [Barbara S. Chaparro][barb] 
 <br>
 Frontiers in VR 2023.
-[Link](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}
+[[Link](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
@@ -60,7 +60,7 @@ Placeholder for project info
 [Joseph R. Keebler][keebler]
 <br>
 HFES 2022.
-[Link](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}
+[[Link](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
@@ -72,7 +72,7 @@ Placeholder for project info
 [Barbara S. Chaparro][barb] 
 <br>
 HFES 2022.
-[Link](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}
+[[Link](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
@@ -83,7 +83,7 @@ Placeholder for project info
 [Barbara S. Chaparro][barb] 
 <br>
 Simulation & Gaming 2022.
-[Link](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}
+[[Link](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
@@ -94,7 +94,7 @@ Placeholder for project info
 Brittany S. Wesley 
 <br>
 Beyond: Undergraduate Research Journal 2021.
-[Link](https://commons.erau.edu/beyond/vol5/iss1/2){:target="_blank"}{:rel="noopener noreferrer"}
+[[Link](https://commons.erau.edu/beyond/vol5/iss1/2){:target="_blank"}{:rel="noopener noreferrer"}]
 <br>
 Placeholder for project info
 
