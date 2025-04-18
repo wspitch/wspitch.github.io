@@ -12,9 +12,9 @@ This page is under development (to be updated on 04/22/25).
 &nbsp; [Google Scholar Profile](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"}
 <br>
 
-<h3 id="pubs">
+<h2 id="pubs">
 Publications
-</h3>
+</h2>
 
 All papers should be publicly accessible but are also available upon request.
 
@@ -100,9 +100,9 @@ Placeholder for project info
 -----
 
 
-<h3 id="current">
+<h2 id="current">
 Works in progress / in submission
-</h3>
+</h2>
 
 **How designers envision value-oriented AI design concepts with generative AI** 
 <br>
