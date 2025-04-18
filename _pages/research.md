@@ -7,123 +7,159 @@ author_profile: false
 
 This page is under development (to be updated on 04/22/25).
 
-<br>
 [Publications](#pubs) &nbsp; / 
-&nbsp; [Active Reseach](#active) &nbsp; / 
+&nbsp; [Works in Progress](#current) &nbsp; / 
 &nbsp; [Google Scholar Profile](https://scholar.google.com/citations?user=_RGPf2gAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"}
 <br>
 
-<h2 id="pubs">
+<h3 id="pubs">
 Publications
-</h2>
+</h3>
+
+All papers should be publicly accessible but are also available upon request.
 
 ### ↓ Projects<br><br>
 
-**Human-AI Interaction and Human-Centered AI**
+**Augmenting self-presentation: Augmented reality (AR) filters use among young adults**
+<br>
+[Pitch Sinlapanuntakul][pitch],
+[Mark Zachry][mark]
+<br>
+HCII 2024. 
+[Preprint](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
-↗ Envisioning AI-infiltrated values of design practice (ongoing)<br>
-↗ Impacts of AI on human designers (in submission)<br>
-↗ [Envisioning the future of AI-powered design work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
-
-**HCI and AR-Enhanced Experiences**
-
-↗ [Avatars in video-mediated collaborative interactions (arXiv v.1)](https://doi.org/10.48550/arXiv.2405.03844){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ Motivations for avatar-mediated meetings (MAMM) scale<br>
-↗ [AR filters use among young adults (preprint)](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [UX of a multi-window AR environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Effects of background noise on AR/MR voice dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Effects of AR/MR on video game satisfaction](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}
-
-**Design, UX, and A11Y**
-
-↗ [Authenticity in advanced UX education](https://doi.org/10.1109/ProComm61427.2024.00058){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}<br>
-
-**[Augmenting self-presentation: Augmented reality (AR) filters use among young adults](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}** <br>
-[Pitch Sinlapanuntakul][pitch] and
-[Mark Zachry][mark] <br>
-2024 / HCII <br>
-[Preprint PDF](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}
-
-**[Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**Validation of the GUESS-18 for video game players with disabilities** 
+<br>
 [Carmen Van Ommen][carmen],
 [Pitch Sinlapanuntakul][pitch],
-[Joseph R. Keebler][keebler], and
-[Barbara S. Chaparro][barb] <br>
-2023 / HFES <br>
+[Joseph R. Keebler][keebler],
+[Barbara S. Chaparro][barb] 
+<br>
+HFES 2023.
+[Link](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
-**[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**Exploring the user experience (UX) of a multi-window augmented reality environment** 
+<br>
 [Pitch Sinlapanuntakul][pitch],
-[Jenna Korentsides][jenna], and
-[Barbara S. Chaparro][barb] <br>
-2023 / Frontiers in VR <br>
-[PDF](https://wspitch.github.io/files/UX_Multi-Window_AR.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+[Jenna Korentsides][jenna],
+[Barbara S. Chaparro][barb] 
+<br>
+Frontiers in VR 2023.
+[Link](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
-**[Exploring team competencies in cybersecurity](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**Exploring team competencies in cybersecurity** 
+<br>
 [Pitch Sinlapanuntakul][pitch],
-[Crystal M. Fausett][crystal], and
-[Joseph R. Keebler][keebler] <br>
-2022 / HFES <br>
-[PDF](https://journals.sagepub.com/doi/epdf/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}
+[Crystal M. Fausett][crystal],
+[Joseph R. Keebler][keebler]
+<br>
+HFES 2022.
+[Link](https://doi.org/10.1177/1071181322661496){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
-**[The effects of background noise on user experience and performance of mixed reality voice dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**The effects of background noise on user experience and performance of mixed reality voice dictation** 
+<br>
 [Pitch Sinlapanuntakul][pitch],
 [Katlyn S. Skilton][katlyn],
-[Jose N. Mathew][jose], and
-[Barbara S. Chaparro][barb] <br>
-2022 / HFES <br>
-[PDF](https://journals.sagepub.com/doi/epdf/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}
+[Jose N. Mathew][jose],
+[Barbara S. Chaparro][barb] 
+<br>
+HFES 2022.
+[Link](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
-**[Understanding the effects of mixed reality on video game satisfaction, enjoyment, and performance](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**Understanding the effects of mixed reality on video game satisfaction, enjoyment, and performance** 
+<br>
 [Weerachet "Pitch" Sinlapanuntakul][pitch],
-[Jessyca L. Derby][jess], and
-[Barbara S. Chaparro][barb] <br>
-2022 / Simulation & Gaming <br>
+[Jessyca L. Derby][jess],
+[Barbara S. Chaparro][barb] 
+<br>
+Simulation & Gaming 2022.
+[Link](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
-**[Primacy and recency effects on position error in short-term memory recall](https://commons.erau.edu/beyond/vol5/iss1/2){:target="_blank"}{:rel="noopener noreferrer"}** <br>
+**Primacy and recency effects on position error in short-term memory recall** 
+<br>
 [Weerachet Sinlapanuntakul][pitch],
-[Kelly Harris][kelly], and
-Brittany S. Wesley <br>
-2021 / Beyond: Undergraduate Research Journal <br>
-[PDF](https://commons.erau.edu/cgi/viewcontent.cgi?article=1077&context=beyond){:target="_blank"}{:rel="noopener noreferrer"} <br>
-
-> **Note:** My publications before mid-2022 are listed under my full name, Weerachet Sinlapanuntakul. Moving forward, I have chosen to publish under the name people know me by — Pitch. You may see my references as either Weerachet Sinlapanuntakul, Weerachet "Pitch" Sinlapanuntakul, or Pitch Sinlapanuntakul.
+[Kelly Harris][kelly],
+Brittany S. Wesley 
+<br>
+Beyond: Undergraduate Research Journal 2021.
+[Link](https://commons.erau.edu/beyond/vol5/iss1/2){:target="_blank"}{:rel="noopener noreferrer"}
+<br>
+Placeholder for project info
 
 
 -----
 
 
-<h2 id="active">
-Active Research
-</h2>
+<h3 id="current">
+Works in progress / in submission
+</h3>
 
-### Works in Progress
-
-**Design intuition in AI-augmented design process** <br>
-Apr 2024 - Present <br>
+**How designers envision value-oriented AI design concepts with generative AI** 
+<br>
 with
+[Aayushi Dangol][aayushi],
+Xiaoyi Xue,
+Srushti Sardeshmukh,
 [Mark Zachry][mark]
+<br>
+Placeholder for project info
 
-**AI and value sensitive design** <br>
-Apr 2024 - Present <br>
+**Toward design guidelines for early companion-like interactions with AI chatbots** 
+<br>
 with
+[Soobin Cho][soobin],
+[Anna Lindner][anna],
+[Joseph S. Schafer][joey],
+[Julie A. Vera][julie],
 [Mark Zachry][mark]
+<br>
+Placeholder for project info
+
+**AI companions and a new user-system relationship: User interaction patterns with Replika** 
+<br>
+with
+[Soobin Cho][soobin],
+[Mark Zachry][mark],
+Adrienne Russell
+<br>
+Placeholder for project info
 
 
 
 
 
+
+
+
+
+
+[aayushi]: https://adango26.github.io
 [andy]: https://linkedin.com/in/soohyunmoon
+[anna]: https://www.linkedin.com/in/anna-lindner-67ab21178/
 [connie]: https://linkedin.com/in/connie-hyyang
 [donghoon]: https://donghoon.io
 [emma]: https://ej-mcdonnell.github.io
+[joey]: http://students.washington.edu/schaferj/
 [jon]: https://jonfroehlich.github.io
+[julie]: https://julievera.github.io/
 [kate]: https://kateringland.com
 [keri]: https://keri.xyz
 [leah]: https://hcde.washington.edu/findlater
 [mark]: https://hcde.washington.edu/zachry
 [pitch]: https://wspitch.github.io
+[soobin]: https://5oobin.github.io/website/
 [sophie]: https://linkedin.com/in/sophieparkdesign
 [tessa]: https://tessaeagle.github.io
 
@@ -137,3 +173,10 @@ with
 [katlyn]: https://linkedin.com/in/katlyn-skilton
 [keebler]: https://faculty.erau.edu/Joseph.Keebler
 [kelly]: https://linkedin.com/in/kellyjuneharris
+
+
+[erau]: https://daytonabeach.erau.edu
+[hcde]: https://hcde.washington.edu
+[hf]: https://daytonabeach.erau.edu/college-arts-sciences/human-factors
+[rux]: https://daytonabeach.erau.edu/about/labs/research-user-experience
+[uw]: https://washington.edu
