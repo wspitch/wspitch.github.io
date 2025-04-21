@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd-year PhD student, advised by [Mark Zachry, PhD][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My current research focuses on understanding and supporting design for human-centered AI, often drawing from mixed-methods (i.e., experimental and qualitative) and design research approaches.
+I'm a 3rd-year PhD candidate, advised by [Mark Zachry, PhD][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My current research focuses on understanding and supporting design for human-centered AI, often drawing from mixed-methods (i.e., experimental and qualitative) and design research approaches.
 
 Previously, I led user research studies on AR interfaces and interactions, including the use of AR headsets, screen-based avatars, and filters for mediated interactions and experiences.
 
@@ -45,6 +45,7 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 ### Recent News
 
+Apr 2025, passed my general exam - now a Ph.D. candidate!<br>
 Mar 2024, received an M.S. in HCDE (concurrent with Ph.D.)<br>
 Nov 2023, presented and passed my preliminary exam<br>
 Jun 2023, finished the first year of my Ph.D.<br>
