@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd-year PhD candidate, advised by [Mark Zachry, PhD][mark], in [Human Centered Design & Engineering][hcde] (HCDE) at the [University of Washington][uw]. My current research focuses on understanding and supporting design for human-centered AI, often drawing from mixed-methods (i.e., experimental and qualitative) and design research approaches.
+I'm a 3rd-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark]. My research investigates the evolving relationship between AI and design, with a focus on how we can create more human-centered AI solutions through purposeful design practices. I explore this intersection through (1) understanding and expanding the design's critical role in early-stages of AI development and (2) developing a design toolkit to support such process, leveraging mixed methods (i.e., experimental and qualitative) and design research approaches. My work engages with broader questions related to design for/with AI, value sensitive design, and materiality.
 
-Previously, I led user research studies on AR interfaces and interactions, including the use of AR headsets, screen-based avatars, and filters for mediated interactions and experiences.
+Previously, I led user research studies on AR interfaces and interactions, including how AR headsets, screen-based avatars, and filters shape mediated interactions and experiences.
 
-I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of interaction methods in/with AR. Sponsored by a Top Fortune 100 Tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit's comprehensiveness in assessing product design impressions.
+I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 100 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
 
-Please reach out to discuss possible collaboration/internship opportunities 🖤
+Actively seeking collaboration and internship opportunities. Please reach out to discuss how we might work together 🖤
 
 -----
 
@@ -45,12 +45,11 @@ Please reach out to discuss possible collaboration/internship opportunities 🖤
 
 ### Recent News
 
-Apr 2025, passed my general exam - now a Ph.D. candidate!<br>
-Mar 2024, received an M.S. in HCDE (concurrent with Ph.D.)<br>
-Nov 2023, presented and passed my preliminary exam<br>
-Jun 2023, finished the first year of my Ph.D.<br>
-Oct 2022, presented 2 posters at the 66th HFES annual conference<br>
-Sep 2022, started my Ph.D. in HCDE at the University of Washington<br>
+04/2025, passed my general exam - now a Ph.D. candidate!<br>
+03/2024, received an M.S. in HCDE (concurrent with Ph.D.)<br>
+11/2023, presented and passed my preliminary exam<br>
+10/2022, presented 2 posters at the 66th HFES annual conference<br>
+09/2022, started my Ph.D. in HCDE at the University of Washington<br>
 
 -----
 
