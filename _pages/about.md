@@ -12,7 +12,7 @@ I'm a 3rd-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcd
 
 Previously, I led user research studies on AR interfaces and interactions, including how AR headsets, screen-based avatars, and filters shape mediated interactions and experiences.
 
-I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 100 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
+I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 10 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
 
 Actively seeking collaboration and internship opportunities. Please reach out to discuss how we might work together 🖤
 
