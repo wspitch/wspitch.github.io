@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark]. My research investigates the evolving relationship between AI and design, with a focus on how we can create more human-centered AI solutions through purposeful design practices. I explore this intersection through (1) understanding and expanding the design's critical role in early-stages of AI development and (2) developing a design toolkit to support such process, leveraging mixed methods (i.e., experimental and qualitative) and design research approaches. My work engages with broader questions related to design for/with AI, value sensitive design, and materiality.
+I'm a 3rd-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark]. This summer, I will be joining [Teak Research][teak] as a design research intern and [MHCI+D][mhcid] as a capstone studio teaching assistant.
 
-Previously, I led user research studies on AR interfaces and interactions, including how AR headsets, screen-based avatars, and filters shape mediated interactions and experiences.
+My research investigates the evolving relationship between AI and design, with a focus on how we can create more human-centered AI solutions through purposeful design practices. I explore this intersection through (1) understanding and expanding the design's critical role in early-stages of AI development and (2) developing a design toolkit to support such process, leveraging mixed methods (i.e., experimental and qualitative) and design research approaches. My work engages with broader questions related to design for/with AI, value sensitive design, and materiality.
 
-I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 10 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
+Previously, I led user research studies on AR interfaces and interactions, including how AR headsets, screen-based avatars, and filters shape mediated interactions and experiences. I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 10 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
 
 Actively seeking collaboration and internship opportunities. Please reach out to discuss how we might work together 🖤
 
@@ -67,7 +67,9 @@ Actively seeking collaboration and internship opportunities. Please reach out to
 [erau]: https://daytonabeach.erau.edu
 [hcde]: https://hcde.washington.edu
 [hf]: https://daytonabeach.erau.edu/college-arts-sciences/human-factors
+[mhcid]: https://mhcid.uw.edu/
 [rux]: https://daytonabeach.erau.edu/about/labs/research-user-experience
+[teak]: https://teakresearch.com/
 [uw]: https://washington.edu
 
 
