@@ -5,7 +5,11 @@ permalink: /teaching/
 author_profile: false
 ---
 
-Below is the list of courses I have TAed at the University of Washington.
+Below is the list of courses I have instructed/TAed at the University of Washington.
+
+**HCID 590: Design, Use, Build Seminar** (2025 Fall, 2026 Winter, 2026 Spring)
+<br>
+Engages students with contemporary research, design, and practice in HCI, using DUB seminar talks, student-led fireside chats, and hands-on design workshops/sprints to encourage critical reflection and applied learning of practical, social, and ethical considerations in research, technology, and design decisions.
 
 **HCID 541: Capstone Studio** (2025 Summer, 2024 Summer)
 <br>
