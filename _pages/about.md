@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4th-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark].
+I'm a 4th-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark]. My research explores human-centered AI + design innovation, investigating how designers envision, reflect on, and negotiate human and societal values in early-stage AI concept development. I study and design mechanisms that support value-oriented design in the age of AI, ultimately aiming to create empirical, practical, and human-centered responses/approaches that empower designers and AI product teams to design more responsibly and imaginatively.
 
-My research investigates how designers envision, reflect on, and surface and negotiate human and societal values in early-stage AI concept development, exploring mechanisms that support value-oriented design in the age of AI. Through understanding, designing, and evaluating processes + mechanisms that help designers integrate human values into AI concepts, I aim to create practical, human-centered responses that empower designers and AI product teams. 
+Currently, my projects focus on: (1) envisioning practices of AI concepts with AI; (2) creating a value-focused toolkit to support AI concept reflection; and (3) developing design principles for preventing harmful applications in AI concept development. My work bridges qualitative, quantitative, and design research methods to uncover insights that inform human-centered AI design strategies. My thinking is broadly shaped by questions around design for/with AI, value sensitive design, and materiality.
 
-My human-centered AI + design innovation projects currently focus on (1) the envisioning practices of AI concepts with AI, (2) creating a value-focused toolkit to support AI concept reflection, and (3) developing design principles to prevent harmful applications in AI concept development. While my work leverages qualitative, quantitative, and design research methods to uncover insights that inform human-centered design strategies, my thinking is broadly shaped by questions related to design for/with AI, value sensitive design, and materiality.
+Before my current PhD work, I led user research on AR interfaces and interactions, examining how AR headsets, systems UI, avatars, and filters shape mediated experience. I hold a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau], where I worked with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux]. There, I conducted experiments on AR usability and UX, and collaborated with a Top Fortune 10 tech company to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
 
-Previously, I led user research studies on AR interfaces and interactions, including how AR headsets, screen-based avatars, and filters shape mediated interactions and experiences. I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 10 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
-
-Actively seeking summer 2026 internship opportunities. Please reach out to discuss how we might work together 🖤
+I'm actively seeking Summer 2026 internship opportunities – please reach out if you'd like to collaborate 🖤
 
 -----
 
