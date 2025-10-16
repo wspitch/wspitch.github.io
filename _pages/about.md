@@ -8,38 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark]. This summer, I will be joining [Teak Research][teak] as a design research intern and [MHCI+D][mhcid] as a capstone studio teaching assistant.
+I'm a 4th-year PhD candidate in [Human Centered Design & Engineering (HCDE)][hcde] at the [University of Washington][uw], advised by [Mark Zachry, PhD][mark].
 
-My research investigates the evolving relationship between AI and design, with a focus on how we can create more human-centered AI solutions through purposeful design practices. I explore this intersection through (1) understanding and expanding the design's critical role in early-stages of AI development and (2) developing a design toolkit to support such process, leveraging mixed methods (i.e., experimental and qualitative) and design research approaches. My work engages with broader questions related to design for/with AI, value sensitive design, and materiality.
+My research investigates how designers envision, reflect on, and surface and negotiate human and societal values in early-stage AI concept development, exploring mechanisms that support value-oriented design in the age of AI. Through understanding, designing, and evaluating processes + mechanisms that help designers integrate human values into AI concepts, I aim to create practical, human-centered responses that empower designers and AI product teams. 
+
+My human-centered AI + design innovation projects currently focus on (1) the envisioning practices of AI concepts with AI, (2) creating a value-focused toolkit to support AI concept reflection, and (3) developing design principles to prevent harmful applications in AI concept development. While my work leverages qualitative, quantitative, and design research methods to uncover insights that inform human-centered design strategies, my thinking is broadly shaped by questions related to design for/with AI, value sensitive design, and materiality.
 
 Previously, I led user research studies on AR interfaces and interactions, including how AR headsets, screen-based avatars, and filters shape mediated interactions and experiences. I have a B.S. in [Human Factors Psychology][hf] from [Embry-Riddle Aeronautical University][erau]. There, I worked closely with [Barbara S. Chaparro, PhD][barb] in the [RUX Lab][rux] to conduct experiments on UX and usability of AR interaction methods. Sponsored by a Top Fortune 10 tech company, I worked on a team to evaluate perceived comfort with smart product materials and validate a toolkit for assessing product design impressions.
 
-Actively seeking collaboration and internship opportunities. Please reach out to discuss how we might work together 🖤
-
------
-
-### ↓ Projects<br><br>
-
-**Human-AI Interaction and Human-Centered AI**
-
-↗ Envisioning AI-infiltrated values of design practice (ongoing)<br>
-↗ Impacts of AI on human designers (in submission)<br>
-↗ [Envisioning the future of AI-powered design work](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work){:target="_blank"}{:rel="noopener noreferrer"}
-
-**HCI and AR-Enhanced Experiences**
-
-↗ [Avatars in video-mediated collaborative interactions (arXiv v.1)](https://doi.org/10.48550/arXiv.2405.03844){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ Motivations for avatar-mediated meetings (MAMM) scale<br>
-↗ [AR filters use among young adults (preprint)](https://wspitch.github.io/files/Augmenting-Self-Presentation.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [UX of a multi-window AR environment](https://doi.org/10.3389/frvir.2023.1194019){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Effects of background noise on AR/MR voice dictation](https://doi.org/10.1177/1071181322661376){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Effects of AR/MR on video game satisfaction](https://doi.org/10.1177/10468781221094473){:target="_blank"}{:rel="noopener noreferrer"}
-
-**Design, UX, and A11Y**
-
-↗ [Authenticity in advanced UX education](https://doi.org/10.1109/ProComm61427.2024.00058){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Characterizing user-driven captioning practices on TikTok](https://doi.org/10.1145/3613904.3642177){:target="_blank"}{:rel="noopener noreferrer"}<br>
-↗ [Validation of the GUESS-18 for video game players with disabilities](https://doi.org/10.1177/21695067231196247){:target="_blank"}{:rel="noopener noreferrer"}<br>
+Actively seeking summer 2026 internship opportunities. Please reach out to discuss how we might work together 🖤
 
 -----
 
