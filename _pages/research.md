@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-This page is under development (to be updated on 04/26/25).
+This page is under development (to be updated on 10/20/25).
 
 [Publications](#pubs) &nbsp; / 
 &nbsp; [Works in Progress](#current) &nbsp; / 
@@ -109,28 +109,15 @@ Works in progress / in submission
 with
 [Aayushi Dangol][aayushi],
 Xiaoyi Xue,
-Srushti Sardeshmukh,
 [Mark Zachry][mark]
 <br>
-Envisioning new product concepts requires balancing creativity, functionality, user needs, and human values. The integration of AI adds complexity, positioning it both as a tool and design material. We engaged 18 design practitioners in a design challenge (i.e., sketching AI solutions while using AI) and semi-structured interviews. We identify and discuss key challenges designers face in navigating AI’s dual role as both a medium and a material when envisioning AI concepts toward human values at the early stages of design.
-
-**Toward design guidelines for early companion-like interactions with AI chatbots** 
-<br>
-with
-[Soobin Cho][soobin],
-[Anna Lindner][anna],
-[Joseph S. Schafer][joey],
-[Julie A. Vera][julie],
-[Mark Zachry][mark]
-<br>
-As LLMs enable increasingly companion-like AI interactions, there is a growing need to understand how to design for emotionally resonant, casual encounters. We conducted a 10-day collaborative autoethnography interacting with AI companions, translated our experiences into initial guidelines, and refined them through a systematic heuristic evaluation with evaluators. This process resulted in 18 design guidelines that address key aspects of early user-AI interaction, including persona, syntax, interaction style, expression content, feedback, and safety.
+Envisioning new product concepts requires balancing creativity, functionality, user needs, and human values. The integration of AI adds complexity, positioning it both as a tool and design material. We engaged 18 design practitioners in a design challenge (i.e., ideating AI solutions while using AI) and semi-structured interviews. We identify and discuss key challenges designers face in navigating AI’s dual role as both a medium and a material when envisioning AI concepts toward human values at the early stages of design.
 
 **AI companions and a new user-system relationship: User interaction patterns with Replika** 
 <br>
 with
 [Soobin Cho][soobin],
-[Mark Zachry][mark],
-Adrienne Russell
+[Mark Zachry][mark]
 <br>
 Advancements in LLMs have driven the growth and development of AI companions that offer emotional support and companionship, distinct from traditional assistive AI systems. To explore these emerging user-system relationships, we conducted an online observation of 68 posts and 1,967 comments from Reddit’s Replika subreddit. Our analysis reveals five key relational characteristics, offering insights into how AI companions may represent a new, hybrid form of user-AI interaction in digital companionship.
 
