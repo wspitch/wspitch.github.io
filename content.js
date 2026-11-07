@@ -1,6 +1,6 @@
 // Edit homepage and About copy here. Edit card details in projects.js and long-form cases in content/projects/*.md.
 window.portfolioContent = {
-  // CHANGE ME: the one place the contact email lives (footer EMAIL button and the "Say hello." link).
+  // The one place the contact email lives (footer EMAIL button and the "Say hello." link).
   "email": "wspitch@uw.edu",
   "home": {
     "title": "Pitch Sinlapanuntakul",
