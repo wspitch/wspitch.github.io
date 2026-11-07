@@ -1,51 +1,38 @@
-# Note-To-Self
+# Pitch Sinlapanuntakul — portfolio
 
-[wspitch.github.io](https://wspitch.github.io)
+This portfolio is being prepared in the local `portfolio-redesign` branch of the `wspitch.github.io` repository. **It has not been pushed or published.** Edit the local clone, preview it, and review the resulting changes before publishing.
 
-**Change avatar picture on the sidebar**
-- upload to /images and name it profile.png
-- check _config.yml
+## Where to edit
 
-**Change display picture for tab preview**
-- step 1 placeholder
-- step 2 placeholder
+- `content.js`: homepage name and introduction, Research Experience placeholders, About heading and paragraphs.
+- `projects.js`: card titles, descriptions, image paths, route, order, and grouping. All seven portfolio cases are in `selected`; `sandbox` holds the etc cards.
+- `content/projects/<id>.md`: long-form project writing, metadata, and media placeholders. Each project has an HTML shell at the matching route. Markdown `##` and `###` headings become sections and subtitles; `- ` starts a list; inline `**bold**`, `*italic*`, and `[link](URL)` are supported. `## At a glance` entries formatted as `**Role.** value` render as a label/value stack. Draft comments remain in the Markdown but are hidden on the page.
+- `assets/`: add project photos, diagrams, or videos here. Use `![Alt description](assets/photo.jpg)` for an image or `[Video: Walkthrough](assets/demo.mp4)` for a video. To use a cover, set the project file’s `hero:` to `assets/cover.jpg` and optionally add `heroAlt: A concise description of the image.` For a project card image, change that entry’s `image` in `projects.js`.
+- `about.html`: About photo-strip file paths and alt text. The strip repeats the same six photos to scroll continuously; update both sets of `src` values when replacing them.
+- `site.js`, `styles.css`, and `project-page.js`: shared navigation/footer, page layout and typography, and Markdown rendering. Change these only when adjusting shared behavior or visual design.
 
-**House keeping**
-- update recent news and friend list in _pages/about.md
-- update pubs and write about research areas in _pages/research.md
-- update teaching in Aut 2023 in _pages/teaching.md
-- update CV every 2-3 months by loading to /files as Pitch_Sinlapanuntakul_CV.pdf
+## Current project files
 
------
+Selected Projects: `abacus.md`, `values.md`, `fortune-toolkit.md`, `fortune-materials.md`, `mr-ar.md`, `anatomyx.md`, and `botnoi.md`.
+Etc pages: `design-jam.md` and `teaching.md`.
 
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+The previous project pages have been removed from this branch; the sitemap lists all seven Selected Projects and both etc subpages.
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+## Remaining content items before publishing
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+- Project cover and body-image placeholders remain until you provide approved images. The NDA project placeholder descriptions are kept as supplied.
+- The About photo strip still uses the previously imported Mingjin photos. Replace them with your own photos and update their alt text before publishing.
+- The resume link in the footer remains inactive because the supplied resume URL is `XXXXXXXXXXX`, not a usable link. Send the real resume URL when ready.
+- Confirm the names, dates, roles, research claims, publication details, and text for public use, especially the two pages marked under NDA.
 
-# Instructions
+## Preview locally
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+From the repository root, run `python3 -m http.server 8000`, then open `http://localhost:8000`. Use a local web server rather than opening `index.html` directly, so the browser can fetch project Markdown files. Press Control-C in Terminal to stop the server.
 
-See more info at https://academicpages.github.io/
+## Upload and publish with GitHub online (when ready)
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+The ZIP is a bundle of site files; GitHub does not publish a ZIP directly. Extract it first, then upload the extracted files and folders into the **root** of the `wspitch/wspitch.github.io` repository (so `index.html`, `.nojekyll`, and `sitemap.xml` are at the top level). Commit the upload in GitHub. In the repository’s **Settings → Pages**, select deployment from the `main` branch and `/ (root)` if that is the branch you uploaded to. GitHub Pages then serves the site at `https://wspitch.github.io/`.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+The site includes page titles and descriptions, canonical URLs, Open Graph/Twitter metadata, structured data, `robots.txt`, `sitemap.xml`, favicon files, and a social preview. After it is live, confirm the pages load, then submit `https://wspitch.github.io/sitemap.xml` in Google Search Console. These files make the site crawlable and describe it to search engines; indexing, rankings, and traffic depend on Google’s crawling and relevance systems and are not guaranteed.
 
-# Changelog -- bugfixes and enhancements
-
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
-
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+The repository root includes page titles and descriptions, canonical URLs, Open Graph/Twitter metadata, structured data, `robots.txt`, `sitemap.xml`, a PNG favicon, SVG icon, web manifest, and social preview image.

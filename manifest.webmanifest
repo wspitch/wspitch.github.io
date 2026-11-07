@@ -1,0 +1,12 @@
+{
+  "name": "Pitch Sinlapanuntakul",
+  "short_name": "Pitch",
+  "description": "Product research portfolio of Pitch Sinlapanuntakul.",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#f8f8f8",
+  "theme_color": "#f8f8f8",
+  "icons": [
+    { "src": "/assets/site-icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
