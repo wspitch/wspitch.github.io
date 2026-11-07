@@ -24,7 +24,7 @@ Eighteen designers, each with at least two years of experience and prior use of 
 I kept it narrow on purpose, with one value and a short session, so I could watch what happened to a single value. That choice also hid how designers handle several values at once, and the paper says so.
 
 ## What surprised me
-Designers struggled to say what a value should look like in a product, yet they could tell when an AI suggestion felt wrong. Sixteen of 18 couldn't turn a value into features, but one said: *"I couldn't articulate exactly why, but I knew it wasn't right."* That unease was more specific than any value statement I'd collected.
+Designers struggled to say what a value should look like in a product, yet they could tell when an AI suggestion felt wrong. Sixteen of 18 couldn't turn a value into features. Yet they could tell when something was off. One said: *"I couldn't articulate exactly why, but I knew it wasn't right."* That unease was more specific than any value statement I'd collected.
 
 The second surprise was how convincing the AI was. Thirteen of 18 accepted suggestions because they sounded technical and matched the value. One designer said they ended up *"essentially letting one AI define the possibilities for another AI I was trying to design."* Most people chose efficiency, which is the value generative AI serves most fluently, and their sketches converged on similar workflow automation. The designers who stopped to question a suggestion found more problems.
 
@@ -33,9 +33,9 @@ The toolkit has three parts: an AI Capability Library, 24 Value-Harm Cards, and 
 
 > Image placeholder: Value-Harm Cards and Value-Tension Map
 
-The first version was a standalone website. I tested it with 30 designers. They rated it very useful (6.47 out of 7), but their likelihood to actually adopt it lagged (5.57), and 26 of 30 hesitated about leaving the tools they already worked in. They liked it and still wouldn't open it. So I rebuilt it inside FigJam and published it on the Figma Community, with a print PDF for workshops.
+The first version was a standalone website. I tested it with 30 designers. They rated it very useful (6.47 out of 7), but their likelihood to actually adopt it lagged (5.57), and 26 of 30 hesitated about leaving the tools they already worked in. They liked it, and still might not open it. So I rebuilt it inside FigJam and published it on the Figma Community, with a print PDF for workshops.
 
-I'd also given the cards numeric sliders, assuming that putting numbers on values would help. It didn't. 21 of 30 said the numbers felt arbitrary. As one put it, what's the difference between a 5 and a 6 on Trust? I removed the sliders and let discussion do the work.
+I'd also given the cards numeric sliders, assuming that putting numbers on values would help. It didn't. Twenty-one of 30 said the numbers felt arbitrary. As one put it, what's the difference between a 5 and a 6 on Trust? I removed the sliders and let discussion do the work.
 
 I tested the redesign with 12 designers across two design briefs, thinking aloud. Those who saw harm cues early made more substantive changes to their concepts than those who saw them late (3.26 vs. 1.84 on average). That's why the toolkit asks about harm at the start of a concept, not at review.
 

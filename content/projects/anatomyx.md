@@ -33,8 +33,7 @@ The expert evaluation and the user test agreed on the biggest problems: tutorial
 Between the expert review and ten sessions, we ended up with a long list of issues, and the easy move was to report all of them. I wanted the app's team to know where to start, so I proposed a simple rule: problems that both the expert evaluation and the user test found, and problems that stopped people from finishing a task, went first. Everything else went in the full log. That kept the conversation on the rule instead of on each individual issue.
 
 ## Impact
-- I led the project end to end, from the evaluation plan to the final recommendations.
-- A ranked shortlist, not a long list, in three areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
+- A ranked shortlist, not a long list, from the evaluation plan through to the final recommendations, in three areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
 - A baseline to beat. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With ten participants, I'd read both as directional.
 
 ## What I'd do differently

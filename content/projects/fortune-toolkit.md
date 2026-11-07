@@ -14,7 +14,7 @@ heroAlt: A redacted word list showing words kept, cut and added
 **The decision.** Which words stay in a company-wide tool for measuring how people see its products.
 
 ## A note on this page
-This work is under NDA, so the company, products, and most of the numbers are blacked out. What I can share is the question, the way we answered it, and what I learned from it. I'm happy to walk through more in conversation.
+This work is under NDA, so the company and products are not named. What I can share is the question, the way we answered it, and what I learned from it. I'm happy to walk through more in conversation.
 
 ## Why a word list matters
 Teams used the list to understand how people felt about the company's hardware and the company behind it. It had been built from product literature, ads, and customer reviews, which is how companies talk about products, not how customers do. A weak word quietly bends every study that uses it, so one bad word gets paid for many times over.
@@ -30,12 +30,12 @@ We set the removal rules before we saw any results, so decisions would follow cr
 Teams across the company relied on the list, so a removal was a change to their tools. Each cut needed a reason someone could accept without having been in the room. We wrote a rationale for every word, and because the rules were set before the results, we could show stakeholders why, not just what.
 
 <!-- DRAFT: replace with what actually happened, or delete -->
-The cut that got the most discussion was the most-used word we removed. It showed up everywhere in past results, so the worry was reasonable: would removing it break comparisons with older studies? I didn't argue that the word was bad. I showed how people actually used it, as "it works" for some and "it does many things" for others, and offered a simple note in future reports about what changed, so anyone comparing across lists would know.
+The cut that got the most discussion was the most-used word we removed. It showed up everywhere in past results, so the worry was reasonable: would removing it break comparisons with older studies? I didn't argue that the word was bad. I showed how people actually used it (the details are under "What the data said") and offered a simple note in future reports about what changed, so anyone comparing across lists would know.
 
 ## What the data said
-The list mostly held up. Participants used 99% of the words, so 94 of 108 stayed.
+The list mostly held up. Participants used 99% of the words, and 94 of the 108 stayed.
 
-The surprises were in the words that didn't. Some words nobody picked, and some confused a lot of people, including a playful, food-related one that ranked as the most confusing word on the list. Another word was much more interesting. It was among the most-used words, and we still removed it. When we read how people used it, it meant "it works" to some and "it does many things" to others, so it told us nothing. Popular didn't mean useful.
+The surprises were in the words that didn't. Some words nobody picked, and some confused a lot of people, including a playful, food-related one that ranked as the most confusing word on the list. The most interesting case was a word among the most used, which we still removed. When we read how people used it, it meant "it works" to some and "it does many things" to others, so it told us nothing. Popular didn't mean useful.
 
 In the end we removed 14 words, each with a written rationale, and added 5 that several people suggested independently. We skipped one-off phrasing.
 

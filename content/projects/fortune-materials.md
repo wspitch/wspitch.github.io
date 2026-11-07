@@ -36,4 +36,4 @@ Age added a twist. Older participants were more worried about safety, but they t
 - I presented the results to stakeholders across research, design, engineering, and product.
 
 ## What I'd do differently
-Two things bothered me. On one material, the placement of the temperature sensor pushed people to touch the surface in an unnatural way. And everyone did the cooler room first and the warmer room second, so order and room temperature were tangled together. In the ceramic study, participants also had to imagine a device instead of holding one. Next time I'd match the setup to real touch, counterbalance the room conditions, and add a follow-up that feels more like home.
+Two things bothered me. On one material, the placement of the temperature sensor pushed people to touch the surface in an unnatural way. And everyone did the cooler room first and the warmer room second, so order and room temperature were tangled together. In one study, participants also had to imagine a device instead of holding one. Next time I'd match the setup to real touch, counterbalance the room conditions, and add a follow-up that feels more like home.
