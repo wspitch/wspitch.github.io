@@ -63,11 +63,6 @@
     for (const piece of item.heroOrder || ['eyebrow','title','meta','lead','hero']) if (pieces[piece]) opening.append(pieces[piece]);
     host.append(opening);
     renderSections(item.sections);
-    if (item.source) {
-      const ref = document.createElement('p'); ref.className = 'case-source';
-      ref.append(document.createTextNode('Reference: '));
-      const link = makeText('a','body-link','Mingjin’s original page ↗'); link.href = item.source; link.target='_blank'; link.rel='noopener noreferrer'; ref.append(link); host.append(ref);
-    }
     const back = makeText('a','back-link',cardData.route.startsWith('sandbox/') ? '← Back to etc' : '← Back to Selected Projects');
     back.href = root + (cardData.route.startsWith('sandbox/') ? 'sandbox.html' : 'index.html#work'); host.append(back);
   }

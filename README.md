@@ -8,7 +8,7 @@ This portfolio is being prepared in the local `portfolio-redesign` branch of the
 - `projects.js`: card titles, descriptions, image paths, route, order, and grouping. All seven portfolio cases are in `selected`; `sandbox` holds the etc cards.
 - `content/projects/<id>.md`: long-form project writing, metadata, and media placeholders. Each project has an HTML shell at the matching route. Markdown `##` and `###` headings become sections and subtitles; `- ` starts a list; inline `**bold**`, `*italic*`, and `[link](URL)` are supported. `## At a glance` entries formatted as `**Role.** value` render as a label/value stack. Draft comments remain in the Markdown but are hidden on the page.
 - `assets/`: add project photos, diagrams, or videos here. Use `![Alt description](assets/photo.jpg)` for an image or `[Video: Walkthrough](assets/demo.mp4)` for a video. To use a cover, set the project file’s `hero:` to `assets/cover.jpg` and optionally add `heroAlt: A concise description of the image.` For a project card image, change that entry’s `image` in `projects.js`.
-- `about.html`: About photo-strip file paths and alt text. The strip repeats the same six photos to scroll continuously; update both sets of `src` values when replacing them.
+- `about.html`: About photo-strip file paths and alt text. The strip repeats the same photos to scroll continuously; update both sets of `src` values when adding them.
 - `site.js`, `styles.css`, and `project-page.js`: shared navigation/footer, page layout and typography, and Markdown rendering. Change these only when adjusting shared behavior or visual design.
 
 ## Current project files
@@ -21,7 +21,7 @@ The previous project pages have been removed from this branch; the sitemap lists
 ## Remaining content items before publishing
 
 - Project cover and body-image placeholders remain until you provide approved images. The NDA project placeholder descriptions are kept as supplied.
-- The About photo strip still uses the previously imported Mingjin photos. Replace them with your own photos and update their alt text before publishing.
+- The About photo strip is hidden until you add your own photos (`assets/about/01.jpg` onward). Add the tiles in `about.html`, repeat the set once for the scroll loop, then remove the `hidden` attribute on that section.
 - The resume link in the footer remains inactive because the supplied resume URL is `XXXXXXXXXXX`, not a usable link. Send the real resume URL when ready.
 - Confirm the names, dates, roles, research claims, publication details, and text for public use, especially the two pages marked under NDA.
 
