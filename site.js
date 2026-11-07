@@ -2,6 +2,7 @@
   const page = document.body.dataset.page || '';
   const root = document.body.dataset.root || '';
   const content = window.portfolioContent;
+  const email = content?.email || '';
   const addText = (parent, tag, className, value) => {
     const node = document.createElement(tag);
     if (className) node.className = className;
@@ -25,6 +26,17 @@
     const title = document.querySelector('[data-home-title]');
     const intro = document.querySelector('[data-home-intro]');
     const list = document.querySelector('[data-experience-list]');
+    const availability = document.querySelector('[data-home-availability]');
+    if (availability) {
+      if (content.home.availability) {
+        availability.textContent = content.home.availability;
+        if (content.email) {
+          availability.append(document.createTextNode(' '));
+          const hello = document.createElement('a'); hello.className = 'body-link'; hello.href = `mailto:${content.email}`; hello.textContent = 'Say hello.';
+          availability.append(hello);
+        }
+      } else availability.hidden = true;
+    }
     if (title) title.textContent = content.home.title;
     if (intro) intro.textContent = content.home.intro;
     if (list) content.home.experience.forEach(item => {
@@ -90,10 +102,10 @@
   emailButton?.addEventListener('click',async()=>{
     const status=document.querySelector('.copy-status');
     let copied=false;
-    try{await navigator.clipboard.writeText('wspitch@uw.edu');copied=true}catch{
-      const input=document.createElement('textarea');input.value='wspitch@uw.edu';input.setAttribute('readonly','');input.style.position='fixed';input.style.opacity='0';document.body.append(input);input.select();try{copied=document.execCommand('copy')}catch{}input.remove();
+    try{await navigator.clipboard.writeText(email);copied=true}catch{
+      const input=document.createElement('textarea');input.value=email;input.setAttribute('readonly','');input.style.position='fixed';input.style.opacity='0';document.body.append(input);input.select();try{copied=document.execCommand('copy')}catch{}input.remove();
     }
-    if(status)status.textContent=copied?'Copied':'Copy failed. Email: wspitch@uw.edu';
+    if(status)status.textContent=copied?'Copied':`Copy failed. Email: ${email}`;
     const sticker=document.querySelector('.cursor-sticker');
     if(copied&&sticker&&emailButton.matches(':hover'))sticker.textContent='copied';
   });

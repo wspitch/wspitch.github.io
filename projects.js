@@ -36,7 +36,7 @@ window.projectData = {
       "image": "assets/project-blink.svg",
       "description": "How warm is too warm to touch? Lab studies behind material decisions on smart-home hardware, with every number redacted.",
       "route": "fortune-materials.html",
-      "order": 1,
+      "order": 4,
       "accent": "#dac4b4",
       "note": "(NDA)"
     },
@@ -46,7 +46,7 @@ window.projectData = {
       "image": "assets/project-sandbox-1.svg",
       "description": "Voice and hand interaction in mixed and augmented reality. Two published HoloLens 2 studies that landed on the same problem: people couldn't tell what the system was doing.",
       "route": "mr-ar.html",
-      "order": 2,
+      "order": 5,
       "accent": "#c4c2de"
     },
     {
@@ -55,7 +55,7 @@ window.projectData = {
       "image": "assets/project-sandbox-2.svg",
       "description": "A mixed reality anatomy app, a beautiful body, and hands that couldn't quite grab it. I led a heuristic evaluation and user test on HoloLens 2.",
       "route": "anatomyx.html",
-      "order": 3,
+      "order": 6,
       "accent": "#c5d2d8"
     },
     {
@@ -64,7 +64,7 @@ window.projectData = {
       "image": "assets/project-sandbox-3.svg",
       "description": "What I learned setting up UX research for two AI voice products, with a handbook, five mentored interns, and workshops on who a feature could help or harm.",
       "route": "botnoi.html",
-      "order": 4,
+      "order": 7,
       "accent": "#ded4bb",
       "note": "(Internship)"
     }
