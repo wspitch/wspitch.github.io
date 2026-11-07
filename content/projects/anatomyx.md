@@ -3,7 +3,8 @@ title: A mixed reality anatomy app, and hands that couldn't quite grab it
 eyebrow: PROJECT LEAD, RESEARCH IN USER EXPERIENCE LAB
 meta: Led the research end to end · Five-person team with a faculty advisor · Heuristic evaluation and usability test on HoloLens 2
 lead: A mixed reality anatomy app can show a student a body they could never hold in class, if the student can work the controls. I led the research end to end, an expert heuristic evaluation and a ten-person usability test on HoloLens 2, and we turned both into a ranked list of what to fix first.
-hero: Add a project cover image
+hero: assets/projects/anatomyx/cover.jpg
+heroAlt: The AnatomyX eye model viewed in HoloLens 2
 ---
 
 ## At a glance

@@ -159,7 +159,7 @@
       const video=document.createElement('video'); video.src=src; video.controls=true; video.preload='metadata'; video.setAttribute('aria-label',alt || 'Project video'); figure.append(video); return figure;
     }
     const figure=document.createElement('div'); figure.className='media-slot media-slot--image media-slot--filled';
-    const img=document.createElement('img'); img.src=src; img.alt=alt || ''; img.loading='lazy'; figure.append(img); return figure;
+    const img=document.createElement('img'); img.src=src; img.alt=alt || ''; img.loading='lazy'; img.addEventListener('error',()=>figure.replaceWith(makeSlot('image',alt || 'Image coming soon'))); figure.append(img); return figure;
   }
   function makeSlot(type,label) {
     const figure=document.createElement('div'); figure.className=`media-slot media-slot--${type}`;

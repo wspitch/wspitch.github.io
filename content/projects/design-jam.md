@@ -3,7 +3,8 @@ title: A design jam on the future of AI-powered design work
 eyebrow: FACILITATOR AND RESEARCHER, UNIVERSITY OF WASHINGTON
 meta: April 2024 · First author, IEEE ProComm 2025
 lead: What would you build if AI were part of every design tool in three years? I designed and ran a one-room experiment with 11 working designers. The format became a published teaching approach, and the day piloted the prompt I used in my designers study.
-hero: Add a project cover image
+hero: assets/projects/design-jam/cover.jpg
+heroAlt: Teams sketching ideas at a design jam
 ---
 
 ## At a glance

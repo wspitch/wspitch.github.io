@@ -3,7 +3,8 @@ title: Checking the words a company uses to ask about its products
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Fortune 10 technology company, under NDA · Survey research
 lead: A large technology company had a list of 108 words it used to ask consumers how its hardware feels. Everyone trusted the list, and nobody had checked it against how people actually talk. We checked, and the revised list was adopted across the organization.
-hero: Add a project cover image
+hero: assets/projects/fortune-toolkit/cover.jpg
+heroAlt: A redacted word list showing words kept, cut and added
 ---
 
 ## At a glance

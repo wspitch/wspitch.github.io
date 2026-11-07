@@ -3,7 +3,8 @@ title: Mentoring HCI capstone teams
 eyebrow: INSTRUCTOR AND TEACHING ASSISTANT, UNIVERSITY OF WASHINGTON
 meta: 2023 to 2026 · Seven courses in HCDE and HCID
 lead: Helping other people ask better questions is the part of research I'd happily do forever. Across seven courses I've taught seminars, advised capstone teams, and worked with students from their first interviews to their final concept videos.
-hero: Add a project cover image
+hero: assets/projects/teaching/cover.jpg
+heroAlt: Students presenting at a capstone showcase
 ---
 
 ## At a glance

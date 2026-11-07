@@ -3,7 +3,8 @@ title: Designing AI around values and harms
 eyebrow: PHD RESEARCH, UNIVERSITY OF WASHINGTON
 meta: First author, two DIS 2026 papers · Interviews, think-aloud studies, toolkit design
 lead: Designers now use generative AI to dream up AI products, so one AI is helping shape another. I studied what that does to how designers think about values and harms, built a free toolkit from what I found, and watched a company building AI for hiring adopt it on its own.
-hero: Add a project cover image
+hero: assets/projects/values/cover.jpg
+heroAlt: Value-Harm Cards and the value-tension map from the toolkit
 ---
 
 ## At a glance

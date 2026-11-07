@@ -3,7 +3,8 @@ title: Finding the right product question for micro-business owners
 eyebrow: USER RESEARCH INTERN, ABACUS DIGITAL
 meta: Summer 2026 · Discovery research · Survey, interviews, coded prototype
 lead: I started the summer with an open space and no defined problem. About two months later, leadership had a tested concept on the roadmap, and the team knew who it was for and who it wasn't.
-hero: Add a project cover image
+hero: assets/projects/abacus/cover.jpg
+heroAlt: A handwritten customer notebook page, the starting point for the research
 ---
 
 ## At a glance

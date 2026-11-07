@@ -3,7 +3,8 @@ title: How warm is too warm to touch?
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Fortune 10 technology company, under NDA · Lab experiments
 lead: Hardware teams needed to know how warm a surface could get before touching it stopped feeling comfortable. I worked on lab studies of two materials, and the findings fed material decisions on smart-home hardware. Everything specific is under NDA, so I've blacked out the numbers.
-hero: Add a project cover image
+hero: assets/projects/fortune-materials/cover.jpg
+heroAlt: A redacted chart from a touch-comfort study
 ---
 
 ## At a glance

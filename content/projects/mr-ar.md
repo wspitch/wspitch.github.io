@@ -3,7 +3,8 @@ title: Voice and hand interaction in mixed and augmented reality
 eyebrow: RESEARCHER, EMBRY-RIDDLE AERONAUTICAL UNIVERSITY
 meta: First author, HFES 2022 and Frontiers in Virtual Reality 2023 · Lab experiments on HoloLens 2
 lead: Headsets are moving into real work, where typing and managing windows matter. I ran two studies on a HoloLens 2, one on dictation in noisy rooms and one on managing many windows with hand tracking. Both landed on the same problem: people couldn't tell what the system was doing.
-hero: Add a project cover image
+hero: assets/projects/mr-ar/cover.jpg
+heroAlt: A participant using a HoloLens 2 in a research study
 ---
 
 ## At a glance
