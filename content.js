@@ -4,7 +4,7 @@ window.portfolioContent = {
   "email": "wspitch@uw.edu",
   "home": {
     "title": "Pitch Sinlapanuntakul",
-    "availability": "I’m on the job market for UX researcher roles, starting mid-2027.",
+    "availability": "I’m actively seeking UX researcher and adjacent roles with start dates in mid-2027.",
     "intro": "I’m a UX researcher + PhD candidate at UW who helps teams rethink problems and see possibilities beyond the obvious. I care about making technology feel meaningfully magical, in ways that once seemed impossible.",
     "news": [
       { "date": "04/2025", "text": "Passed my general exam, now a Ph.D. candidate!" },
