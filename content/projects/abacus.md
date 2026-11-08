@@ -9,7 +9,7 @@ heroAlt: The ABACUS Digital team posing in front of the company logo
 
 ## At a glance
 **Role.** User research intern on the Customer Insight and User Research team, which sits in the product team.
-**Timeline.** June to August 2026, about two months.
+**Timeline.** June to August 2026, about 2 months.
 **Methods.** Desk research, a survey of micro-business owners, interviews, and concept tests with a prototype I coded.
 **The decision.** Whether to invest in serving micro-business owners, and which owners to build for.
 
@@ -17,9 +17,9 @@ heroAlt: The ABACUS Digital team posing in front of the company logo
 This work is under NDA, so I can’t share findings, the concept, or product details. I can discuss how I scoped the problem, where my thinking changed, and what I would do again. Ask me about any of it in conversation.
 
 ## Framing the problem
-The brief was to explore how the company could serve micro-business owners. Nobody had defined the problem, and I had about two months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.
+The brief was to explore how the company could serve micro-business owners. Nobody had defined the problem, and I had about 2 months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.
 
-**I began with the decision and worked backward.** On day one I listed every question leadership might ask and ranked them by what the decision required. Three made the cut. Who experiences this problem most acutely? What are they trying to get done? Would a concept change how they work? Pricing, features, and feasibility went to the bottom, because none could be answered with confidence until we knew the need was real.
+**I began with the decision and worked backward.** On day one I listed every question leadership might ask and ranked them by what the decision required. Only 3 questions made the cut. Who experiences this problem most acutely? What are they trying to get done? Would a concept change how they work? Pricing, features, and feasibility went to the bottom, because none could be answered with confidence until we knew the need was real.
 
 <!-- DRAFT: check that these reflections match what you actually felt and did, or edit them -->
 ## Where the evidence overturned my plan
@@ -34,7 +34,7 @@ I used the methods in sequence. Desk research framed the space, the survey showe
 Both pushed me to ask how owners know things, and to stop asking what features they wanted.
 
 ## Testing demand with something tangible
-A static concept cannot tell you whether someone will adopt a new habit. So I built a working prototype and tested it with two small groups of owners. Their reactions went beyond what I had planned for, which is the reason to put something real in front of people. The groups were small, so I treated the results as a signal about direction and not a verdict.
+A static concept cannot tell you whether someone will adopt a new habit. So I built a working prototype and tested it with 2 small groups of owners. Their reactions went beyond what I had planned for, which is the reason to put something real in front of people. The groups were small, so I treated the results as a signal about direction and not a verdict.
 
 ## The readout
 I presented to company leadership, including department heads. The deck moved from the problem to the concept to who it is and isn’t for, and it ended on the questions I had left open, so leadership could see where my confidence was high and where it was not.

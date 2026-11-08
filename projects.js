@@ -49,7 +49,7 @@ window.projectData = {
       "name": "Mixed and augmented reality",
       "image": "assets/project-sandbox-1.svg",
       "imageAlt": "Title of a published paper on multi-window augmented reality",
-      "description": "Published two first-authored HoloLens 2 studies on voice dictation and hand-tracked window management.",
+      "description": "Published 2 first-authored HoloLens 2 studies on voice dictation and hand-tracked window management.",
       "route": "mr-ar.html",
       "order": 5,
       "accent": "#c4c2de"
@@ -69,7 +69,7 @@ window.projectData = {
       "name": "Botnoi Group",
       "image": "assets/project-sandbox-3.svg",
       "imageAlt": "The UX research handbook and a workshop whiteboard",
-      "description": "Set up UX research for two AI voice products, with a handbook, five mentored interns, and harm-and-benefit workshops.",
+      "description": "Set up UX research for 2 AI voice products, with a handbook, 5 mentored interns, and harm-and-benefit workshops.",
       "route": "botnoi.html",
       "order": 7,
       "accent": "#ded4bb",
@@ -92,7 +92,7 @@ window.projectData = {
       "name": "Mentoring HCI capstone teams",
       "image": "assets/project-sandbox-5.svg",
       "imageAlt": "A large group of students and instructors in a classroom",
-      "description": "Advised capstone teams and taught seven HCDE and HCID courses at the University of Washington.",
+      "description": "Advised capstone teams and taught 7 HCDE and HCID courses at the University of Washington.",
       "route": "sandbox/teaching.html",
       "order": 2,
       "accent": "#c8c8c4"

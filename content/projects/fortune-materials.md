@@ -2,7 +2,7 @@
 title: How warm is too warm to touch?
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Google, under NDA · Lab experiments
-lead: Google’s hardware teams needed to know how warm a surface could get before touching it stopped feeling comfortable. I worked on lab studies of two materials, and the findings fed material decisions on smart-home hardware.
+lead: Google’s hardware teams needed to know how warm a surface could get before touching it stopped feeling comfortable. I worked on lab studies of 2 materials, and the findings fed material decisions on smart-home hardware.
 ---
 
 ## At a glance
@@ -32,6 +32,6 @@ Age complicated the picture. Older participants worried more about safety but to
 - I presented the work to stakeholders across research, design, engineering, and product.
 
 ## What I’d do differently
-Two design choices limited what we could conclude. On one material, the placement of the temperature sensor pushed people to touch the surface in an unnatural way. And everyone did the cooler room first and the warmer room second, so order and room temperature were confounded. In one study, participants also had to imagine a device and couldn’t hold one.
+2 design choices limited what we could conclude. On one material, the placement of the temperature sensor pushed people to touch the surface in an unnatural way. And everyone did the cooler room first and the warmer room second, so order and room temperature were confounded. In one study, participants also had to imagine a device and couldn’t hold one.
 
 Next time I would match the setup to real touch, counterbalance the room conditions, and add a follow-up that feels more like home.

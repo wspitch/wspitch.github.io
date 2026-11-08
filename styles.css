@@ -381,6 +381,6 @@ strong, b { font-weight: 400; }
   .cursor-root { display: none !important; }
 }
 .impact-list + .case-copy, .impact-list + .impact-list, .case-copy + .markdown-subtitle, .media-gallery + .case-copy, .media-slot + .case-copy { margin-top: 16px; }
-.case-section-content > .markdown-subtitle { margin: 24px 0 8px; }
-.case-section-content > .markdown-subtitle:first-of-type { margin-top: 0; }
+.case-section-content > .markdown-subtitle { margin: 30px 0 8px; }
+.case-section-content > h2 + .markdown-subtitle { margin-top: 0; }
 .case-section-content > .case-copy + .case-copy { margin-top: 14px; }

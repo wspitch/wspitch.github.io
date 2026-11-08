@@ -1,17 +1,18 @@
 ---
 title: A mixed reality anatomy app, and hands that couldn’t quite grab it
 eyebrow: PROJECT LEAD, RESEARCH IN USER EXPERIENCE LAB · SPONSORED BY ANATOMYX
-meta: Led the research end to end · Five-person team with a faculty advisor · Heuristic evaluation and usability test on HoloLens 2
-lead: AnatomyX, our sponsor, makes a mixed reality anatomy app that can show a student a body they could never hold in class, provided the student can work the controls. I led an expert heuristic evaluation and a ten-person usability test on HoloLens 2, then triangulated both into a prioritized list of what to fix first.
+meta: Led the research end to end · 5-person team with a faculty advisor · Heuristic evaluation and usability test on HoloLens 2
+lead: AnatomyX, our sponsor, makes a mixed reality anatomy app that can show a student a body they could never hold in class, provided the student can work the controls. I led an expert heuristic evaluation and a 10-person usability test on HoloLens 2, then triangulated both into a prioritized list of what to fix first.
 hero: assets/projects/anatomyx/cover.jpg
 heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX HoloLens 2 app
 ---
 
 ## At a glance
-**Role.** Project lead on a five-person research team with a faculty advisor, responsible for the research end to end.
+**Role.** Project lead on a 5-person research team with a faculty advisor, responsible for the research end to end.
 **Sponsor.** AnatomyX.
-**Methods.** An expert heuristic evaluation, then a usability test with 10 people (eight scenario tasks, about 70 minutes each), with standardized measures for usability, experience, simulator sickness, exertion, and likelihood to recommend.
+**Methods.** An expert heuristic evaluation, then a usability test with 10 people (8 scenario tasks, about 70 minutes each), with standardized measures for usability, experience, simulator sickness, exertion, and likelihood to recommend.
 **The decision.** What the app’s team should fix first.
+**Why 2 methods.** A heuristic evaluation is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
 
 ## Why interaction is the risk
 The app lets students view and manipulate a virtual human body. On a headset, learners must acquire a new set of gestures before they can learn any anatomy, so an interaction problem becomes a learning problem.
@@ -34,7 +35,7 @@ Triangulating the expert evaluation with the user test, both methods converged o
 
 <!-- DRAFT: replace with what actually happened, or delete -->
 ## Deciding what to report
-Between the expert review and ten sessions, we had a long list of issues, and the easy move was to report all of them. I wanted the sponsor’s team to know where to start, so I proposed a prioritization rule. Two kinds of problems went first:
+Between the expert review and 10 sessions, we had a long list of issues, and the easy move was to report all of them. I wanted the sponsor’s team to know where to start, so I proposed a prioritization rule. 2 kinds of problems went first:
 
 - Problems that both the expert evaluation and the user test found.
 - Problems that stopped people from finishing a task.
@@ -42,8 +43,8 @@ Between the expert review and ten sessions, we had a long list of issues, and th
 Everything else went in the full log. That kept the discussion on the criteria and away from debating each issue on its own.
 
 ## Impact
-- A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in three areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
-- A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With ten participants, I read both as directional.
+- A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in 3 areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
+- A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
 
 ## What I’d do differently
-I would bring in anatomy students in a real class. Ten participants in a lab show where the interaction breaks, and only a classroom can show whether the fixes hold up in actual learning.
+I would bring in anatomy students in a real class. 10 participants in a lab show where the interaction breaks, and only a classroom can show whether the fixes hold up in actual learning.

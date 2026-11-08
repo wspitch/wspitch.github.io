@@ -6,9 +6,9 @@ lead: As a UX researcher on a contract research team, I helped validate and exte
 ---
 
 ## At a glance
-**Role.** Contract UX researcher on a team of five researchers, working directly with Google stakeholders.
+**Role.** Contract UX researcher on a team of 5 researchers, working directly with Google stakeholders.
 **Timeline.** 2021 to 2022.
-**Methods.** A survey study with consumers across five hardware product types, word-use and confusion analysis in R, and thematic coding of open responses.
+**Methods.** A survey study with consumers across 5 hardware product types, word-use and confusion analysis in R, and thematic coding of open responses.
 **The decision.** Which words stay in a company-wide tool for measuring how people see Google’s products.
 
 ## A note on this page
