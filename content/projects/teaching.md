@@ -15,7 +15,7 @@ heroAlt: A large group of students and instructors gathered in a classroom
 **The decision.** How to help teams notice what they might be missing before committing to a direction.
 
 ## How I teach
-The moment I care about most comes just before a team commits, when a good question can still change what gets built. I try to help students notice what they might be missing before they pick a direction. My feedback on student projects usually covers the visual grammar, how the interaction works, and how the core concept is framed.
+I care most about the moment just before a team commits, when a good question can still change what gets built. My teaching aims to help students notice what they might be missing before they pick a direction. My feedback on student projects usually covers visual grammar, how the interaction works, and how the core concept is framed.
 
 ## Capstone Studio (HCID 541), Summers 2024 and 2025
 Ten student teams took concepts through development, iterative design, prototyping, and evaluation. They worked with faculty and industry advisors and presented at the end, and I advised teams through that process.

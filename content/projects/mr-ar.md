@@ -2,7 +2,7 @@
 title: Voice and hand interaction in mixed and augmented reality
 eyebrow: RESEARCHER, EMBRY-RIDDLE AERONAUTICAL UNIVERSITY
 meta: First author, HFES 2022 and Frontiers in Virtual Reality 2023 · Lab experiments on HoloLens 2
-lead: Headsets are moving into real work, where typing and managing windows matter. I ran two HoloLens 2 studies, one on dictation in noisy rooms and one on managing many windows with hand tracking. Both ended up at the same problem: people couldn’t tell what the system was doing.
+lead: Headsets are moving into real work, where typing and managing windows matter. I ran two HoloLens 2 studies, one on dictation in noisy rooms and one on managing many windows with hand tracking. Both ended at the same problem: people could not tell what the system was doing.
 hero: assets/projects/mr-ar/cover.jpg
 heroAlt: The title and authors of the published paper on multi-window augmented reality
 ---
@@ -13,7 +13,7 @@ heroAlt: The title and authors of the published paper on multi-window augmented 
 **Methods.** A counterbalanced lab experiment (20 people) and a task-based usability study with think-aloud (20 people), with standardized scales for usability, workload, and simulator sickness.
 **The decision.** What a headset team should fix first for voice and hand input.
 
-The studies are published as [“The effects of background noise on user experience and performance of mixed reality voice dictation”](https://doi.org/10.1177/1071181322661376) (HFES 2022) and [“Exploring the user experience (UX) of a multi-window augmented reality environment”](https://doi.org/10.3389/frvir.2023.1194019) (Frontiers in Virtual Reality, 2023).
+The studies are published as [“The effects of background noise on user experience and performance of mixed reality voice dictation”](https://doi.org/10.1177/1071181322661376) (Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022) and [“Exploring the user experience (UX) of a multi-window augmented reality environment”](https://doi.org/10.3389/frvir.2023.1194019) (Frontiers in Virtual Reality, 2023).
 
 ![Chart of average user experience scores, with efficiency scoring lowest](assets/projects/mr-ar/figure-ux.jpg)
 
@@ -54,4 +54,4 @@ Novelty and stimulation rated excellent, and efficiency rated “bad.” After 4
 - The multi-window data is open on the [Open Science Framework](https://osf.io/e3u4n), so other teams have numbers to compare against.
 
 ## What I’d do differently
-Both studies ended up in the same place, which is invisible system state. If I ran them again, I’d start from feedback. I’d also test speech-like background noise and older participants, because mine were all college-aged (average about 22), on one device, in a lab.
+Both studies ended up in the same place, which is invisible system state. If I ran them again, I would start from feedback. I would also test speech-like background noise and older participants, because mine were all college-aged (average about 22), on one device, in a lab.
