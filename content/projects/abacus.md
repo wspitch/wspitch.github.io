@@ -27,7 +27,11 @@ I used the methods in sequence. Desk research framed the space, the survey showe
 
 **The most valuable moment of the summer came when what people told me stopped fitting the story I had arrived with.** I had to decide whether to defend my plan or revise it.
 
-Two ideas from the literature helped me interpret what I was hearing. Schön’s (1983) reflection-in-action describes how people think while they act, which meant owners might not be able to report their habits in an interview. Polanyi’s (1966) tacit knowledge describes how much of what people know resists being put into words. Both pushed me to ask how owners know things, and to stop asking what features they wanted.
+### Two ideas that shaped how I read the evidence
+- Schön’s (1983) reflection-in-action describes how people think while they act, so owners might not be able to report their habits in an interview.
+- Polanyi’s (1966) tacit knowledge describes how much of what people know resists being put into words.
+
+Both pushed me to ask how owners know things, and to stop asking what features they wanted.
 
 ## Testing demand with something tangible
 A static concept cannot tell you whether someone will adopt a new habit. So I built a working prototype and tested it with two small groups of owners. Their reactions went beyond what I had planned for, which is the reason to put something real in front of people. The groups were small, so I treated the results as a signal about direction and not a verdict.

@@ -34,7 +34,12 @@ Triangulating the expert evaluation with the user test, both methods converged o
 
 <!-- DRAFT: replace with what actually happened, or delete -->
 ## Deciding what to report
-Between the expert review and ten sessions, we had a long list of issues, and the easy move was to report all of them. I wanted the sponsor’s team to know where to start, so I proposed a prioritization rule. Problems that both the expert evaluation and the user test found, and problems that stopped people from finishing a task, went first. Everything else went in the full log. That kept the discussion on the criteria and away from debating each issue on its own.
+Between the expert review and ten sessions, we had a long list of issues, and the easy move was to report all of them. I wanted the sponsor’s team to know where to start, so I proposed a prioritization rule. Two kinds of problems went first:
+
+- Problems that both the expert evaluation and the user test found.
+- Problems that stopped people from finishing a task.
+
+Everything else went in the full log. That kept the discussion on the criteria and away from debating each issue on its own.
 
 ## Impact
 - A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in three areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.

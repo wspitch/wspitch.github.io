@@ -2,11 +2,11 @@
 title: Validating Google’s internal toolkit for measuring product impressions
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Google, under NDA · Survey research
-lead: Google used an internal Product Impression Toolkit, a list of words for asking consumers how its hardware feels. Teams trusted the list, but nobody had checked it against how people actually talk. We checked, and the revised toolkit was adopted across the organization.
+lead: As a UX researcher on a contract research team, I helped validate and extend an internal Product Impression Toolkit, the list of words Google teams use to ask consumers how its hardware feels. The list was widely trusted but had never been checked against how people actually talk, and the revised toolkit was adopted across the organization.
 ---
 
 ## At a glance
-**Role.** UX researcher on a team of five researchers, working directly with stakeholders.
+**Role.** Contract UX researcher on a team of five researchers, working directly with Google stakeholders.
 **Timeline.** 2021 to 2022.
 **Methods.** A survey study with consumers across five hardware product types, word-use and confusion analysis in R, and thematic coding of open responses.
 **The decision.** Which words stay in a company-wide tool for measuring how people see Google’s products.

@@ -7,6 +7,8 @@ window.portfolioContent = {
     "availability": "Actively seeking UX researcher and adjacent roles with start dates in mid-2027.",
     "intro": "I’m a UX researcher + PhD candidate at UW who helps teams rethink problems and see possibilities beyond the obvious. I care about making technology feel meaningfully magical, in ways that once seemed impossible.",
     "news": [
+      { "date": "06/2026", "text": "Presented 2 papers at DIS 2026." },
+      { "date": "11/2025", "text": "Passed my dissertation proposal." },
       { "date": "04/2025", "text": "Passed my general exam, now a Ph.D. candidate!" },
       { "date": "03/2024", "text": "Received an M.S. in HCDE (concurrent with Ph.D.)." },
       { "date": "11/2023", "text": "Presented and passed my preliminary exam." },

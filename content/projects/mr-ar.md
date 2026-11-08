@@ -13,7 +13,9 @@ heroAlt: The title and authors of the published paper on multi-window augmented 
 **Methods.** A counterbalanced lab experiment (20 people) and a task-based usability study with think-aloud (20 people), with standardized scales for usability, workload, and simulator sickness.
 **The decision.** What a headset team should fix first for voice and hand input.
 
-The studies are published as [“The effects of background noise on user experience and performance of mixed reality voice dictation”](https://doi.org/10.1177/1071181322661376) (Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022) and [“Exploring the user experience (UX) of a multi-window augmented reality environment”](https://doi.org/10.3389/frvir.2023.1194019) (Frontiers in Virtual Reality, 2023).
+### Published as
+- [“The effects of background noise on user experience and performance of mixed reality voice dictation”](https://doi.org/10.1177/1071181322661376), Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022.
+- [“Exploring the user experience (UX) of a multi-window augmented reality environment”](https://doi.org/10.3389/frvir.2023.1194019), Frontiers in Virtual Reality, 2023.
 
 ![Chart of average user experience scores, with efficiency scoring lowest](assets/projects/mr-ar/figure-ux.jpg)
 
