@@ -18,31 +18,31 @@ The studies are published as [“The effects of background noise on user experie
 ![Chart of average user experience scores, with efficiency scoring lowest](assets/projects/mr-ar/figure-ux.jpg)
 
 ## Why these two
-Typing in the air is slow and tiring, so voice looks like the obvious fix. But no one had tested HoloLens 2 dictation in noisy rooms. Working with several windows using only your hands, with no mouse or keyboard, was just as untested. I picked both because they sit under most office tasks.
+Typing in the air is slow and tiring, so voice looks like the obvious fix. But no one had tested HoloLens 2 dictation in noisy rooms, and managing several windows with only your hands, with no mouse or keyboard, was just as untested. I chose both because they sit under most office tasks, so a problem in either would limit headsets for real work.
 
-## How I studied it
+## Study design
 **Dictation.** Twenty people spoke standard phrases at three background noise levels (40, 55, and 70 dB) that matched real offices. I counterbalanced the order and allowed no corrections, so errors came from the system and not from people fixing mistakes.
 
 **Multi-window work.** Another 20 people worked through 16 scenarios covering editing a document, communicating, browsing, and gaming. There was no time limit, they could walk around the lab, and they thought aloud.
 
-## What I found, and what a product team could do about it
+## Findings, and what a product team could do about them
 
-### Dictation held up, but patience didn’t
+### Dictation held up, but user patience didn’t
 I expected noise to wreck accuracy, because an earlier study on the HoloLens 1 had seen error rates reach 55% in loud rooms. On the HoloLens 2, errors stayed at 2 to 5% across all three levels. What changed was speed (about 47 words per minute at the quietest level, 41 at the loudest) and how it felt. People couldn’t tell whether the system was slow or had stopped listening, and some stopped mid-phrase to wait. One called the pause before dictation began “annoying.”
 
 *A team could* show when the system is ready and when it has finished, and offer homophone choices when a word comes out wrong.
 
-### People scrolled as if it were a laptop
-Scrolling was the least successful task: 10 of 20 succeeded, 9 partly, and 1 failed. People expected trackpad scrolling, and the headset wanted touchscreen swipes.
+### Mental models transferred from laptops
+Scrolling was the least successful task: 10 of 20 succeeded, 9 partly, and 1 failed. People expected trackpad scrolling, and the headset expected touchscreen swipes.
 
 *A team could* add a visible scroll bar and two-finger scrolling, and teach it in the tutorial.
 
-### Success was silent
+### Success had no signal
 Aiming at small targets from a distance was hard, and nothing told people whether a grab or a selection had registered.
 
 *A team could* add richer audio and visual feedback.
 
-### People loved it and found it slow
+### High enthusiasm, low efficiency
 Novelty and stimulation rated excellent, and efficiency rated “bad.” After 40 to 50 minutes, simulator sickness scores were in the concerning range (near 18) in both studies, even though participants didn’t complain out loud.
 
 *A team could* add a gallery view for windows and session-length reminders.
@@ -54,4 +54,4 @@ Novelty and stimulation rated excellent, and efficiency rated “bad.” After 4
 - The multi-window data is open on the [Open Science Framework](https://osf.io/e3u4n), so other teams have numbers to compare against.
 
 ## What I’d do differently
-Both studies ended up in the same place, which is invisible system state. If I ran them again, I would start from feedback. I would also test speech-like background noise and older participants, because mine were all college-aged (average about 22), on one device, in a lab.
+Both studies converged on invisible system state. If I ran them again, I would design around feedback from the start. I would also test speech-like background noise and older participants, because mine were all college-aged (average about 22), on one device, in a lab.

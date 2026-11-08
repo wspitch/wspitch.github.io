@@ -14,7 +14,7 @@ heroAlt: Design jam teams sketching ideas around a table covered with drawings a
 **Methods.** Career roadmaps, team ideation, sketching, and Figma prototyping.
 **The decision.** How to imagine AI-enabled design work beyond current web and mobile conventions.
 
-## How the day worked
+## Designing the day
 Three industry design professionals co-hosted with me, and we shaped the plan together. Eleven designers with at least two years of experience joined, in three teams balanced by experience.
 
 ![The design jam organizers and industry co-hosts posing together in front of an HCDE banner](assets/projects/design-jam/organizers.jpg)
@@ -27,8 +27,8 @@ Teams then picked a design space, sketched individually, chose one idea together
 ![A team presenting a sticky-note brainstorm of the pain points designers face](assets/projects/design-jam/presenting-brainstorm.jpg)
 ![A team presenting its top three themes in front of a projected Figma board](assets/projects/design-jam/team-themes.jpg)
 
-## What designers said
-Designers told us AI should assist them and not replace them, and that it helps to focus on one pain point. They valued the sketching, the prototyping, and the live input from the industry guests. Their biggest request was simply more: more time, more real examples, more conversation with the guests, and a roomier venue.
+## What participants told us
+Designers told us AI should assist them and not replace them, and that it helps to focus on one pain point. They valued the sketching, the prototyping, and the live input from the industry guests. Their most consistent request was for more: more time, more real examples, more conversation with the guests, and a roomier venue.
 
 ![A mentor and a designer working through ideas together over a large sketch](assets/projects/design-jam/mentor-student.jpg)
 ![An industry co-host talking with a team gathered around laptops and sticky notes](assets/projects/design-jam/mentor-team.jpg)
@@ -39,4 +39,4 @@ Designers told us AI should assist them and not replace them, and that it helps 
 - Eleven designers left with prototypes, with industry co-hosts giving live input along the way.
 
 ## What I’d do differently
-The evidence here is participant feedback, so I call it a teaching approach and not a measured outcome. Next time I’d add a before-and-after measure.
+The evidence here is participant feedback, so I describe the format as a teaching approach and not a measured outcome. Next time I would add a before-and-after measure, so claims about learning have something to rest on.
