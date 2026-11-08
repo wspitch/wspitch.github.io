@@ -2,9 +2,9 @@
 title: Mentoring HCI capstone teams
 eyebrow: INSTRUCTOR AND TEACHING ASSISTANT, UNIVERSITY OF WASHINGTON
 meta: 2023 to 2026 · Seven courses in HCDE and HCID
-lead: Helping other people ask better questions is the part of research I'd happily do forever. Across seven courses I've taught seminars, advised capstone teams, and worked with students from their first interviews to their final concept videos.
+lead: Helping other people ask better questions is the part of research I’d happily do forever. Across seven courses I’ve taught seminars, advised capstone teams, and worked with students from their first interviews to their final concept videos.
 hero: assets/projects/teaching/cover.jpg
-heroAlt: Students presenting at a capstone showcase
+heroAlt: A large group of students and instructors gathered in a classroom
 ---
 
 ## At a glance
@@ -14,7 +14,9 @@ heroAlt: Students presenting at a capstone showcase
 **Methods.** Seminars, capstone advising, research feedback, workshops, and design sprints.
 **The decision.** How to help teams notice what they might be missing before committing to a direction.
 
-> Image placeholder: Capstone showcase or team photo you have permission to use
+![A large group of students and instructors gathered in a classroom for a group photo](assets/projects/teaching/cover.jpg)
+
+![Five capstone project posters on easels in front of a window](assets/projects/teaching/capstone-posters.jpg)
 
 ## How I teach
 The moment I care about most is the one before a team commits, when a good question can still change what gets built. In my teaching and mentoring, I try to help students notice what they might be missing before they pick a direction. When I give feedback on a student project, it often covers the visual grammar, how the interaction works, and how the core concept is framed.
@@ -35,7 +37,7 @@ Final concept videos from Summer 2024:
 - [Obuntu](https://youtu.be/Bw701QRAmk4)
 
 ## Design, Use, Build Seminar (HCID 590), Fall 2025 to Spring 2026
-I'm Instructor of Record. The seminar mixes talks, student-led fireside chats, and hands-on design workshops and sprints, so students reflect on the practical, social, and ethical sides of research, technology, and design decisions.
+I’m Instructor of Record. The seminar mixes talks, student-led fireside chats, and hands-on design workshops and sprints, so students reflect on the practical, social, and ethical sides of research, technology, and design decisions.
 
 ## Other courses
 - **HCID 510, Design of Interactive Systems** (Spring 2025). Reading, critical analysis, and discussion to help students build frameworks for their future work as emerging technology leaders.

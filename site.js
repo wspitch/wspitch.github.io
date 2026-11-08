@@ -39,12 +39,10 @@
     }
     if (title) title.textContent = content.home.title;
     if (intro) intro.textContent = content.home.intro;
-    if (list) content.home.experience.forEach(item => {
+    if (list) content.home.news.forEach(item => {
       const row = document.createElement('div'); row.className = 'experience-row';
-      addText(row, 'span', 'experience-date', item.dates);
-      const summary = document.createElement('p'); summary.className = 'experience-role';
-      addText(summary, 'strong', '', item.organization);
-      summary.append(document.createTextNode(` — ${item.summary}`)); row.append(summary); list.append(row);
+      addText(row, 'span', 'experience-date', item.date);
+      addText(row, 'p', 'experience-role', item.text); list.append(row);
     });
   }
   if (content?.about) {

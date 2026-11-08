@@ -30,6 +30,10 @@ Teams then picked a design space, sketched individually, chose one idea together
 ## What designers said
 They told us they learned that AI should assist designers and not replace them, and that it helps to focus on one pain point. They valued the sketching, the prototyping, and the live input from the industry guests. And their biggest request was simply more: more time, more real examples, more conversation with the guests, even a roomier venue.
 
+![A team presenting its top three themes in front of a projected Figma board](assets/projects/design-jam/team-themes.jpg)
+
+![A mentor and a designer working through ideas together over a large sketch](assets/projects/design-jam/mentor-student.jpg)
+
 ![An industry co-host talking with a team gathered around laptops and sticky notes](assets/projects/design-jam/mentor-team.jpg)
 
 ## How it fed my research
@@ -40,5 +44,5 @@ The jam doubled as a pilot for my designers study. I saw that 15 minutes was eno
 - The prompt and timing for my designers study.
 - Eleven designers left with prototypes, with industry co-hosts giving live input along the way.
 
-## What I'd do differently
-The evidence here is participant feedback, so I call it a teaching approach, not a measured outcome. Next time I'd add a before-and-after measure.
+## What I’d do differently
+The evidence here is participant feedback, so I call it a teaching approach, not a measured outcome. Next time I’d add a before-and-after measure.
