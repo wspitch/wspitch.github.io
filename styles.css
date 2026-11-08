@@ -160,7 +160,7 @@ strong, b { font-weight: 400; }
   display: grid; grid-template-columns: repeat(6,minmax(0,1fr)); column-gap: var(--grid-gap); align-items: center;
 }
 .footer-copy { grid-column: 1; color: var(--muted); white-space: nowrap; }
-.footer-actions { grid-column: 2 / span 3; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center; white-space: nowrap; }
+.footer-actions { grid-column: 2 / span 4; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center; white-space: nowrap; }
 .site-footer a, .site-footer button {
   padding: 0; color: var(--ink); font-size: 11px; font-weight: 400; text-decoration: none;
   text-underline-offset: 8px; text-decoration-thickness: 1px;
@@ -168,7 +168,8 @@ strong, b { font-weight: 400; }
 .email-copy { border: 0; background: none; cursor: pointer; }
 .footer-separator { color: #aaa59e; font-size: 11px; }
 .resume-missing { color: #888; font-size: 11px; }
-.footer-local { grid-column: 5 / span 2; text-align: right; white-space: nowrap; font-size: 11px; font-weight: 400; word-spacing: -0.01em; }
+.footer-copy, .footer-actions, .footer-local { grid-row: 1; }
+.footer-local { grid-column: 5 / span 2; justify-self: end; text-align: right; white-space: nowrap; font-size: 11px; font-weight: 400; word-spacing: -0.01em; }
 .footer-local time { font-variant-numeric: tabular-nums; }
 
 .copy-status {
