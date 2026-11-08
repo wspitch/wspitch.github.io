@@ -12,6 +12,7 @@ heroAlt: The ABACUS Digital team posing in front of the company logo
 **Timeline.** June to August 2026, about 2 months.
 **Methods.** Desk research, a survey of micro-business owners, interviews, and concept tests with a prototype I coded.
 **The decision.** Whether to invest in serving micro-business owners, and which owners to build for.
+**Why a prototype.** Behavior with something real says more about adoption than stated intent.
 
 ## A note on this page
 This work is under NDA, so I can’t share findings, the concept, or product details. I can discuss how I scoped the problem, where my thinking changed, and what I would do again. Ask me about any of it in conversation.

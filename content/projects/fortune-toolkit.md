@@ -10,6 +10,7 @@ lead: As a UX researcher on a contract research team, I helped validate and exte
 **Timeline.** 2021 to 2022.
 **Methods.** A survey study with consumers across 5 hardware product types, word-use and confusion analysis in R, and thematic coding of open responses.
 **The decision.** Which words stay in a company-wide tool for measuring how people see Google’s products.
+**Why a survey.** Validating a company-wide instrument needed breadth across product types, which interviews could not provide.
 
 ## A note on this page
 Google told me I can’t share anything data related. I can discuss the problem, how we approached it, what it led to, and what I took from it.

@@ -6,10 +6,11 @@ lead: Google’s hardware teams needed to know how warm a surface could get befo
 ---
 
 ## At a glance
-**Role.** UX researcher on the lab team.
+**Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders.
 **Timeline.** 2021 to 2022.
 **Methods.** Controlled lab experiments where each person tried a range of surface temperatures, touch durations, and room temperatures, with ratings and observed actions.
 **The decision.** How warm a surface can get before people stop being comfortable touching it.
+**Why lab experiments.** Temperature, touch duration, and room temperature had to be controlled to separate their effects.
 
 ## A note on this page
 Google told me I can’t share anything data related, so there are no temperatures or results here. What remains is how we framed the problem, how we studied it, and what I would do differently.

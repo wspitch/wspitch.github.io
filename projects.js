@@ -8,7 +8,7 @@ window.projectData = {
       "imageAlt": "The ABACUS Digital team posing in front of the company logo",
       "description": "Scoped open-ended discovery research on micro-business owners to inform a product roadmap decision.",
       "route": "abacus.html",
-      "order": 1,
+      "order": 3,
       "accent": "#bcb2e5",
       "note": "(Internship, NDA)"
     },
@@ -19,7 +19,7 @@ window.projectData = {
       "imageAlt": "A grid of Value-Harm Cards",
       "description": "Led interview and think-aloud studies on how designers weigh AI values and harms, and built a toolkit that a company building hiring AI adopted on its own.",
       "route": "values.html",
-      "order": 2,
+      "order": 1,
       "accent": "#ddc4ca"
     },
     {
@@ -29,7 +29,7 @@ window.projectData = {
       "imageAlt": "Tables of words to eliminate and words to add",
       "description": "Validated Google’s internal Product Impression Toolkit through a large-scale consumer survey, and teams across the company adopted the revised version.",
       "route": "fortune-toolkit.html",
-      "order": 3,
+      "order": 2,
       "accent": "#c7d4c4",
       "note": "(NDA)"
     },
@@ -69,7 +69,7 @@ window.projectData = {
       "name": "Botnoi Group",
       "image": "assets/project-sandbox-3.svg",
       "imageAlt": "The UX research handbook and a workshop whiteboard",
-      "description": "Set up UX research for 2 AI voice products, with a handbook, 5 mentored interns, and harm-and-benefit workshops.",
+      "description": "Set up UX research for 2 AI voice products, with a handbook and 5 mentored interns, tied to a 28% increase in user base.",
       "route": "botnoi.html",
       "order": 7,
       "accent": "#ded4bb",

@@ -31,7 +31,7 @@ Typing in the air is slow and tiring, so voice looks like the obvious fix. But n
 ## Findings, and what a product team could do about them
 
 ### Dictation held up, but user patience didn’t
-I expected noise to wreck accuracy, because an earlier study on the HoloLens 1 had seen error rates reach 55% in loud rooms. On the HoloLens 2, errors stayed at 2 to 5% across all 3 levels. What changed was speed (about 47 words per minute at the quietest level, 41 at the loudest) and how it felt. People couldn’t tell whether the system was slow or had stopped listening, and some stopped mid-phrase to wait. One called the pause before dictation began “annoying.”
+I expected noise to wreck accuracy, because an earlier HoloLens 1 study ([Derby et al., 2020](https://doi.org/10.1177/1071181320641509)) found that dictation accuracy dropped once background noise reached 60 dB. On the HoloLens 2, errors stayed at 2 to 5% across all 3 levels. What changed was speed (about 47 words per minute at the quietest level, 41 at the loudest) and how it felt. People couldn’t tell whether the system was slow or had stopped listening, and some stopped mid-phrase to wait. One called the pause before dictation began “annoying.”
 
 *A team could* show when the system is ready and when it has finished, and offer homophone choices when a word comes out wrong.
 

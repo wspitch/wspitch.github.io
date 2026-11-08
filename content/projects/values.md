@@ -9,9 +9,10 @@ heroAlt: A grid of blue and green Value-Harm Cards from the toolkit
 
 ## At a glance
 **Role.** First author and lead researcher, advised by Mark Zachry, with co-authors on each paper.
-**Timeline.** Part of my PhD research.
+**Timeline.** PhD research, with 2 papers at DIS 2026 (June 2026).
 **Methods.** Think-aloud sessions and interviews with 18 designers, a survey of 30, think-aloud sessions and interviews with 12, and a research-through-design process for the toolkit.
 **The decision.** What would help designers weigh values and harms at the start of an AI concept, when changing course is still cheap.
+**Why these methods.** Think-aloud sessions capture reasoning as it happens, interviews probe it afterward, a survey tested adoption beyond the lab, and research through design let the toolkit change with each round of evidence.
 
 ## The question
 The first ideas for a product tend to stick. They set what it is for, who it serves, and what it could hurt, and later work mostly refines those choices. Designers usually make these calls with little structured support, because most guidance arrives late or assumes AI expertise they may not have. I wanted to study that earliest moment, then build something for it.

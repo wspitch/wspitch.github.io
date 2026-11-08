@@ -13,6 +13,7 @@ heroAlt: The design jam organizers and industry co-hosts posing together in fron
 **Timeline.** April 2024.
 **Methods.** Career roadmaps, team ideation, sketching, and Figma prototyping.
 **The decision.** How to imagine AI-enabled design work beyond current web and mobile conventions.
+**Why a design jam.** A structured co-design day let working designers imagine the future of their own tools without a fixed brief.
 
 ## Designing the day
 3 industry design professionals co-hosted with me, and we shaped the plan together. 11 designers with at least 2 years of experience joined, in 3 teams balanced by experience.
