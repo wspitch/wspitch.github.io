@@ -55,16 +55,6 @@ window.projectData = {
       "accent": "#c4c2de"
     },
     {
-      "id": "anatomyx",
-      "name": "AnatomyX",
-      "image": "assets/project-sandbox-2.svg",
-      "imageAlt": "A muscle anatomy model with labeled muscles in the AnatomyX app",
-      "description": "Led a heuristic evaluation and user test of an augmented reality anatomy app to rank what its sponsor should fix first.",
-      "route": "anatomyx.html",
-      "order": 7,
-      "accent": "#c5d2d8"
-    },
-    {
       "id": "botnoi",
       "name": "Botnoi Group",
       "image": "assets/project-sandbox-3.svg",
@@ -96,6 +86,16 @@ window.projectData = {
       "route": "sandbox/teaching.html",
       "order": 2,
       "accent": "#c8c8c4"
+    },
+    {
+      "id": "anatomyx",
+      "name": "AnatomyX",
+      "image": "assets/project-sandbox-2.svg",
+      "imageAlt": "A muscle anatomy model with labeled muscles in the AnatomyX app",
+      "description": "Led a heuristic evaluation and user test of an augmented reality anatomy app to rank what its sponsor should fix first.",
+      "route": "sandbox/anatomyx.html",
+      "order": 3,
+      "accent": "#c5d2d8"
     }
   ]
 };
