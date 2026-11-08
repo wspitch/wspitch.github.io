@@ -6,11 +6,11 @@ window.projectData = {
       "name": "ABACUS Digital",
       "image": "assets/projects/abacus/card.jpg",
       "imageAlt": "The ABACUS Digital team posing in front of the company logo",
-      "description": "Finding the right product question for micro-business owners. Two months, no defined problem, and a notebook full of handwritten customer notes that redirected the concept. It earned a place on the product roadmap.",
+      "description": "Finding the right product question for micro-business owners. Two months, no defined problem, and interviews that changed my mind. A reflection on scoping open-ended research, under NDA.",
       "route": "abacus.html",
       "order": 1,
       "accent": "#bcb2e5",
-      "note": "(Internship)"
+      "note": "(Internship, NDA)"
     },
     {
       "id": "values",
@@ -81,7 +81,7 @@ window.projectData = {
       "id": "design-jam",
       "name": "Future of AI-powered design",
       "image": "assets/projects/design-jam/card.jpg",
-      "imageAlt": "Teams sketching ideas at a design jam",
+      "imageAlt": "Design jam teams sketching ideas around a table covered with drawings and laptops",
       "description": "A design jam with 11 UX designers, 3 industry partners, and a teaching approach published at IEEE ProComm 2025.",
       "route": "sandbox/design-jam.html",
       "order": 1,

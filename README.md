@@ -21,7 +21,7 @@ The previous project pages have been removed from this branch; the sitemap lists
 ## Remaining content items before publishing
 
 - Project cover and body-image placeholders remain until you provide approved images. The NDA project placeholder descriptions are kept as supplied.
-- The About photo strip currently shows one photo (`assets/about/01.jpg`) without scrolling. Instructions for adding more are in a comment inside `about.html`.
+- The About photo strip has three photos (`assets/about/01.jpg` to `03.jpg`). To add more, follow the comment inside `about.html`.
 - The footer RESUME link points to `assets/Pitch-Sinlapanuntakul-Resume.pdf`. Replace that file to update it.
 - Confirm the names, dates, roles, research claims, publication details, and text for public use, especially the two pages marked under NDA.
 
