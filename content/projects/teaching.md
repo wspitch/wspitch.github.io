@@ -14,17 +14,20 @@ heroAlt: A large group of students and instructors gathered in a classroom
 **Methods.** Seminars, capstone advising, research feedback, workshops, and design sprints.
 **The decision.** How to help teams notice what they might be missing before committing to a direction.
 
-![A large group of students and instructors gathered in a classroom for a group photo](assets/projects/teaching/cover.jpg)
-
-![Five capstone project posters on easels in front of a window](assets/projects/teaching/capstone-posters.jpg)
-
 ## How I teach
-The moment I care about most is the one before a team commits, when a good question can still change what gets built. In my teaching and mentoring, I try to help students notice what they might be missing before they pick a direction. When I give feedback on a student project, it often covers the visual grammar, how the interaction works, and how the core concept is framed.
+The moment I care about most comes just before a team commits, when a good question can still change what gets built. I try to help students notice what they might be missing before they pick a direction. My feedback on student projects usually covers the visual grammar, how the interaction works, and how the core concept is framed.
 
 ## Capstone Studio (HCID 541), Summers 2024 and 2025
-Ten student teams took concepts through development, iterative design, prototyping, and evaluation, working with faculty and industry advisors and presenting at the end. I advised teams through that process.
+Ten student teams took concepts through development, iterative design, prototyping, and evaluation. They worked with faculty and industry advisors and presented at the end, and I advised teams through that process.
+
+![The Assure capstone poster on an easel](assets/projects/teaching/poster-assure.jpg)
+![The Flow capstone poster on an easel](assets/projects/teaching/poster-flow.jpg)
+![The Capsule capstone poster on an easel](assets/projects/teaching/poster-capsule.jpg)
+![The LayerLens capstone poster on an easel](assets/projects/teaching/poster-layerlens.jpg)
+![The Social Sonar capstone poster on an easel](assets/projects/teaching/poster-social-sonar.jpg)
 
 Final concept videos from Summer 2024:
+
 - [AiR Agent](https://youtu.be/61A4Qki2SX8)
 - [Cece](https://youtu.be/0P59eJHRpiQ)
 - [Copreneur](https://youtu.be/8qOezkDbABI)
@@ -37,7 +40,7 @@ Final concept videos from Summer 2024:
 - [Obuntu](https://youtu.be/Bw701QRAmk4)
 
 ## Design, Use, Build Seminar (HCID 590), Fall 2025 to Spring 2026
-I’m Instructor of Record. The seminar mixes talks, student-led fireside chats, and hands-on design workshops and sprints, so students reflect on the practical, social, and ethical sides of research, technology, and design decisions.
+I’m Instructor of Record. The seminar mixes talks, student-led fireside chats, and hands-on design workshops and sprints, and it asks students to reflect on the practical, social, and ethical sides of research, technology, and design decisions.
 
 ## Other courses
 - **HCID 510, Design of Interactive Systems** (Spring 2025). Reading, critical analysis, and discussion to help students build frameworks for their future work as emerging technology leaders.

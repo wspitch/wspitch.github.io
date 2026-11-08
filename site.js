@@ -33,7 +33,7 @@
         if (content.email) {
           availability.append(document.createTextNode(' '));
           const hello = document.createElement('a'); hello.className = 'body-link'; hello.href = `mailto:${content.email}`; hello.textContent = 'Say hello';
-          availability.append(hello, document.createTextNode(' 👋✨'));
+          availability.append(hello, document.createTextNode(' 👋🏻✨'));
         }
       } else availability.hidden = true;
     }

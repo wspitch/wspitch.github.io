@@ -6,7 +6,7 @@
   const cardData = [...all.selected, ...(all.more || []), ...all.sandbox].find(project => project.id === id);
   if (!id || !host || !cardData) return;
 
-  fetch(`${root}content/projects/${id}.md?v=20261108c`)
+  fetch(`${root}content/projects/${id}.md?v=20261108d`)
     .then(response => {
       if (!response.ok) throw new Error(`Could not load content/projects/${id}.md`);
       return response.text();
@@ -80,8 +80,11 @@
       return section;
     };
     const endList = () => { list = null; };
+    let gallery = null, prevWasImage = false;
     for (const raw of markdown.split(/\r?\n/)) {
       const line = raw.trim();
+      const isImageLine = /^!\[[^\]]*\]\([^)]*\)$/.test(line);
+      if (!isImageLine) { gallery = null; prevWasImage = false; }
       if (!line) { flushParagraph(); endList(); continue; }
       if (line.startsWith('## ')) {
         flushParagraph();
@@ -114,7 +117,15 @@
       if (line.startsWith('![ ') || line.startsWith('![')) {
         flushParagraph();
         const image=line.match(/^!\[([^\]]*)\]\(([^)]*)\)$/);
-        if (image) target.append(makeMedia(image[2],image[1]));
+        if (image) {
+          const media=makeMedia(image[2],image[1]);
+          if (prevWasImage && gallery) gallery.append(media);
+          else if (prevWasImage) {
+            const prev=target.lastElementChild; gallery=document.createElement('div'); gallery.className='media-gallery';
+            prev.replaceWith(gallery); gallery.append(prev,media);
+          } else target.append(media);
+          prevWasImage = true;
+        }
         endList(); continue;
       }
       if (line.startsWith('- ')) {
@@ -159,7 +170,7 @@
       const video=document.createElement('video'); video.src=src; video.controls=true; video.preload='metadata'; video.setAttribute('aria-label',alt || 'Project video'); figure.append(video); return figure;
     }
     const figure=document.createElement('div'); figure.className='media-slot media-slot--image media-slot--filled';
-    const img=document.createElement('img'); img.src=src; img.alt=alt || ''; img.loading='lazy'; img.addEventListener('error',()=>figure.replaceWith(makeSlot('image',alt || 'Image coming soon'))); figure.append(img); return figure;
+    const img=document.createElement('img'); img.src=src; img.alt=alt || ''; img.loading='lazy'; img.addEventListener('load',()=>{ if (img.naturalHeight) figure.style.setProperty('--ar',(img.naturalWidth/img.naturalHeight).toFixed(3)); }); img.addEventListener('error',()=>figure.replaceWith(makeSlot('image',alt || 'Image coming soon'))); figure.append(img); return figure;
   }
   function makeSlot(type,label) {
     const figure=document.createElement('div'); figure.className=`media-slot media-slot--${type}`;

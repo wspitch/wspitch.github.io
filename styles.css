@@ -224,8 +224,15 @@ strong, b { font-weight: 400; }
   border: 1px solid var(--line); background: #eeedeb; color: #64635f; text-align: center;
 }
 .media-slot--video { aspect-ratio: 16 / 9; background: #e7e6e3; }
-.media-slot--filled { padding: 0; }
-.media-slot--filled img, .media-slot--filled video { display: block; width: 100%; height: 100%; object-fit: cover; }
+.media-slot--filled { padding: 0; aspect-ratio: auto; background: none; border: 0; display: block; }
+.media-slot--filled img { display: block; width: auto; max-width: 100%; height: auto; max-height: 560px; }
+.media-slot--filled video { display: block; width: 100%; height: auto; }
+.detail-art > .media-slot--filled { aspect-ratio: auto; }
+.detail-art > .media-slot--filled img { width: 100%; max-height: none; }
+.media-gallery { display: flex; gap: 10px; align-items: flex-start; margin: 1em 0; }
+.media-gallery > .media-slot { flex: var(--ar, 1) 1 0; min-width: 0; margin: 0; }
+.media-gallery > .media-slot img { width: 100%; max-width: 100%; max-height: none; }
+.case-section-content > .media-slot, .case-section-content > .media-gallery { margin-top: 1em; margin-bottom: 1em; }
 .media-slot-type { font-size: 9px; letter-spacing: .14em; text-transform: uppercase; }
 .media-slot-label { max-width: 30ch; font-size: 12px; line-height: 1.35; }
 .case-sections { border-top: 1px solid var(--line); }
@@ -247,7 +254,8 @@ strong, b { font-weight: 400; }
 .case-highlight-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 14px; }
 .case-highlight .media-slot { margin-bottom: 12px; }
 .case-highlight-meta, .case-story-kicker { margin: 0 0 6px; color: var(--muted); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; }
-.impact-list { display: grid; gap: 13px; padding-left: 19px; }
+.impact-list { display: grid; gap: 6px; padding-left: 19px; }
+.case-copy + .impact-list { margin-top: 14px; }
 .case-notes { display: grid; gap: 22px; }
 .case-note { display: grid; grid-template-columns: minmax(130px, .72fr) minmax(0, 1.8fr); gap: 22px; align-items: start; }
 .case-note h3 { margin: 0; }
