@@ -90,11 +90,27 @@
 
   const footerRoot=document.querySelector('[data-site-footer]');
   if(footerRoot){
-    footerRoot.innerHTML=`<footer class="site-footer"><div class="footer-inner"><div class="footer-copy">Pitch Sinlapanuntakul © 2026</div><nav class="footer-actions" aria-label="Contact and resources"><button class="email-copy" type="button" data-email-copy>EMAIL</button><span class="footer-separator" aria-hidden="true">/</span><a href="https://scholar.google.com/citations?user=_RGPf2gAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">GOOGLE SCHOLAR</a><span class="footer-separator" aria-hidden="true">/</span><a href="${root}assets/Pitch-Sinlapanuntakul-Resume.pdf" target="_blank" rel="noopener noreferrer">RESUME</a></nav><div class="footer-local"><span>Seattle <time data-seattle-time aria-label="Seattle time"></time></span></div></div><span class="copy-status" role="status" aria-live="polite"></span></footer>`;
+    footerRoot.innerHTML=`<footer class="site-footer"><div class="footer-inner"><div class="footer-copy">Pitch Sinlapanuntakul © 2026</div><nav class="footer-actions" aria-label="Contact and resources"><button class="email-copy" type="button" data-email-copy>EMAIL</button><span class="footer-separator" aria-hidden="true">/</span><a href="https://scholar.google.com/citations?user=_RGPf2gAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">GOOGLE SCHOLAR</a><span class="footer-separator" aria-hidden="true">/</span><a href="${root}assets/Pitch-Sinlapanuntakul-Resume.pdf" target="_blank" rel="noopener noreferrer">RESUME</a></nav><div class="footer-local"><span class="footer-updated" data-updated hidden>Updated on <time data-updated-date></time></span><span class="footer-separator" data-updated-sep aria-hidden="true" hidden>|</span><span>Seattle <time data-seattle-time aria-label="Seattle time"></time></span></div></div><span class="copy-status" role="status" aria-live="polite"></span></footer>`;
   }
   const timeNode=document.querySelector('[data-seattle-time]');
   const updateTime=()=>{if(timeNode){const parts=new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',timeZoneName:'short',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'}).formatToParts(new Date());const value=Object.fromEntries(parts.map(part=>[part.type,part.value]));timeNode.textContent=`${value.timeZoneName} ${value.hour}:${value.minute}:${value.second}`}};
   updateTime();setInterval(updateTime,1000);
+
+  const updatedNode=document.querySelector('[data-updated]');
+  if(updatedNode){
+    const showUpdated=iso=>{
+      const date=new Date(iso); if(isNaN(date))return;
+      const stamp=updatedNode.querySelector('time');
+      stamp.dateTime=date.toISOString();
+      stamp.textContent=new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',month:'short',day:'numeric',year:'numeric'}).format(date);
+      updatedNode.hidden=false; document.querySelector('[data-updated-sep]').hidden=false;
+    };
+    const fromFile=()=>fetch(`${root}assets/last-updated.json?v=${Date.now()}`).then(r=>r.json()).then(j=>showUpdated(j.date)).catch(()=>{});
+    if(location.hostname==='wspitch.github.io'){
+      fetch('https://api.github.com/repos/wspitch/wspitch.github.io/commits?per_page=1')
+        .then(r=>r.ok?r.json():Promise.reject()).then(list=>showUpdated(list[0].commit.committer.date)).catch(fromFile);
+    } else fromFile();
+  }
 
   const emailButton=document.querySelector('[data-email-copy]');
   emailButton?.addEventListener('click',async()=>{

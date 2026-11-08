@@ -6,7 +6,7 @@
   const cardData = [...all.selected, ...(all.more || []), ...all.sandbox].find(project => project.id === id);
   if (!id || !host || !cardData) return;
 
-  fetch(`${root}content/projects/${id}.md?v=20261108m`)
+  fetch(`${root}content/projects/${id}.md?v=20261108o`)
     .then(response => {
       if (!response.ok) throw new Error(`Could not load content/projects/${id}.md`);
       return response.text();
