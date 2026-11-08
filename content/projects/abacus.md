@@ -22,11 +22,10 @@ The brief was to explore how the company could serve micro-business owners. Nobo
 
 **I began with the decision and worked backward.** On day one I listed every question leadership might ask and ranked them by what the decision required. Only 3 questions made the cut. Who experiences this problem most acutely? What are they trying to get done? Would a concept change how they work? Pricing, features, and feasibility went to the bottom, because none could be answered with confidence until we knew the need was real.
 
-<!-- DRAFT: check that these reflections match what you actually felt and did, or edit them -->
 ## Where the evidence overturned my plan
 I used the methods in sequence. Desk research framed the space, the survey showed where to look, and the interviews tested my assumptions against how owners described their own work. I can’t share what I heard.
 
-**The most valuable moment of the summer came when what people told me stopped fitting the story I had arrived with.** I had to decide whether to defend my plan or revise it.
+**The most valuable moment of the summer came when what people told me stopped fitting the story I had arrived with.** I treated that as a reason to revise the plan and not to defend it, and I raised the shift with my team early and tied to the evidence, so a change in direction read as a finding and not as drift.
 
 ### Two ideas that shaped how I read the evidence
 - Schön’s (1983) reflection-in-action describes how people think while they act, so owners might not be able to report their habits in an interview.
@@ -43,9 +42,10 @@ I presented to company leadership, including department heads. The deck moved fr
 ![Colleagues gathered around a large colorful board game at the ABACUS office](assets/projects/abacus/team-game.jpg)
 ![A group of ABACUS colleagues posing together, many giving thumbs up](assets/projects/abacus/team-group.jpg)
 
-<!-- DRAFT: replace with what actually happened, or delete -->
 ## Holding the boundary
-When I shared the direction, someone asked whether we could widen the scope so the concept looked less narrow. It is a reasonable question, and a flat no would not have helped. I returned to what the tests supported and to the question on the table, which was who to build for first. Widening the scope would have blurred that answer, so we kept the boundary and logged the other groups as a later question.
+When I shared the direction, someone asked whether we could widen the scope so the concept looked less narrow. I took the question seriously, because breadth can be a legitimate strategic bet. But the decision on the table was who to build for first, and the tests supported an answer only for specific owners.
+
+**I defended the boundary with the evidence and not with my preference.** I named what the tests did and did not support and offered to treat the wider scope as a separate question. We kept the boundary and logged the other groups for later.
 
 ## Impact
 - Leadership reviewed my recommendation and gave the concept a place on the product roadmap for future exploration.

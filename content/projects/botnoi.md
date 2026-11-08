@@ -23,7 +23,6 @@ In a separate set of workshops, I walked cross-functional teams through who a fe
 - The handbook gave Botnoi a repeatable way to run AI-UX research, and 5 interns used it to run their own studies.
 - Cross-functional teams practiced asking who a feature could help or harm before building it.
 
-<!-- DRAFT: replace with your own reflections, or delete -->
 ## What the summer taught me
 
 ### A research practice is more than a set of studies
@@ -33,7 +32,7 @@ With 2 products and one summer, “what should we test?” was only half the que
 Turning habits into steps someone else could follow showed me which parts of research are method and which are judgment. The judgment calls were the hardest to hand over.
 
 ### Mentoring is its own discipline
-Helping 5 interns run studies meant watching them make choices I would have made differently. I had to learn when to step in and when to let them work it out, and that is a big part of why I like teaching.
+Helping 5 interns run studies meant watching them make choices I would have made differently. I stepped in when a study’s validity was at risk and otherwise let interns learn from their own choices, and learning where that line sits is a big part of why I like teaching.
 
 ### Harm and benefit analysis depends on timing
-The workshops on who a feature could help or harm grew out of my PhD work. In fast product conversations, the question landed best when I brought something the team could act on.
+The workshops on who a feature could help or harm grew out of my PhD work. In fast product conversations, the question landed best when it came while the team could still act on it, and when I brought an option alongside the concern.

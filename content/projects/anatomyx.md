@@ -1,8 +1,8 @@
 ---
-title: A mixed reality anatomy app, and hands that couldn’t quite grab it
+title: An augmented reality anatomy app, and hands that couldn’t quite grab it
 eyebrow: PROJECT LEAD, RESEARCH IN USER EXPERIENCE LAB · SPONSORED BY ANATOMYX
 meta: Led the research end to end · 5-person team with a faculty advisor · Heuristic evaluation and usability test on HoloLens 2
-lead: AnatomyX, our sponsor, makes a mixed reality anatomy app that can show a student a body they could never hold in class, provided the student can work the controls. I led an expert heuristic evaluation and a 10-person usability test on HoloLens 2, then triangulated both into a prioritized list of what to fix first.
+lead: AnatomyX, our sponsor, makes an augmented reality anatomy app that can show a student a body they could never hold in class, provided the student can work the controls. I led an expert heuristic evaluation and a 10-person usability test on HoloLens 2, then triangulated both into a prioritized list of what to fix first.
 hero: assets/projects/anatomyx/cover.jpg
 heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX HoloLens 2 app
 ---
@@ -33,14 +33,13 @@ Triangulating the expert evaluation with the user test, both methods converged o
 ![Bar chart of task success rates, with pinning and structures among the lowest](assets/projects/anatomyx/slide-18.jpg)
 ![Bar chart of average difficulty rating by task, with pinning rated hardest](assets/projects/anatomyx/slide-19.jpg)
 
-<!-- DRAFT: replace with what actually happened, or delete -->
 ## Deciding what to report
-Between the expert review and 10 sessions, we had a long list of issues, and the easy move was to report all of them. I wanted the sponsor’s team to know where to start, so I proposed a prioritization rule. 2 kinds of problems went first:
+Between the expert review and 10 sessions, we had a long list of issues. Reporting all of them would have left the sponsor’s team to decide where to start, so I proposed a prioritization rule before we debated individual findings. Problems in 2 groups went first:
 
 - Problems that both the expert evaluation and the user test found.
 - Problems that stopped people from finishing a task.
 
-Everything else went in the full log. That kept the discussion on the criteria and away from debating each issue on its own.
+Everything else went in the full log. Agreeing on criteria first kept the discussion on how serious a problem was and away from debating each issue on its own.
 
 ## Impact
 - A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in 3 areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.

@@ -28,8 +28,7 @@ We set the removal rules before we saw any results, so decisions would follow cr
 ## Working with stakeholders
 Teams across the company relied on the toolkit, so a removal changed their tools. Each cut needed a reason someone could accept without having been in the room. We wrote a rationale for every word, and because the rules were set before the results, we could show stakeholders why and not only what.
 
-<!-- DRAFT: replace with what actually happened, or delete -->
-The cut that drew the most discussion was a word that had been used heavily in past results. The concern was reasonable: would removing it break comparisons with older studies? I didn’t argue that the word was bad. I showed how people actually used it and proposed a short note in future reports about what changed, so anyone comparing across versions would know.
+The cut that drew the most discussion was a word that had been used heavily in past results, and the concern about breaking comparisons with older studies was legitimate. I didn’t argue that the word was bad. I showed how people actually used it, acknowledged the cost to trend comparisons, and proposed a short note in future reports about what changed. Naming the tradeoff openly made it easier for stakeholders to agree.
 
 ## What the validation showed
 Most of the toolkit held up, and a smaller set of words didn’t. Some were confusing, some meant different things to different people, and some told us little even when people chose them often. **Popularity was not evidence of usefulness.** We also added a few words that several people suggested independently and left out one-off phrasing.

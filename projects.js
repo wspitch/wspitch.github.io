@@ -46,7 +46,7 @@ window.projectData = {
     },
     {
       "id": "mr-ar",
-      "name": "Mixed and augmented reality",
+      "name": "Augmented reality",
       "image": "assets/project-sandbox-1.svg",
       "imageAlt": "Title of a published paper on multi-window augmented reality",
       "description": "Published 2 first-authored HoloLens 2 studies on voice dictation and hand-tracked window management.",
@@ -59,7 +59,7 @@ window.projectData = {
       "name": "AnatomyX",
       "image": "assets/project-sandbox-2.svg",
       "imageAlt": "A muscle anatomy model with labeled muscles in the AnatomyX app",
-      "description": "Led a heuristic evaluation and user test of a mixed reality anatomy app to rank what its sponsor should fix first.",
+      "description": "Led a heuristic evaluation and user test of an augmented reality anatomy app to rank what its sponsor should fix first.",
       "route": "anatomyx.html",
       "order": 6,
       "accent": "#c5d2d8"
