@@ -194,6 +194,8 @@ strong, b { font-weight: 400; }
 .photo-controls button { padding: 7px 11px; color: var(--ink); background: transparent; border: 1px solid var(--line); cursor: pointer; }
 .photo-strip-window { overflow: hidden; }
 .photo-strip { display: flex; width: max-content; gap: 12px; padding: 4px 0 13px; animation: photo-drift 45s linear infinite; }
+.photo-strip--static { animation: none; width: auto; }
+.photo-controls[hidden] { display: none; }
 .photo-strip.is-paused, .photo-strip:focus-within, .photo-strip:hover { animation-play-state: paused; }
 .photo-tile {
   width: clamp(210px, 23vw, 260px); aspect-ratio: 1.08; flex: none; margin: 0;

@@ -4,7 +4,7 @@ eyebrow: USER RESEARCH INTERN, ABACUS DIGITAL
 meta: Summer 2026 · Discovery research · Survey, interviews, coded prototype
 lead: I started the summer with an open space and no defined problem. About two months later, leadership had a tested concept on the roadmap, and the team knew who it was for and who it wasn't.
 hero: assets/projects/abacus/cover.jpg
-heroAlt: A handwritten customer notebook page, the starting point for the research
+heroAlt: The ABACUS Digital team posing in front of the company logo
 ---
 
 ## At a glance
@@ -39,6 +39,10 @@ The reactions went beyond what I'd planned for. A pet carer said it would save h
 
 ## The readout
 I presented to company leadership, including department heads. The deck walked from the problem, to the concept, to who it is and isn't for, and it ended on the questions I'd left open: which nudges to send, how to structure the notes, whether this is a standalone app or a feature inside a tool owners already use, and how customers would consent to being remembered by software.
+
+![Colleagues gathered around a large colorful board game at the ABACUS office](assets/projects/abacus/team-game.jpg)
+
+![A group of ABACUS colleagues posing together, many giving thumbs up](assets/projects/abacus/team-group.jpg)
 
 <!-- DRAFT: replace with what actually happened, or delete -->
 ## Holding the boundary

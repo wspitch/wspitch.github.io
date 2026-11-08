@@ -5,7 +5,7 @@ window.projectData = {
       "id": "abacus",
       "name": "ABACUS Digital",
       "image": "assets/projects/abacus/card.jpg",
-      "imageAlt": "A handwritten customer notebook page, the starting point for the research",
+      "imageAlt": "The ABACUS Digital team posing in front of the company logo",
       "description": "Finding the right product question for micro-business owners. Two months, no defined problem, and a notebook full of handwritten customer notes that redirected the concept. It earned a place on the product roadmap.",
       "route": "abacus.html",
       "order": 1,
