@@ -3,8 +3,6 @@ title: What I learned setting up UX research at Botnoi
 eyebrow: UX RESEARCH INTERN, BOTNOI GROUP
 meta: Summer 2024 · Two AI voice products · Research function setup
 lead: One summer, two AI voice products, and a team that wanted to learn from users but didn’t have a way to do it yet. This is a short look at what I built and what it taught me.
-hero: assets/projects/botnoi/cover.jpg
-heroAlt: The UX research handbook and a workshop whiteboard
 ---
 
 ## At a glance

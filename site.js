@@ -63,7 +63,7 @@
   navToggle.innerHTML='<span></span><span></span><span></span>';
   const links = [
     ['pitch s.',root+'index.html','home'],
-    ['ETC',root+'sandbox.html','sandbox'],
+    ['ETC',root+'etc','sandbox'],
     ['ABOUT',root+'about.html','about'],
     ['LINKEDIN','https://linkedin.com/in/wspitch','external']
   ];

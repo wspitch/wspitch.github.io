@@ -3,8 +3,6 @@ title: How warm is too warm to touch?
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Fortune 10 technology company, under NDA · Lab experiments
 lead: Hardware teams needed to know how warm a surface could get before touching it stopped feeling comfortable. I worked on lab studies of two materials, and the findings fed material decisions on smart-home hardware. Everything specific is under NDA, so I’ve blacked out the numbers.
-hero: assets/projects/fortune-materials/cover.jpg
-heroAlt: Title slide of a study on the touch comfort of a ceramic material
 ---
 
 ## At a glance
@@ -15,8 +13,6 @@ heroAlt: Title slide of a study on the touch comfort of a ceramic material
 
 ## A note on this page
 Temperatures, results, and the company are left out here, and I’d rather say so than give you a vague summary. What’s left is how we thought about it, what we learned about people, and what I’d do differently.
-
-![Title slide for a study on the touch comfort of a smart speaker with a display](assets/projects/fortune-materials/smart-speaker.jpg)
 
 ## The problem
 Choosing a material by feel is expensive in both directions. Too cautious, and designers lose room to work. Too bold, and people get uncomfortable or worse. People also differ a lot in what feels hot, so a single number from a small sample wouldn’t hold up.

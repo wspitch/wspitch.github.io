@@ -59,12 +59,12 @@
       hero.append(makeSlot('image',heroValue));
       hero.append(makeText('figcaption','','Replace this placeholder with a project image you are allowed to use.'));
     }
-    const pieces = {eyebrow,title,meta,lead,hero};
+    const pieces = {eyebrow,title,meta,lead,hero:item.hero ? hero : null};
     for (const piece of item.heroOrder || ['eyebrow','title','meta','lead','hero']) if (pieces[piece]) opening.append(pieces[piece]);
     host.append(opening);
     renderSections(item.sections);
     const back = makeText('a','back-link',cardData.route.startsWith('sandbox/') ? '← Back to etc' : '← Back to Selected Projects');
-    back.href = root + (cardData.route.startsWith('sandbox/') ? 'sandbox.html' : 'index.html#work'); host.append(back);
+    back.href = root + (cardData.route.startsWith('sandbox/') ? 'etc' : 'index.html#work'); host.append(back);
   }
 
   function renderSections(markdown) {

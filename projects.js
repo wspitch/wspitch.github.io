@@ -4,7 +4,7 @@ window.projectData = {
     {
       "id": "abacus",
       "name": "ABACUS Digital",
-      "image": "assets/projects/abacus/card.jpg",
+      "image": "assets/project-figma.svg",
       "imageAlt": "The ABACUS Digital team posing in front of the company logo",
       "description": "Finding the right product question for micro-business owners. Two months, no defined problem, and interviews that changed my mind. A reflection on scoping open-ended research, under NDA.",
       "route": "abacus.html",
@@ -15,7 +15,7 @@ window.projectData = {
     {
       "id": "values",
       "name": "Designing AI around values",
-      "image": "assets/projects/values/card.jpg",
+      "image": "assets/project-mmmm.svg",
       "imageAlt": "A grid of Value-Harm Cards",
       "description": "Designing AI around values and harms. Designers can feel harm before they can name a value, so I built a toolkit that starts there. A company building AI for hiring adopted it on its own.",
       "route": "values.html",
@@ -25,7 +25,7 @@ window.projectData = {
     {
       "id": "fortune-toolkit",
       "name": "Fortune 10 toolkit",
-      "image": "assets/projects/fortune-toolkit/card.jpg",
+      "image": "assets/project-nng.svg",
       "imageAlt": "Tables of words to eliminate and words to add",
       "description": "Checking the words a Fortune 10 company uses to ask about its products. A 250-person study cut a 108-word list to 99, and teams across the organization adopted the revised list.",
       "route": "fortune-toolkit.html",
@@ -36,7 +36,7 @@ window.projectData = {
     {
       "id": "fortune-materials",
       "name": "Fortune 10 materials",
-      "image": "assets/projects/fortune-materials/card.jpg",
+      "image": "assets/project-blink.svg",
       "imageAlt": "Title slide of a study on the touch comfort of a ceramic material",
       "description": "How warm is too warm to touch? Lab studies behind material decisions on smart-home hardware, with every number redacted.",
       "route": "fortune-materials.html",
@@ -47,7 +47,7 @@ window.projectData = {
     {
       "id": "mr-ar",
       "name": "Mixed and augmented reality",
-      "image": "assets/projects/mr-ar/card.jpg",
+      "image": "assets/project-sandbox-1.svg",
       "imageAlt": "Title of a published paper on multi-window augmented reality",
       "description": "Voice and hand interaction in mixed and augmented reality. Two published HoloLens 2 studies that landed on the same problem: people couldn’t tell what the system was doing.",
       "route": "mr-ar.html",
@@ -57,7 +57,7 @@ window.projectData = {
     {
       "id": "anatomyx",
       "name": "AnatomyX",
-      "image": "assets/projects/anatomyx/card.jpg",
+      "image": "assets/project-sandbox-2.svg",
       "imageAlt": "A muscle anatomy model with labeled muscles in the AnatomyX app",
       "description": "A mixed reality anatomy app, a beautiful body, and hands that couldn’t quite grab it. I led a heuristic evaluation and user test on HoloLens 2.",
       "route": "anatomyx.html",
@@ -67,7 +67,7 @@ window.projectData = {
     {
       "id": "botnoi",
       "name": "Botnoi Group",
-      "image": "assets/projects/botnoi/card.jpg",
+      "image": "assets/project-sandbox-3.svg",
       "imageAlt": "The UX research handbook and a workshop whiteboard",
       "description": "What I learned setting up UX research for two AI voice products, with a handbook, five mentored interns, and workshops on who a feature could help or harm.",
       "route": "botnoi.html",
@@ -80,7 +80,7 @@ window.projectData = {
     {
       "id": "design-jam",
       "name": "Future of AI-powered design",
-      "image": "assets/projects/design-jam/card.jpg",
+      "image": "assets/project-sandbox-4.svg",
       "imageAlt": "Design jam teams sketching ideas around a table covered with drawings and laptops",
       "description": "A design jam with 11 UX designers, 3 industry partners, and a teaching approach published at IEEE ProComm 2025.",
       "route": "sandbox/design-jam.html",
@@ -90,7 +90,7 @@ window.projectData = {
     {
       "id": "teaching",
       "name": "Mentoring HCI capstone teams",
-      "image": "assets/projects/teaching/card.jpg",
+      "image": "assets/project-sandbox-5.svg",
       "imageAlt": "A large group of students and instructors in a classroom",
       "description": "How I advise student teams at the University of Washington, with links to the teams’ final concept videos.",
       "route": "sandbox/teaching.html",

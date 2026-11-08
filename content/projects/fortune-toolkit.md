@@ -3,8 +3,6 @@ title: Checking the words a company uses to ask about its products
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Fortune 10 technology company, under NDA · Survey research
 lead: A large technology company had a list of 108 words it used to ask consumers how its hardware feels. Everyone trusted the list, and nobody had checked it against how people actually talk. We checked, and the revised list was adopted across the organization.
-hero: assets/projects/fortune-toolkit/cover.jpg
-heroAlt: Tables of words to eliminate and words to add to the toolkit
 ---
 
 ## At a glance
@@ -23,8 +21,6 @@ Teams used the list to understand how people felt about the company’s hardware
 We tested the whole list at once, with 250 consumers, 50 per product type. People picked words to describe the company and the products, chose words for five design goals, flagged the words they found confusing, and told us what the list was missing. I analyzed word use and confusion in R and coded the suggestions thematically.
 
 We set the removal rules before we saw any results, so decisions would follow criteria and not taste. With 50 people per type, we made calls about the list, never about an individual product.
-
-![Tables of words to eliminate and words to add, each with its rationale](assets/projects/fortune-toolkit/word-list.jpg)
 
 ## Working with stakeholders
 Teams across the company relied on the list, so a removal was a change to their tools. Each cut needed a reason someone could accept without having been in the room. We wrote a rationale for every word, and because the rules were set before the results, we could show stakeholders why, not just what.
