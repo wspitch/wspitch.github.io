@@ -1,40 +1,38 @@
 ---
-title: Finding the right product question for micro-business owners
+title: From an open brief to a working proof of concept for micro-business owners
 eyebrow: USER RESEARCH INTERN, ABACUS DIGITAL
-meta: Summer 2026 · Discovery research · Survey, interviews, coded prototype · Under NDA
-lead: I started the summer with an open space and no defined problem. This is an account of how I scoped it into a decision leadership could act on, where the evidence overturned my assumptions, and what I would carry into the next open-ended engagement.
-hero: assets/projects/abacus/cover.jpg
-heroAlt: The ABACUS Digital team posing in front of the company logo
+meta: Summer 2026 · About 2 months · Under NDA
+lead: I started the summer with an open brief and no defined problem. I took it from discovery research to a proof of concept leadership could react to, and this is how I scoped it, where my thinking changed, and what I would carry into the next open-ended engagement.
+hero: assets/projects/abacus/sketch.svg
+heroAlt: A pencil sketch of the project in 7 steps, from scattered dots through a funnel, a survey, interviews, code, a phone prototype, and a presentation
 ---
-
-## In 60 seconds
-**Question.** Starting from an open brief, what is worth building 0 to 1 for self-employed people, and who should we serve first?
-**Method.** Discovery research on the pain points of self-employed people, then a survey and interviews with micro-business owners, a proof of concept I vibe coded with AI, and concept tests.
-**Observed.** What owners told me stopped fitting the story I arrived with, and the tests supported an answer only for specific owners.
-**Interpreted.** People may not be able to report habits they perform without thinking, so behavior with something real counted for more than stated intent.
-**Decided.** Micro-business owners became the group to serve first. I presented the findings and demoed the final proof of concept, and leadership gave the concept a place on the product roadmap.
-
-## At a glance
-**Role.** User research intern on the Customer Insight and User Research team, which sits in the product team.
-**Timeline.** June to August 2026, about 2 months.
-**Methods.** Discovery research on the pain points of self-employed people, a survey and interviews with micro-business owners, concept tests, and a proof of concept I vibe coded with AI.
-**The decision.** What to build 0 to 1 for self-employed people, and which owners to serve first.
-**Why a prototype.** Behavior with something real says more about adoption than stated intent.
 
 ## What I can share
 **Can share.** How I scoped the problem, where my thinking changed, why I chose each method, and what I would do again.
-**Can’t share.** Findings, the concept, and product details, which are under NDA.
-**Happy to discuss live.** The reasoning behind each choice. Ask me about any of it in an interview.
+**Can’t share.** Findings, the concept, and product details. Those are under NDA, and I am happy to talk through the reasoning live.
+
+## At a glance
+**Role.** User research intern on the Customer Insight and User Research team, which sits in the product team.
+**Question.** What is worth building 0 to 1 for self-employed people, and who should we serve first?
+**Method.** Discovery research on the pain points of self-employed people, then a survey and interviews with micro-business owners, a proof of concept I vibe coded with AI, and concept tests.
+**Why this method.** Behavior with something real says more about adoption than stated intent.
+**Observed.** What owners told me stopped fitting the story I arrived with, and the tests supported an answer only for specific owners.
+**Interpreted.** People may not be able to report habits they perform without thinking, so behavior with a working prototype counted for more than stated intent.
+**Decided.** Micro-business owners became the group to serve first. I presented the findings and demoed the final proof of concept, and leadership put the concept on the product roadmap.
 
 ## Framing the problem
-The brief was open: take a 0-to-1 idea from discovery to a proof of concept. I began with the pain points of self-employed people, and that research is how we settled on micro-business owners as who to serve. Nobody had defined the problem, and I had about 2 months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.
+The brief was open: take a 0-to-1 idea from discovery to a proof of concept. Nobody had defined the problem, and I had about 2 months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.
 
 **I began with the decision and worked backward.** On day one I listed every question leadership might ask and ranked them by what the decision required. Only 3 questions made the cut. Who experiences this problem most acutely? What are they trying to get done? Would a concept change how they work? Pricing, features, and feasibility went to the bottom, because none could be answered with confidence until we knew the need was real.
 
-## Where the evidence overturned my plan
-Once discovery pointed to micro-business owners, I used the methods in sequence. The survey showed where to look, and the interviews tested my assumptions against how owners described their own work. I can’t share what I heard.
+## Choosing who to serve
+Self-employed people are a broad group, and a first product cannot serve all of them. I started with discovery research on their pain points, and that research is how we settled on micro-business owners as who to serve first. I can’t share what we heard.
 
-**The most valuable moment of the summer came when what people told me stopped fitting the story I had arrived with.** I treated that as a reason to revise the plan and not to defend it, and I raised the shift with my team early and tied to the evidence, so a change in direction read as a finding and not as drift.
+A survey of micro-business owners then showed where to look, and interviews tested my assumptions against how owners described their own work.
+
+> The most valuable moment of the summer came when what people told me stopped fitting the story I had arrived with.
+
+I treated that as a reason to revise the plan and not to defend it. I raised the shift with my team early and tied it to the evidence, so a change in direction read as a finding and not as drift.
 
 ### Two ideas that shaped how I read the evidence
 - Schön’s (1983) reflection-in-action describes how people think while they act, so owners might not be able to report their habits in an interview.
@@ -42,12 +40,15 @@ Once discovery pointed to micro-business owners, I used the methods in sequence.
 
 Both pushed me to ask how owners know things, and to stop asking what features they wanted.
 
-## Testing demand with something tangible
-A static concept cannot tell you whether someone will adopt a new habit. So I built a working proof of concept, vibe coding it with AI, and tested it with 2 small groups of owners. AI made it possible for one researcher to build it within the internship. Their reactions went beyond what I had planned for, which is the reason to put something real in front of people. The groups were small, so I treated the results as a signal about direction and not a verdict.
+## A proof of concept, built with AI
+A static concept cannot tell you whether someone will adopt a new habit. So I vibe coded a working proof of concept with AI and tested it with 2 small groups of owners. AI made it possible for one researcher to build it within the internship.
+
+Their reactions went beyond what I had planned for. The groups were small, so I treated the results as a signal about direction and not a verdict.
 
 ## The readout
 I presented the findings to company leadership, including department heads, and demoed the final proof of concept. The deck moved from the problem to the concept to who it is and isn’t for, and it ended on the questions I had left open, so leadership could see where my confidence was high and where it was not.
 
+![The ABACUS Digital team posing in front of the company logo](assets/projects/abacus/cover.jpg)
 ![Colleagues gathered around a large colorful board game at the ABACUS office](assets/projects/abacus/team-game.jpg)
 ![A group of ABACUS colleagues posing together, many giving thumbs up](assets/projects/abacus/team-group.jpg)
 
@@ -57,11 +58,13 @@ When I shared the direction, someone asked whether we could widen the scope so t
 **I defended the boundary with the evidence and not with my preference.** I named what the tests did and did not support and offered to treat the wider scope as a separate question. We kept the boundary and logged the other groups for later.
 
 ## Impact
-- Leadership reviewed my recommendation and gave the concept a place on the product roadmap for future exploration.
+- Leadership reviewed my recommendation and put the concept on the product roadmap for future exploration.
+- I delivered a survey, an interview study, a working proof of concept, and a readout deck with a live demo.
 - The recommendation named who to serve and left others out on purpose.
-- Demand and desirability were tested before anything was built, so the roadmap decision rested on what owners said and did.
+- Demand and desirability were tested with something real before the roadmap decision.
 
 ## What I ruled out
+- **Building for all self-employed people.** A first product cannot serve every kind of self-employed work, so discovery research narrowed us to micro-business owners.
 - **Ranking pricing, features, and feasibility first.** I moved them to the bottom, because none could be answered with confidence until we knew the need was real.
 - **Asking owners which features they wanted.** Schön and Polanyi pushed me to ask how owners know things, so I stopped asking for feature wishes.
 - **Widening the scope so the concept looked less narrow.** The tests supported an answer only for specific owners, so I kept the boundary and logged the other groups for later.

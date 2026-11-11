@@ -7,19 +7,14 @@ hero: assets/projects/anatomyx/cover.jpg
 heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX HoloLens 2 app
 ---
 
-## In 60 seconds
-**Question.** What the app’s team should fix first.
-**Method.** An expert heuristic evaluation, then a usability test with 10 people on HoloLens 2.
+## At a glance
+**Role.** Project lead on a 5-person research team with a faculty advisor, responsible for the research end to end. AnatomyX sponsored the project.
+**Question.** What should the app’s team fix first?
+**Method.** An expert heuristic evaluation, then a usability test with 10 people on HoloLens 2 (8 scenario tasks, about 70 minutes each), with standardized measures for usability, experience, simulator sickness, exertion, and likelihood to recommend.
+**Why 2 methods.** A heuristic evaluation is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
 **Observed.** Only half of participants managed to pin an item, and the cursor stopped lining up with where people’s hands were.
 **Interpreted.** Both methods converged on tutorial overload, small objects that were hard to see, and weak feedback on what was selected.
 **Decided.** A ranked shortlist in 3 areas: the tutorial, design and consistency, and accessibility.
-
-## At a glance
-**Role.** Project lead on a 5-person research team with a faculty advisor, responsible for the research end to end.
-**Sponsor.** AnatomyX.
-**Methods.** An expert heuristic evaluation, then a usability test with 10 people (8 scenario tasks, about 70 minutes each), with standardized measures for usability, experience, simulator sickness, exertion, and likelihood to recommend.
-**The decision.** What the app’s team should fix first.
-**Why 2 methods.** A heuristic evaluation is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
 
 ## Why interaction is the risk
 The app lets students view and manipulate a virtual human body. On a headset, learners must acquire a new set of gestures before they can learn any anatomy, so an interaction problem becomes a learning problem.
@@ -38,6 +33,7 @@ One participant found the “Structures” menu only because our task wording sa
 Triangulating the expert evaluation with the user test, both methods converged on the biggest problems: tutorial overload, small objects that were hard to see against a busy room, and weak feedback on what was selected. We prioritized those.
 
 ![Bar chart of task success rates, with pinning and structures among the lowest](assets/projects/anatomyx/slide-18.jpg)
+
 ![Bar chart of average difficulty rating by task, with pinning rated hardest](assets/projects/anatomyx/slide-19.jpg)
 
 ## Deciding what to report

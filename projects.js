@@ -3,9 +3,10 @@ window.projectData = {
   "selected": [
     {
       "id": "abacus",
+      "tag": "Discovery research · survey · interviews · NDA",
       "name": "ABACUS Digital",
       "image": "assets/project-figma.svg",
-      "imageAlt": "Illustration of a ranked list of questions with the top 3 checked and one decision circled",
+      "imageAlt": "Pencil sketch of scattered dots narrowing through a funnel toward a phone prototype",
       "description": "Scoped open-ended discovery research on micro-business owners to inform a product roadmap decision.",
       "route": "abacus.html",
       "order": 1,
@@ -14,9 +15,10 @@ window.projectData = {
     },
     {
       "id": "values",
+      "tag": "AI and values · interviews, think-aloud, toolkit",
       "name": "Designing AI around values",
       "image": "assets/project-mmmm.svg",
-      "imageAlt": "Illustration of a value card and a harm card held in tension by a wavy line",
+      "imageAlt": "Pencil sketch of an axis chart with 3 sticky notes and a zigzag line between 2 of them",
       "description": "Led interview and think-aloud studies on how designers weigh AI values and harms, and built a toolkit that a company building hiring AI adopted on its own.",
       "route": "values.html",
       "order": 2,
@@ -24,9 +26,10 @@ window.projectData = {
     },
     {
       "id": "fortune-toolkit",
+      "tag": "Survey research · NDA",
       "name": "Google Product Impression Toolkit",
       "image": "assets/project-nng.svg",
-      "imageAlt": "Illustration of a word list with some words struck out and new words added",
+      "imageAlt": "Pencil sketch of a stack of cards beside a checklist",
       "description": "Validated Google’s internal Product Impression Toolkit through a large-scale consumer survey, and teams across the company adopted the revised version.",
       "route": "fortune-toolkit.html",
       "order": 3,
@@ -35,9 +38,10 @@ window.projectData = {
     },
     {
       "id": "fortune-materials",
+      "tag": "Lab experiments · NDA",
       "name": "Google touch comfort",
       "image": "assets/project-blink.svg",
-      "imageAlt": "Illustration of a fingertip above a surface warming from cool to hot, beside a timer",
+      "imageAlt": "Pencil sketch of a touchscreen with a fingertip and 3 sliders",
       "description": "Ran lab experiments on touch comfort to inform material decisions for Google smart-home hardware.",
       "route": "fortune-materials.html",
       "order": 4,
@@ -46,9 +50,10 @@ window.projectData = {
     },
     {
       "id": "mr-ar",
+      "tag": "Lab experiments · HoloLens 2",
       "name": "Augmented reality",
       "image": "assets/project-sandbox-1.svg",
-      "imageAlt": "Illustration of a headset with 3 floating windows and a voice waveform",
+      "imageAlt": "Pencil sketch of a headset visor, a grid of 20 dots, and a pinching hand",
       "description": "Published 2 first-authored HoloLens 2 studies on voice dictation and hand-tracked window management.",
       "route": "mr-ar.html",
       "order": 6,
@@ -56,9 +61,10 @@ window.projectData = {
     },
     {
       "id": "botnoi",
+      "tag": "Research setup · internship",
       "name": "Botnoi Group",
       "image": "assets/project-sandbox-3.svg",
-      "imageAlt": "Illustration of a chat bubble beside a voice waveform",
+      "imageAlt": "Pencil sketch of an open handbook, 5 stick figures, and a sound wave",
       "description": "Set up UX research for 2 AI voice products, with a handbook and 5 mentored interns, tied to a 28% increase in user base.",
       "route": "botnoi.html",
       "order": 5,
@@ -69,9 +75,10 @@ window.projectData = {
   "sandbox": [
     {
       "id": "design-jam",
+      "tag": "Co-design · published",
       "name": "Future of AI-powered design",
       "image": "assets/project-sandbox-4.svg",
-      "imageAlt": "Illustration of 3 sticky notes above a prototype frame",
+      "imageAlt": "Pencil sketch of 3 sticky notes above a prototype frame",
       "description": "Designed and ran a design jam with 11 working designers, published as a teaching approach at IEEE ProComm 2025.",
       "route": "sandbox/design-jam.html",
       "order": 1,
@@ -79,9 +86,10 @@ window.projectData = {
     },
     {
       "id": "teaching",
+      "tag": "Teaching · 7 courses",
       "name": "Mentoring HCI capstone teams",
       "image": "assets/project-sandbox-5.svg",
-      "imageAlt": "Illustration of a poster on an easel with a question bubble",
+      "imageAlt": "Pencil sketch of a poster on an easel",
       "description": "Advised capstone teams and taught 7 HCDE and HCID courses at the University of Washington.",
       "route": "sandbox/teaching.html",
       "order": 2,
@@ -89,9 +97,10 @@ window.projectData = {
     },
     {
       "id": "anatomyx",
+      "tag": "Heuristic evaluation · user test",
       "name": "AnatomyX",
       "image": "assets/project-sandbox-2.svg",
-      "imageAlt": "Illustration of a target with a cursor that has drifted away from where the hand points",
+      "imageAlt": "Pencil sketch of a target with a cursor that has drifted away from where a hand points",
       "description": "Led a heuristic evaluation and user test of an augmented reality anatomy app to rank what its sponsor should fix first.",
       "route": "sandbox/anatomyx.html",
       "order": 3,
@@ -113,6 +122,7 @@ document.querySelectorAll('[data-project-list]').forEach(list => {
     const img=document.createElement('img'); img.src=root+item.image; img.alt=item.imageAlt||''; img.loading='lazy'; img.addEventListener('error',()=>img.remove()); image.append(img);
     const copy=document.createElement('div'); copy.className='project-card__copy';
     const title=document.createElement('h3'); title.className='project-title'; title.textContent=item.name; copy.append(title);
+    if(item.tag){const tag=document.createElement('p'); tag.className='project-tag'; tag.textContent=item.tag; copy.append(tag);}
     const desc=document.createElement('p'); desc.className='project-description'; desc.textContent=item.description; copy.append(desc);
     card.append(image,copy);list.append(card);
   }

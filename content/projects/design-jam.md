@@ -7,20 +7,14 @@ hero: assets/projects/design-jam/organizers.jpg
 heroAlt: The design jam organizers and industry co-hosts posing together in front of an HCDE banner
 ---
 
-## In 60 seconds
-**Question.** How to imagine AI-enabled design work beyond current web and mobile conventions.
-**Method.** A one-day co-design with 11 designers and 3 industry co-hosts, using career roadmaps, team ideation, sketching, and Figma prototyping.
+## At a glance
+**Role.** Facilitator and researcher, with 3 industry design professionals as co-hosts and 11 designers taking part.
+**Question.** How might we imagine AI-enabled design work beyond current web and mobile conventions?
+**Method.** A one-day co-design with career roadmaps, team ideation, sketching, and Figma prototyping.
+**Why a design jam.** A structured co-design day let working designers imagine the future of their own tools without a fixed brief.
 **Observed.** Designers wanted AI to assist them and not replace them, and they asked for more time, more examples, and more conversation with the guests.
 **Interpreted.** The evidence is participant feedback, so I describe the format as a teaching approach and not a measured outcome.
 **Decided.** Publish the format at IEEE ProComm 2025 for other educators to adapt.
-
-## At a glance
-**Role.** Facilitator and researcher.
-**Team.** 3 industry design professionals and 11 designers.
-**Timeline.** April 2024.
-**Methods.** Career roadmaps, team ideation, sketching, and Figma prototyping.
-**The decision.** How to imagine AI-enabled design work beyond current web and mobile conventions.
-**Why a design jam.** A structured co-design day let working designers imagine the future of their own tools without a fixed brief.
 
 ## Designing the day
 3 industry design professionals co-hosted with me, and we shaped the plan together. 11 designers with at least 2 years of experience joined, in 3 teams balanced by experience.
@@ -30,11 +24,9 @@ heroAlt: The design jam organizers and industry co-hosts posing together in fron
 ![An industry co-host talking with a team gathered around laptops and sticky notes](assets/projects/design-jam/mentor-team.jpg)
 
 ### How the day ran
-- A talk on AI trends opened the day.
-- A warm-up followed. Each designer sketched a roadmap of their career and marked where AI had already changed their practice, so everyone started from their own experience before imagining anything new.
-- Teams picked a design space, sketched individually, chose one idea together, and prototyped it in Figma. The prompt asked them to break from web and mobile conventions.
-- Each team presented its vision, features, value proposition, and anticipated impact.
-- We closed with a synthesis.
+- A talk on AI trends opened the day, then each designer sketched a career roadmap and marked where AI had already changed their practice.
+- Teams picked a design space, sketched individually, chose one idea together, and prototyped it in Figma, with a prompt to break from web and mobile conventions.
+- Each team presented its vision, features, value proposition, and anticipated impact, and we closed with a synthesis.
 
 ## What participants told us
 **Designers wanted AI to assist them and not replace them.** They also said it helps to focus on one pain point, and they valued the sketching, the prototyping, and the live input from the industry guests.
@@ -50,11 +42,5 @@ Their most consistent request was for more: more time, more real examples, more 
 - HCDE covered the event in its news: [“HCDE design jam explores the future of AI-powered design work”](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work).
 - 11 designers left with prototypes, with industry co-hosts giving live input along the way.
 
-## What I ruled out
-- **A fixed brief.** A structured co-design day let working designers imagine the future of their own tools without one.
-- **Calling the format a measured outcome.** The evidence is participant feedback, so I describe it as a teaching approach.
-
 ## What I’d do differently
-The evidence here is participant feedback, so I describe the format as a teaching approach and not a measured outcome.
-
-Next time I would add a before-and-after measure, so claims about learning have something to rest on.
+Participant feedback is the only evidence I have. Next time I would add a before-and-after measure, so claims about learning have something to rest on.

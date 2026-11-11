@@ -6,7 +6,7 @@
   const cardData = [...all.selected, ...(all.more || []), ...all.sandbox].find(project => project.id === id);
   if (!id || !host || !cardData) return;
 
-  fetch(`${root}content/projects/${id}.md?v=20261110b`)
+  fetch(`${root}content/projects/${id}.md?v=20261111a`)
     .then(response => {
       if (!response.ok) throw new Error(`Could not load content/projects/${id}.md`);
       return response.text();
@@ -69,7 +69,7 @@
 
   function renderSections(markdown) {
     markdown = markdown.replace(/<!--[\s\S]*?-->/g, '');
-    let section = null, list = null, paragraph = [], sectionTitle = '', glanceList = null, ladder = null;
+    let section = null, list = null, paragraph = [], sectionTitle = '', glanceList = null, table = null;
     const flushParagraph = () => {
       if (!paragraph.length) return;
       const target = getSection()._content || section;
@@ -89,24 +89,26 @@
       if (line.startsWith('## ')) {
         flushParagraph();
         section = document.createElement('section'); section.className='case-section case-section--text';
-        sectionTitle = line.slice(3).trim().toLowerCase(); glanceList = null; ladder = null;
+        sectionTitle = line.slice(3).trim().toLowerCase(); glanceList = null; table = null;
         const content=document.createElement('div'); content.className='case-section-content';
         const heading=makeText('h2','case-section-title',line.slice(3));
         heading.id=`case-section-${host.querySelectorAll('.case-section').length+1}`;
         section.setAttribute('aria-labelledby',heading.id); content.append(heading); section.append(content); host.append(section); section._content=content;
         if(sectionTitle==='at a glance'||sectionTitle==='what i can share'){ glanceList=document.createElement('dl'); glanceList.className=sectionTitle==='at a glance'?'case-glance':'case-glance case-share'; content.append(glanceList); }
-        if(sectionTitle==='in 60 seconds'){ ladder=document.createElement('ol'); ladder.className='case-ladder'; content.append(ladder); }
         endList(); continue;
       }
       const target=getSection()._content || section;
       const glanceMatch = (sectionTitle==='at a glance'||sectionTitle==='what i can share') && line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
-      const ladderMatch = sectionTitle==='in 60 seconds' && line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
-      if (ladderMatch) {
-        flushParagraph();
-        const label=ladderMatch[1].replace(/\.$/,''); const li=document.createElement('li');
-        li.append(makeText('span',`tag tag--${label.toLowerCase()}`,label));
-        const body=document.createElement('p'); appendInline(body,ladderMatch[2]); li.append(body); ladder.append(li); endList(); continue;
+      if (line.startsWith('|')) {
+        flushParagraph(); endList();
+        const cells=line.replace(/^\||\|$/g,'').split('|').map(c=>c.trim());
+        if (cells.every(c=>/^:?-+:?$/.test(c))) continue;
+        if (!table) { table=document.createElement('table'); table.className='case-table'; const wrap=document.createElement('div'); wrap.className='case-table-wrap'; wrap.append(table); target.append(wrap); table._head=true; }
+        const tr=document.createElement('tr');
+        cells.forEach(c=>{ const cell=document.createElement(table._head?'th':'td'); appendInline(cell,c); tr.append(cell); });
+        table._head=false; table.append(tr); continue;
       }
+      table=null;
       const explore = line.match(/^\{\{explore:([\w-]+)\}\}$/);
       if (explore) { flushParagraph(); const node=makeExplorable(explore[1]); if (node) target.append(node); endList(); continue; }
       if (glanceMatch) {
@@ -141,7 +143,7 @@
       if (line.startsWith('- ')) {
         flushParagraph();
         if (!list) { list=document.createElement('ul'); list.className='impact-list'; target.append(list); }
-        const li=document.createElement('li'); appendInline(li,line.slice(2)); list.append(li); continue;
+        const li=document.createElement('li'); appendInline(li,line.slice(2)); list.append(li); list.classList.toggle('impact-list--cols',list.children.length>6); continue;
       }
       const video=line.match(/^\[Video: ([^\]]+)\]\(([^)]+)\)$/i);
       if (video) { flushParagraph(); target.append(makeMedia(video[2],video[1])); endList(); continue; }
@@ -211,14 +213,14 @@
 
   function makeText(tag,className,value) { const node=document.createElement(tag); if(className)node.className=className; node.textContent=value||''; return node; }
   function makeMedia(path,alt) {
-    const clean=path.trim();
+    let clean=path.trim(); const small=/#small$/.test(clean); clean=clean.replace(/#small$/,'');
     if (!clean) return makeSlot('image',alt || 'Add an image');
     const src=/^(https?:|\/)/i.test(clean) ? clean : root+clean;
     if (/\.(mp4|webm|ogg)(\?.*)?$/i.test(clean)) {
       const figure=document.createElement('div'); figure.className='media-slot media-slot--video media-slot--filled';
       const video=document.createElement('video'); video.src=src; video.controls=true; video.preload='metadata'; video.setAttribute('aria-label',alt || 'Project video'); figure.append(video); return figure;
     }
-    const figure=document.createElement('div'); figure.className='media-slot media-slot--image media-slot--filled';
+    const figure=document.createElement('div'); figure.className='media-slot media-slot--image media-slot--filled'+(small?' media-slot--small':'');
     const img=document.createElement('img'); img.src=src; img.alt=alt || ''; img.loading='lazy'; img.addEventListener('load',()=>{ if (img.naturalHeight) figure.style.setProperty('--ar',(img.naturalWidth/img.naturalHeight).toFixed(3)); }); img.addEventListener('error',()=>figure.replaceWith(makeSlot('image',alt || 'Image coming soon'))); figure.append(img); return figure;
   }
   function makeSlot(type,label) {

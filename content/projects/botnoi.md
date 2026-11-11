@@ -1,23 +1,21 @@
 ---
-title: What I learned setting up UX research at Botnoi
+title: Setting up UX research for 2 AI voice products at Botnoi
 eyebrow: UX RESEARCH INTERN, BOTNOI GROUP
 meta: Summer 2024 · 2 AI voice products · Research function setup
 lead: Botnoi’s teams wanted user insight but had no routine way to get it. Over one summer, across 2 AI voice products, I ran studies and built a research practice, and the update launches I supported were tied to a 28% increase in user base.
+hero: assets/projects/botnoi/sketch.svg
+heroAlt: A pencil sketch of an open handbook, 5 stick figures standing in a row, and a sound wave
 ---
-
-## In 60 seconds
-**Question.** How 2 AI voice products could get user insight on a routine basis.
-**Method.** Usability studies, surveys, interviews, an AI-UX research handbook, and mentoring 5 interns.
-**Observed.** Teams wanted user insight but had no routine way to get it.
-**Interpreted.** A research practice has to outlast one person, so the handbook mattered as much as any single study.
-**Decided.** Botnoi gained a repeatable way to run AI-UX research, and the update launches I supported were tied to a 28% increase in user base.
 
 ## At a glance
 **Role.** UX research intern.
-**Timeline.** Summer 2024.
 **Products.** [MarAds](https://voice.botnoi.ai/marAds), an AI-powered text-to-speech tool for content creation, and [AI Voicebot](https://voice.botnoi.ai), which handles customer service across chat and voice calls.
-**Methods.** Task-based usability tests with think-aloud and ratings, surveys, and interviews.
+**Question.** How could 2 AI voice products get user insight on a routine basis?
+**Method.** Task-based usability tests with think-aloud and ratings, surveys, interviews, an AI-UX research handbook, and mentoring 5 interns.
 **Why a handbook.** Research capacity had to outlast an internship.
+**Observed.** Teams wanted user insight but had no routine way to get it.
+**Interpreted.** A research practice has to outlast one person, so the handbook mattered as much as any single study.
+**Decided.** Give Botnoi a repeatable way to run AI-UX research. The update launches I supported were tied to a 28% increase in user base over 2 months.
 
 ## What I did
 I ran usability studies on both products. I also wrote an AI-UX research handbook that lays out the methods step by step, so the practice could continue without me. 5 UX interns used it to run their own studies, and I mentored them while they did.
@@ -29,10 +27,6 @@ In a separate set of workshops, I walked cross-functional teams through who a fe
 - Usability studies on both products gave each team a first structured read on how users handled the product.
 - The handbook gave Botnoi a repeatable way to run AI-UX research, and 5 interns used it to run their own studies.
 - Cross-functional teams practiced asking who a feature could help or harm before building it.
-
-## What I ruled out
-- **Running more studies myself.** “What should we test?” was only half the question, so I wrote a handbook the team could keep using after I left.
-- **Stepping in on every intern choice.** I stepped in when a study’s validity was at risk and otherwise let interns learn from their own choices.
 
 ## What the summer taught me
 

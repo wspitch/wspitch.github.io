@@ -416,3 +416,41 @@ strong, b { font-weight: 400; }
 .site-footer[data-sky="dusk"] { --sky-a: #e0a98f; --sky-b: #8e86b0; }
 @media (prefers-reduced-motion: reduce) { .explore-dot, .explore-bar span { transition: none; } }
 @media (max-width: 560px) { .case-ladder li { grid-template-columns: 1fr; gap: 2px; } }
+
+/* Case layout refinements: serif voice, pull quotes, tables, small figures */
+:root { --serif: Charter, "Iowan Old Style", "Palatino Linotype", Georgia, serif; --accent: #5b3fc4; }
+.case-opening .page-title { font-family: var(--serif); font-weight: 600; letter-spacing: -.01em; line-height: 1.15; }
+.case-lede { font-family: var(--serif); font-size: 17px; }
+.case-section-content blockquote { max-width: 40ch; margin: 22px 0; padding: 0 0 0 18px; border-left: 2px solid var(--ink); font-family: var(--serif); font-size: 21px; line-height: 1.35; color: var(--ink); }
+.body-link { color: var(--accent); }
+.media-slot--small { max-width: 340px; }
+.impact-list--cols { display: block; max-width: none; columns: 2; column-gap: 32px; }
+.impact-list--cols li { break-inside: avoid; margin: 0 0 6px; }
+.case-table-wrap { max-width: 68ch; overflow-x: auto; margin: 14px 0; }
+.case-table { border-collapse: collapse; width: 100%; font-size: 14px; line-height: 1.4; }
+.case-table th, .case-table td { text-align: left; padding: 7px 14px 7px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+.case-table th { color: var(--muted); font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
+.case-pullquote-note { margin-top: 4px; }
+@media (max-width: 560px) { .impact-list--cols { columns: 1; } }
+@media (max-width: 700px) { .project-card, .sandbox-grid .project-card { aspect-ratio: auto; } .project-image { aspect-ratio: 4 / 3; } }
+.project-tag { margin: 3px 0 0; color: var(--muted); font-size: 11px; line-height: 1.3; }
+
+/* About photos: static row, same crop */
+.photo-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.photo-grid .photo-tile { height: auto; aspect-ratio: 4 / 5; }
+.photo-grid .photo-tile img { width: 100%; height: 100%; object-fit: cover; }
+@media (max-width: 560px) { .photo-grid { grid-template-columns: 1fr 1fr 1fr; gap: 6px; } }
+.intro-copy p[data-home-intro] { max-width: 36em; font-size: 19px; line-height: 1.5; color: var(--ink); }
+.intro-copy p.home-availability { margin: 0 0 18px; font-size: 13px; color: var(--muted); }
+.intro-copy p.home-availability strong { color: var(--ink); font-weight: 600; }
+.etc-group { margin: 0 0 36px; }
+.etc-group h2 { margin: 0 0 10px; color: var(--muted); font-size: 10px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; }
+.etc-row { display: grid; grid-template-columns: 1fr auto; gap: 4px 18px; padding: 14px 0; border-top: 1px solid var(--line); color: inherit; text-decoration: none; }
+.etc-row:hover .etc-name { text-decoration: underline; }
+.etc-name { font-family: var(--serif); font-size: 19px; }
+.etc-year { color: var(--muted); font-size: 12px; }
+.etc-line { grid-column: 1 / -1; margin: 0; color: var(--body-ink); font-size: 14px; }
+.project-card, .sandbox-grid .project-card { aspect-ratio: auto; grid-template-rows: auto 1fr; }
+.project-image { aspect-ratio: 4 / 3; min-height: 0; }
+@media (max-width:560px){.intro-copy p[data-home-intro]{font-size:16px}}
+.case-section-content strong, .impact-list strong { font-weight: 700; color: var(--ink); }

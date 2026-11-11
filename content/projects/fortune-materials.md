@@ -3,29 +3,29 @@ title: How warm is too warm to touch?
 eyebrow: UX RESEARCHER, APPLIED RESEARCH CONSULTING TEAM
 meta: 2021 to 2022 · Google, under NDA · Lab experiments
 lead: Google’s hardware teams needed to know how warm a surface could get before touching it stopped feeling comfortable. I worked on lab studies of 2 materials, and the findings fed material decisions on smart-home hardware.
+hero: assets/projects/fortune-materials/sketch.svg
+heroAlt: A pencil sketch of a touchscreen with a fingertip, 3 sliders for the conditions we varied, and an arrow to a checked box
 ---
-
-## In 60 seconds
-**Question.** How warm a surface can get before people stop being comfortable touching it.
-**Method.** Controlled lab experiments on 2 materials, varying surface temperature, touch duration, and room temperature.
-**Observed.** As surfaces got warmer, people noticed, then investigated, then pulled away. Older participants worried more but took fewer steps to fix the problem.
-**Interpreted.** Comfort depended on who was touching, for how long, and in what room, so ranges fit better than one number.
-**Decided.** The findings fed material decisions on smart-home hardware.
-
-## At a glance
-**Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders.
-**Timeline.** 2021 to 2022.
-**Methods.** Controlled lab experiments where each person tried a range of surface temperatures, touch durations, and room temperatures, with ratings and observed actions.
-**The decision.** How warm a surface can get before people stop being comfortable touching it.
-**Why lab experiments.** Temperature, touch duration, and room temperature had to be controlled to separate their effects.
 
 ## What I can share
 **Can share.** The problem, the study design, how people behaved in general terms, and what I would do differently.
 **Can’t share.** Temperatures, ratings, results, or anything else data related. Google told me not to.
-**Happy to discuss live.** The design tradeoffs and how we handled the safety limits.
+
+## At a glance
+**Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders.
+**Question.** How warm can a surface get before people stop being comfortable touching it?
+**Method.** Controlled lab experiments on 2 materials, where each person tried a range of surface temperatures, touch durations, and room temperatures, with ratings and observed actions.
+**Why lab experiments.** Temperature, touch duration, and room temperature had to be controlled to separate their effects.
+**Observed.** As surfaces got warmer, people noticed, then investigated, then pulled away. Older participants worried more but took fewer steps to fix the problem.
+**Interpreted.** Comfort depended on who was touching, for how long, and in what room, so ranges fit better than one number.
+**Decided.** The findings fed material decisions on smart-home hardware.
 
 ## The problem
-Choosing a material by feel is costly in both directions. A cautious team takes room away from designers, and a bold one risks making people uncomfortable or hurting them. People also differ a lot in what feels hot, so a single number from a small sample would not hold up.
+Choosing a material by feel is costly in both directions. A cautious team takes room away from designers, and a bold one risks making people uncomfortable or hurting them.
+
+> Comfort depended on who was touching, for how long, and in what room.
+
+People differ a lot in what feels hot, so a single number from a small sample would not hold up.
 
 ## Study design
 Because the question depended on exact conditions, we ran lab studies where surface temperature, touch duration, and room temperature could be set precisely. Each person tried a range of conditions, which let us compare them with themselves. We kept the design the same across both materials so the results could sit side by side.
@@ -35,7 +35,7 @@ Safety shaped the design too. We couldn’t hold people on the hottest surfaces 
 ## What people did
 We tracked behavior as well as ratings, and the behavior told us more. As surfaces got warmer, people noticed, then investigated, then pulled away. Some described what they would do at home: turn the device off, move it into the shade, call tech support, or send it back.
 
-Age complicated the picture. Older participants worried more about safety but took fewer steps to investigate or fix the problem. The room mattered as well. **Comfort depended on who was touching, for how long, and in what room**, which is why we gave ranges and not one number.
+Age complicated the picture. Older participants worried more about safety but took fewer steps to investigate or fix the problem. The room mattered as well, which is why we gave ranges and not one number.
 
 ## Impact
 - The findings fed evidence-based material decisions on smart-home hardware.
