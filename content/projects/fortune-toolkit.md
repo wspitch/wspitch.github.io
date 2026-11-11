@@ -46,7 +46,7 @@ Most of the toolkit held up, and a smaller set of words didn’t. Some were conf
 - Every change to the toolkit came with a written rationale.
 - My research manager told me teams across the organization adopted the revised toolkit.
 
-## Roads not taken
+## What I ruled out
 - **Cutting words by taste or by how often people chose them.** We set removal rules before we saw any results, because popularity was not evidence of usefulness.
 - **Arguing that a heavily used word was bad.** I showed how people actually used it, acknowledged the cost to comparisons with older studies, and proposed a short note in future reports.
 - **Making calls about individual products.** We made calls about the list and never about a product.

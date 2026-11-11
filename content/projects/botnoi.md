@@ -30,7 +30,7 @@ In a separate set of workshops, I walked cross-functional teams through who a fe
 - The handbook gave Botnoi a repeatable way to run AI-UX research, and 5 interns used it to run their own studies.
 - Cross-functional teams practiced asking who a feature could help or harm before building it.
 
-## Roads not taken
+## What I ruled out
 - **Running more studies myself.** “What should we test?” was only half the question, so I wrote a handbook the team could keep using after I left.
 - **Stepping in on every intern choice.** I stepped in when a study’s validity was at risk and otherwise let interns learn from their own choices.
 

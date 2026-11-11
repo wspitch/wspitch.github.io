@@ -37,11 +37,6 @@
         }
       } else availability.hidden = true;
     }
-    const notes = document.querySelector('[data-home-notes]');
-    if (notes && content.home.notes) content.home.notes.forEach(item => {
-      const li = document.createElement('li'); li.className = 'field-note';
-      addText(li, 'span', `tag tag--${item.tag.toLowerCase()}`, item.tag); addText(li, 'span', '', item.text); notes.append(li);
-    });
     const research = document.querySelector('[data-research-list]');
     if (research && content.home.research) content.home.research.forEach(item => {
       const row = document.createElement('div'); row.className = 'experience-row';

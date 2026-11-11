@@ -50,7 +50,7 @@ Their most consistent request was for more: more time, more real examples, more 
 - HCDE covered the event in its news: [“HCDE design jam explores the future of AI-powered design work”](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work).
 - 11 designers left with prototypes, with industry co-hosts giving live input along the way.
 
-## Roads not taken
+## What I ruled out
 - **A fixed brief.** A structured co-design day let working designers imagine the future of their own tools without one.
 - **Calling the format a measured outcome.** The evidence is participant feedback, so I describe it as a teaching approach.
 

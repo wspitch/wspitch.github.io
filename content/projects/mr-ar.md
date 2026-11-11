@@ -68,7 +68,7 @@ Both charts below use only figures reported above.
 - Both studies were published, at HFES 2022 and in Frontiers in Virtual Reality in 2023. On the second, I handled the ethics approval, recruitment, data curation, and quantitative analysis, and co-led data collection and qualitative analysis.
 - The multi-window data is open on the [Open Science Framework](https://osf.io/e3u4n), so other teams have numbers to compare against.
 
-## Roads not taken
+## What I ruled out
 - **Letting people correct dictation errors.** I allowed no corrections, so errors came from the system and not from people fixing mistakes.
 - **Time limits and fixed paths in the multi-window study.** I set no time limit, let people walk around the lab, and had them think aloud.
 

@@ -41,7 +41,7 @@ Age complicated the picture. Older participants worried more about safety but to
 - The findings fed evidence-based material decisions on smart-home hardware.
 - I presented the work to stakeholders across research, design, engineering, and product.
 
-## Roads not taken
+## What I ruled out
 - **Extrapolating past what we observed.** The hottest surfaces were short touches only, and we said so in every readout.
 - **Reporting one comfort number.** Comfort depended on who was touching, for how long, and in what room, so we gave ranges.
 

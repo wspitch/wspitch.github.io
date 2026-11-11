@@ -52,7 +52,7 @@ Everything else went in the full log. Agreeing on criteria first kept the discus
 - A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in 3 areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
 - A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
 
-## Roads not taken
+## What I ruled out
 - **Reporting every issue.** That would have left the sponsor’s team to decide where to start, so the full log went in an appendix.
 - **Debating each finding on its own.** I proposed a prioritization rule first, so the discussion stayed on how serious a problem was.
 - **Trusting the expert review alone.** It is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.

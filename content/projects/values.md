@@ -64,7 +64,7 @@ I tested the redesign with 12 designers across 2 design briefs, thinking aloud. 
 - The toolkit is free on the Figma Community and runs inside FigJam, where designers already work.
 - 2 first-authored DIS 2026 papers, one on how designers work with generative AI and one on the toolkit, and the groundwork for my dissertation.
 
-## Roads not taken
+## What I ruled out
 - **Studying several values at once.** I scoped each session to 1 value and a short time, which isolated what happened to that value and hid how designers handle several together.
 - **Numeric sliders on the cards.** 21 of 30 designers said the numbers felt arbitrary, so I removed them.
 - **Keeping the toolkit as a standalone website.** 26 of 30 hesitated about leaving the tools they already worked in, so I rebuilt it inside FigJam.
