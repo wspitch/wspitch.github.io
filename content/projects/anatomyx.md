@@ -14,7 +14,7 @@ heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX Holo
 **Why 2 methods.** A heuristic evaluation is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
 **Observed.** Only half of participants managed to pin an item, and the cursor stopped lining up with where people’s hands were.
 **Interpreted.** Both methods converged on tutorial overload, small objects that were hard to see, and weak feedback on what was selected.
-**Decided.** A ranked shortlist in 3 areas: the tutorial, design and consistency, and accessibility.
+**Decided.** A ranked shortlist in 3 areas: the tutorial, design and consistency, and accessibility. The AnatomyX product team took it into account.
 
 ## Why interaction is the risk
 The app lets students view and manipulate a virtual human body. On a headset, learners must acquire a new set of gestures before they can learn any anatomy, so an interaction problem becomes a learning problem.
@@ -46,6 +46,7 @@ Everything else went in the full log. Agreeing on criteria first kept the discus
 
 ## Impact
 - A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in 3 areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
+- The AnatomyX product team took our findings into consideration and used our recommendations to build their own design guidelines for interface design for AR interactions.
 - A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
 
 ## What I ruled out

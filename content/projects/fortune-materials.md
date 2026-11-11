@@ -12,7 +12,7 @@ heroAlt: A pencil sketch of a touchscreen with a fingertip, 3 sliders for the co
 **Can’t share.** Temperatures, ratings, results, or anything else data related. Google told me not to.
 
 ## At a glance
-**Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders.
+**Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders. I worked on the research from start to finish.
 **Question.** How warm can a surface get before people stop being comfortable touching it?
 **Method.** Controlled lab experiments on 2 materials, where each person tried a range of surface temperatures, touch durations, and room temperatures, with ratings and observed actions.
 **Why lab experiments.** Temperature, touch duration, and room temperature had to be controlled to separate their effects.

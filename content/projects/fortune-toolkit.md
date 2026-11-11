@@ -46,7 +46,7 @@ We also added a few words that several people suggested independently and left o
 
 ## Impact
 - Every change to the toolkit came with a written rationale.
-- My research manager told me teams across the organization adopted the revised toolkit.
+- My research manager told me the toolkit has been adopted widely by designers and researchers across the organization for hardware product lines, especially the recent smart-home devices.
 
 ## What I ruled out
 - **Cutting words by taste or by how often people chose them.** We set removal rules before we saw any results, because popularity was not evidence of usefulness.

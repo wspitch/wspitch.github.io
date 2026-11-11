@@ -11,7 +11,7 @@ heroAlt: A large group of students and instructors gathered in a classroom
 **Role.** Instructor and teaching assistant across HCDE and HCID courses.
 **Question.** How do I help teams notice what they might be missing before committing to a direction?
 **Method.** Seminars, capstone advising, research feedback, workshops, and design sprints across 7 courses.
-**Observed.** 10 student teams in Capstone Studio each took a concept through prototyping and evaluation and presented it at the end.
+**Observed.** Seminar ratings held at a median of 4.2 to 4.5 out of 5 across 3 terms, and 10 student teams in Capstone Studio each took a concept through prototyping and evaluation and presented it at the end.
 **Interpreted.** The moment just before a team commits is when a good question can still change what gets built.
 **Decided.** Give feedback on visual grammar, interaction, and concept framing while a team can still change course.
 
@@ -42,6 +42,15 @@ Final concept videos from Summer 2024:
 
 ## Design, Use, Build Seminar (HCID 590), Fall 2025 to Spring 2026
 I’m Instructor of Record. The seminar mixes talks, student-led fireside chats, and hands-on design workshops and sprints, and it asks students to reflect on the practical, social, and ethical sides of research, technology, and design decisions.
+
+## What students said
+Students rated the Design, Use, Build (DUB) Seminar a median of 4.2 in Fall 2025, 4.5 in Winter 2026, and 4.4 in Spring 2026, out of 5.
+
+> I had an amazing time learning from all the wonderful guest speakers. I really appreciated Pitch introducing all the guest speakers and for all the fun sprint activities.
+
+> Thanks to Pitch! I loved the discussion portions within the sprints and after the guest speakers.
+
+> This course gave me a wide range of contacts and made me think about design in new ways.
 
 ## Other courses
 - **HCID 510, Design of Interactive Systems** (Spring 2025). Reading, critical analysis, and discussion to help students build frameworks for their future work as emerging technology leaders.

@@ -14,7 +14,7 @@ heroAlt: A pencil sketch of the project in 7 steps, from scattered dots through 
 ## At a glance
 **Role.** User research intern on the Customer Insight and User Research team, which sits in the product team.
 **Question.** What is worth building 0 to 1 for self-employed people, and who should we serve first?
-**Method.** Discovery research on the pain points of self-employed people, then a survey and interviews with micro-business owners, a proof of concept I vibe coded with AI, and concept tests.
+**Method.** Discovery research on the pain points of self-employed people, then secondary research, a survey of 600+ people, and interviews with micro-business owners, a proof of concept I vibe coded with AI, and concept tests.
 **Why this method.** Behavior with something real says more about adoption than stated intent.
 **Observed.** What owners told me stopped fitting the story I arrived with, and the tests supported an answer only for specific owners.
 **Interpreted.** People may not be able to report habits they perform without thinking, so behavior with a working prototype counted for more than stated intent.
