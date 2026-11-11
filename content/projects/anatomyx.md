@@ -10,11 +10,9 @@ heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX Holo
 ## At a glance
 **Role.** Project lead on a 5-person research team with a faculty advisor, responsible for the research end to end. AnatomyX sponsored the project.
 **Question.** What should the app’s team fix first?
-**Method.** An expert heuristic evaluation, then a usability test with 10 people on HoloLens 2 (8 scenario tasks, about 70 minutes each), with standardized measures for usability, experience, simulator sickness, exertion, and likelihood to recommend.
-**Why 2 methods.** A heuristic evaluation is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
-**Observed.** Only half of participants managed to pin an item, and the cursor stopped lining up with where people’s hands were.
-**Interpreted.** Both methods converged on tutorial overload, small objects that were hard to see, and weak feedback on what was selected.
-**Decided.** A ranked shortlist in 3 areas: the tutorial, design and consistency, and accessibility. The AnatomyX product team took it into account.
+**Method.** An expert heuristic evaluation, then a usability test with 10 people on HoloLens 2, so the user test could check whether the experts’ predictions held for real learners.
+**Findings.** Only half of participants managed to pin an item, and the cursor stopped lining up with people’s hands. Both methods pointed to tutorial overload, small objects, and weak selection feedback.
+**Impact.** A ranked shortlist in 3 areas, which the AnatomyX product team used to build their own design guidelines for AR interactions.
 
 ## Why interaction is the risk
 The app lets students view and manipulate a virtual human body. On a headset, learners must acquire a new set of gestures before they can learn any anatomy, so an interaction problem becomes a learning problem.

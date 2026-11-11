@@ -10,11 +10,9 @@ heroAlt: The design jam organizers and industry co-hosts posing together in fron
 ## At a glance
 **Role.** Facilitator and researcher, with 3 industry design professionals as co-hosts and 11 designers taking part.
 **Question.** How might we imagine AI-enabled design work beyond current web and mobile conventions?
-**Method.** A one-day co-design with career roadmaps, team ideation, sketching, and Figma prototyping.
-**Why a design jam.** A structured co-design day let working designers imagine the future of their own tools without a fixed brief.
-**Observed.** Designers wanted AI to assist them and not replace them, and they asked for more time, more examples, and more conversation with the guests.
-**Interpreted.** Designers wanted AI as a collaborator, and focusing on one pain point made the ideas more concrete. The evidence is participant feedback, so I describe the format as a teaching approach and not as a measured outcome.
-**Decided.** Publish the format at IEEE ProComm 2025 for other educators to adapt.
+**Method.** A one-day co-design with career roadmaps, team ideation, sketching, and Figma prototyping, so working designers could imagine the future of their own tools without a fixed brief.
+**Findings.** Designers wanted AI as a collaborator and not a replacement, and focusing on one pain point made ideas more concrete. The evidence is participant feedback.
+**Impact.** The format was published at IEEE ProComm 2025 as a teaching approach for other educators to adapt.
 
 ## Designing the day
 3 industry design professionals co-hosted with me, and we shaped the plan together. 11 designers with at least 2 years of experience joined, in 3 teams balanced by experience.

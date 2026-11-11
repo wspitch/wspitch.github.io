@@ -8,14 +8,11 @@ heroAlt: A pencil sketch of an open handbook, 5 stick figures standing in a row,
 ---
 
 ## At a glance
-**Role.** UX research intern.
-**Products.** [MarAds](https://voice.botnoi.ai/marAds), an AI-powered text-to-speech tool for content creation, and [AI Voicebot](https://voice.botnoi.ai), which handles customer service across chat and voice calls.
+**Role.** UX research intern across [MarAds](https://voice.botnoi.ai/marAds), an AI text-to-speech tool for content creation, and [AI Voicebot](https://voice.botnoi.ai), a customer service bot for chat and voice calls.
 **Question.** How could 2 AI voice products get user insight on a routine basis?
-**Method.** Task-based usability tests with think-aloud and ratings, surveys, interviews, an AI-UX research handbook, and mentoring 5 interns.
-**Why a handbook.** Research capacity had to outlast an internship.
-**Observed.** Teams wanted user insight but had no routine way to get it.
-**Interpreted.** A research practice has to outlast one person, so the handbook mattered as much as any single study.
-**Decided.** I presented insight-based recommendations to the teams, and they were implemented in the following rounds of design iteration and the product launch. Those updates were tied to a 28% increase in user base across the 2 products over 2 months. I also left a repeatable way to run AI-UX research.
+**Method.** Task-based usability tests with think-aloud, surveys, and interviews, plus an AI-UX research handbook and mentoring 5 interns so the practice could outlast me.
+**Findings.** Teams wanted user insight but had no routine way to get it.
+**Impact.** My recommendations were implemented in later design iterations and the product launch, tied to a 28% increase in user base across both products over 2 months.
 
 ## What I did
 I ran usability studies on both products. I also wrote an AI-UX research handbook that lays out the methods step by step, so the practice could continue without me. 5 UX interns used it to run their own studies, and I mentored them while they did.

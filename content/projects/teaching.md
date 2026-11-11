@@ -11,9 +11,8 @@ heroAlt: A large group of students and instructors gathered in a classroom
 **Role.** Instructor and teaching assistant across HCDE and HCID courses.
 **Question.** How do I help teams notice what they might be missing before committing to a direction?
 **Method.** Seminars, capstone advising, research feedback, workshops, and design sprints across 7 courses.
-**Observed.** Seminar ratings held at a median of 4.2 to 4.5 out of 5 across 3 terms, and 10 student teams in Capstone Studio each took a concept through prototyping and evaluation and presented it at the end.
-**Interpreted.** Teams change direction most readily just before they commit.
-**Decided.** Give feedback on visual grammar, interaction, and concept framing while a team can still change course.
+**Findings.** Teams change direction most readily just before they commit.
+**Impact.** Seminar ratings held at a median of 4.2 to 4.5 out of 5 across 3 terms, and 10 Capstone Studio teams each took a concept through prototyping and evaluation.
 
 ## My approach
 I care most about the moment just before a team commits, when a good question can still change what gets built. I help students surface what they might be missing before they pick a direction. My feedback on student projects usually covers visual grammar, how the interaction works, and how the core concept is framed.

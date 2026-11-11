@@ -12,13 +12,11 @@ heroAlt: A pencil sketch of a pile of cards, an arrow to a ruler, and a checklis
 **Can’t share.** The words on the toolkit, the results, and anything else data related. All of it is under NDA.
 
 ## At a glance
-**Role.** Contract UX researcher on a team of 5 researchers, working directly with Google stakeholders.
+**Role.** Contract UX researcher on a team of 5, working directly with Google stakeholders.
 **Question.** Which words stay in a company-wide toolkit for measuring how people see Google’s products?
-**Method.** A survey across 5 hardware product types with removal rules set before any results, word-use and confusion analysis in R, and thematic coding of open responses.
-**Why a survey.** Validating a company-wide instrument needed breadth across product types, which interviews could not provide.
-**Observed.** Most of the toolkit held up. Some words were confusing, some meant different things to different people, and some told us little even when people chose them often.
-**Interpreted.** How often people chose a word did not show that it was useful.
-**Decided.** Cut and add words with a written rationale for each, and the revised toolkit was adopted across the organization.
+**Method.** A survey across 5 hardware product types with removal rules set before any results, analyzed in R, with thematic coding of open responses.
+**Findings.** Most of the toolkit held up. Some words confused people or meant different things to different people, and how often people chose a word did not show that it was useful.
+**Impact.** We cut and added words with a written rationale for each, and the revised toolkit was adopted across the organization.
 
 ## Why a measurement instrument deserves scrutiny
 Teams used the toolkit to understand how people felt about Google’s hardware and about Google as a company. The words had come from product literature, ads, and customer reviews, which reflects how companies talk about products and not how customers do.

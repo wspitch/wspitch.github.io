@@ -10,11 +10,9 @@ heroAlt: Chart of average user experience scores from the multi-window study, wi
 ## At a glance
 **Role.** First author on both studies.
 **Question.** What should a headset team fix first for voice and hand input?
-**Method.** A counterbalanced dictation experiment and a task-based multi-window usability study with think-aloud, 20 people each, with standardized scales for usability, workload, and simulator sickness.
-**Why these methods.** A counterbalanced experiment isolates the effect of noise on dictation, and think-aloud usability testing explains why hand-tracked window management feels difficult.
-**Observed.** Dictation errors stayed at 2 to 5% across 3 noise levels, yet people couldn’t tell whether the system was slow or had stopped listening. Only 10 of 20 scrolled successfully.
-**Interpreted.** Both studies converged on invisible system state: people could not tell what the headset was doing.
-**Decided.** Show when the system is listening, when it has finished, and when a grab has registered, before adding features.
+**Method.** A counterbalanced dictation experiment and a think-aloud usability study of multi-window work, 20 people each, with standardized scales for usability, workload, and simulator sickness.
+**Findings.** Dictation errors stayed at 2 to 5% across 3 noise levels, yet people couldn’t tell what the system was doing, and only 10 of 20 scrolled successfully.
+**Impact.** Both studies were published, and they recommend showing system state, such as listening, finished, and grab registered, before adding features.
 
 ### Published as
 - [“The effects of background noise on user experience and performance of mixed reality voice dictation”](https://doi.org/10.1177/1071181322661376), Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 2022.

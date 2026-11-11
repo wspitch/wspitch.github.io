@@ -12,13 +12,11 @@ heroAlt: A pencil sketch of the project in 7 steps, from scattered dots through 
 **Can’t share.** Findings, the concept, and product details. Those are under NDA, and I am happy to talk through the reasoning live.
 
 ## At a glance
-**Role.** User research intern on the Customer Insight and User Research team, which sits in the product team.
+**Role.** User research intern on the Customer Insight and User Research team.
 **Question.** What is worth building 0 to 1 for self-employed people, and who should we serve first?
-**Method.** Discovery research on the pain points of self-employed people, then secondary research, a survey of 600+ people, and interviews with micro-business owners, a proof of concept I vibe coded with AI, and concept tests.
-**Why this method.** Behavior with something real says more about adoption than stated intent.
-**Observed.** What owners told me stopped fitting the story I arrived with, and the tests supported an answer only for specific owners.
-**Interpreted.** People may not be able to report habits they perform without thinking, so behavior with a working prototype counted for more than stated intent.
-**Decided.** Micro-business owners became the group to serve first. I presented the findings and demoed the final proof of concept, and leadership put the concept on the product roadmap.
+**Method.** Discovery research, a survey of 600+ people, and interviews with micro-business owners, then a proof of concept vibe coded with AI and concept tests, because behavior with something real says more about adoption than stated intent.
+**Findings.** What owners told me stopped fitting my starting story, and the tests supported an answer only for specific owners.
+**Impact.** Micro-business owners became the group to serve first, and leadership put the concept on the product roadmap.
 
 ## Framing the problem
 The brief was open: take a 0-to-1 idea from discovery to a proof of concept. Nobody had defined the problem, and I had about 2 months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.

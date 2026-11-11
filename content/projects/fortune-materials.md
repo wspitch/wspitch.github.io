@@ -12,13 +12,11 @@ heroAlt: A pencil sketch of a touchscreen with a fingertip, 3 sliders for the co
 **Can’t share.** Temperatures, ratings, results, and anything else data related. All of it is under NDA.
 
 ## At a glance
-**Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders. I worked on the research from start to finish.
+**Role.** Contract UX researcher on a team of 5, working directly with Google stakeholders, on the research from start to finish.
 **Question.** How warm can a surface get before people stop being comfortable touching it?
-**Method.** Controlled lab experiments on 2 materials, where each person tried a range of surface temperatures, touch durations, and room temperatures, with ratings and observed actions.
-**Why lab experiments.** Temperature, touch duration, and room temperature had to be controlled to separate their effects.
-**Observed.** As surfaces got warmer, people noticed, then investigated, then pulled away. Older participants worried more but took fewer steps to fix the problem.
-**Interpreted.** People differed enough that a range of temperatures fit better than a single number.
-**Decided.** The findings fed material decisions on smart-home hardware.
+**Method.** Controlled lab experiments on 2 materials, varying surface temperature, touch duration, and room temperature, because those had to be controlled to separate their effects.
+**Findings.** As surfaces got warmer, people noticed, then investigated, then pulled away. Comfort varied enough by person and room that a range fit better than one number.
+**Impact.** The findings fed material decisions on smart-home hardware.
 
 ## The problem
 Choosing a material by feel is costly in both directions. A cautious team takes room away from designers, and a bold one risks making people uncomfortable or hurting them.

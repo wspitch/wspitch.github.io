@@ -8,13 +8,11 @@ heroAlt: A grid of blue and green Value-Harm Cards from the toolkit
 ---
 
 ## At a glance
-**Role.** First author and lead researcher, advised by Mark Zachry, with co-authors on each paper.
+**Role.** First author and lead researcher, advised by Mark Zachry.
 **Question.** What would help designers weigh values and harms at the start of an AI concept, when changing course is still cheap?
-**Method.** Think-aloud sessions and interviews with 18 designers, a survey of 30, think-aloud sessions and interviews with 12, and research through design for the toolkit.
-**Why these methods.** Think-aloud sessions capture reasoning as it happens, interviews probe it afterward, a survey tested adoption beyond the lab, and research through design let the toolkit change with each round of evidence.
-**Observed.** 16 of 18 designers couldn’t translate a value into features, and 13 of 18 accepted AI suggestions because they sounded technical.
-**Interpreted.** Designers already hold judgment that tools should help them surface, and an AI’s fluency can stand in for their own.
-**Decided.** Build the ACE Toolkit around harm at the start of a concept, inside FigJam, without sliders.
+**Method.** Think-aloud sessions and interviews with 18 designers, a survey of 30, a test of the redesign with 12, and research through design for the toolkit, so each round of evidence could reshape it.
+**Findings.** 16 of 18 designers couldn’t translate a value into features, and 13 of 18 accepted AI suggestions because they sounded technical.
+**Impact.** The free ACE Toolkit asks about harm at the start of a concept, inside FigJam, and a company building AI for hiring adopted it unprompted.
 
 ## The question
 The first ideas for a product tend to stick. They set what it is for, who it serves, and what it could hurt, and later work mostly refines those choices. Designers usually make these calls with little structured support, because most guidance arrives late or assumes AI expertise they may not have. I wanted to study that earliest moment, then build something for it.
