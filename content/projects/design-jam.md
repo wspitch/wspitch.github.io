@@ -7,6 +7,13 @@ hero: assets/projects/design-jam/organizers.jpg
 heroAlt: The design jam organizers and industry co-hosts posing together in front of an HCDE banner
 ---
 
+## In 60 seconds
+**Question.** How to imagine AI-enabled design work beyond current web and mobile conventions.
+**Method.** A one-day co-design with 11 designers and 3 industry co-hosts, using career roadmaps, team ideation, sketching, and Figma prototyping.
+**Observed.** Designers wanted AI to assist them and not replace them, and they asked for more time, more examples, and more conversation with the guests.
+**Interpreted.** The evidence is participant feedback, so I describe the format as a teaching approach and not a measured outcome.
+**Decided.** Publish the format at IEEE ProComm 2025 for other educators to adapt.
+
 ## At a glance
 **Role.** Facilitator and researcher.
 **Team.** 3 industry design professionals and 11 designers.
@@ -42,6 +49,10 @@ Their most consistent request was for more: more time, more real examples, more 
 - The format is published as a teaching approach at [IEEE ProComm 2025](https://doi.org/10.1109/ProComm64814.2025.00042), in “Exploring the Future of AI-Powered Design with Working Professionals: A Novel Design Jam Approach,” for other educators to adapt.
 - HCDE covered the event in its news: [“HCDE design jam explores the future of AI-powered design work”](https://www.hcde.washington.edu/news/article/2024-05-14/hcde-design-jam-explores-future-ai-powered-design-work).
 - 11 designers left with prototypes, with industry co-hosts giving live input along the way.
+
+## Roads not taken
+- **A fixed brief.** A structured co-design day let working designers imagine the future of their own tools without one.
+- **Calling the format a measured outcome.** The evidence is participant feedback, so I describe it as a teaching approach.
 
 ## What I’d do differently
 The evidence here is participant feedback, so I describe the format as a teaching approach and not a measured outcome.

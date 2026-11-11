@@ -7,6 +7,13 @@ hero: assets/projects/teaching/cover.jpg
 heroAlt: A large group of students and instructors gathered in a classroom
 ---
 
+## In 60 seconds
+**Question.** How to help teams notice what they might be missing before committing to a direction.
+**Method.** Seminars, capstone advising, research feedback, workshops, and design sprints across 7 courses.
+**Observed.** 10 student teams in Capstone Studio each took a concept through prototyping and evaluation and presented it at the end.
+**Interpreted.** The moment just before a team commits is when a good question can still change what gets built.
+**Decided.** Give feedback on visual grammar, interaction, and concept framing while a team can still change course.
+
 ## At a glance
 **Role.** Instructor and teaching assistant.
 **Team.** Student teams across HCDE and HCID courses.

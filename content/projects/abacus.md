@@ -7,15 +7,24 @@ hero: assets/projects/abacus/cover.jpg
 heroAlt: The ABACUS Digital team posing in front of the company logo
 ---
 
+## In 60 seconds
+**Question.** Whether to invest in serving micro-business owners, and which owners to build for.
+**Method.** A survey, interviews, and concept tests with a proof of concept I vibe coded with AI.
+**Observed.** What owners told me stopped fitting the story I arrived with, and the tests supported an answer only for specific owners.
+**Interpreted.** People may not be able to report habits they perform without thinking, so behavior with something real counted for more than stated intent.
+**Decided.** Leadership gave the concept a place on the product roadmap, with a boundary on which owners to serve first.
+
 ## At a glance
 **Role.** User research intern on the Customer Insight and User Research team, which sits in the product team.
 **Timeline.** June to August 2026, about 2 months.
-**Methods.** Desk research, a survey of micro-business owners, interviews, and concept tests with a prototype I coded.
+**Methods.** Desk research, a survey of micro-business owners, interviews, and concept tests with a proof of concept I vibe coded with AI.
 **The decision.** Whether to invest in serving micro-business owners, and which owners to build for.
 **Why a prototype.** Behavior with something real says more about adoption than stated intent.
 
-## A note on this page
-This work is under NDA, so I can’t share findings, the concept, or product details. I can discuss how I scoped the problem, where my thinking changed, and what I would do again. Ask me about any of it in conversation.
+## What I can share
+**Can share.** How I scoped the problem, where my thinking changed, why I chose each method, and what I would do again.
+**Can’t share.** Findings, the concept, and product details, which are under NDA.
+**Happy to discuss live.** The reasoning behind each choice. Ask me about any of it in an interview.
 
 ## Framing the problem
 The brief was to explore how the company could serve micro-business owners. Nobody had defined the problem, and I had about 2 months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.
@@ -34,7 +43,7 @@ I used the methods in sequence. Desk research framed the space, the survey showe
 Both pushed me to ask how owners know things, and to stop asking what features they wanted.
 
 ## Testing demand with something tangible
-A static concept cannot tell you whether someone will adopt a new habit. So I built a working prototype and tested it with 2 small groups of owners. Their reactions went beyond what I had planned for, which is the reason to put something real in front of people. The groups were small, so I treated the results as a signal about direction and not a verdict.
+A static concept cannot tell you whether someone will adopt a new habit. So I built a working proof of concept, vibe coding it with AI, and tested it with 2 small groups of owners. AI made it possible for one researcher to build it within the internship. Their reactions went beyond what I had planned for, which is the reason to put something real in front of people. The groups were small, so I treated the results as a signal about direction and not a verdict.
 
 ## The readout
 I presented to company leadership, including department heads. The deck moved from the problem to the concept to who it is and isn’t for, and it ended on the questions I had left open, so leadership could see where my confidence was high and where it was not.
@@ -51,6 +60,11 @@ When I shared the direction, someone asked whether we could widen the scope so t
 - Leadership reviewed my recommendation and gave the concept a place on the product roadmap for future exploration.
 - The recommendation named who to serve and left others out on purpose.
 - Demand and desirability were tested before anything was built, so the roadmap decision rested on what owners said and did.
+
+## Roads not taken
+- **Ranking pricing, features, and feasibility first.** I moved them to the bottom, because none could be answered with confidence until we knew the need was real.
+- **Asking owners which features they wanted.** Schön and Polanyi pushed me to ask how owners know things, so I stopped asking for feature wishes.
+- **Widening the scope so the concept looked less narrow.** The tests supported an answer only for specific owners, so I kept the boundary and logged the other groups for later.
 
 ## What I’d carry forward
 Most of the work was choosing the right question. Ranking questions against the decision on day one mattered more to me than any single method, as did being willing to retire my own hypotheses when the evidence disagreed.

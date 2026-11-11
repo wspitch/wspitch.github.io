@@ -7,6 +7,13 @@ hero: assets/projects/mr-ar/cover.jpg
 heroAlt: The title and authors of the published paper on multi-window augmented reality
 ---
 
+## In 60 seconds
+**Question.** What a headset team should fix first for voice and hand input.
+**Method.** A counterbalanced dictation experiment and a task-based multi-window study, with 20 people each.
+**Observed.** Dictation errors stayed at 2 to 5% across 3 noise levels, yet people couldn’t tell whether the system was slow or had stopped listening. Only 10 of 20 scrolled successfully.
+**Interpreted.** Both studies converged on invisible system state: people could not tell what the headset was doing.
+**Decided.** Show when the system is listening, when it has finished, and when a grab has registered, before adding features.
+
 ## At a glance
 **Role.** First author on both studies.
 **Timeline.** Published in 2022 and 2023.
@@ -52,9 +59,18 @@ Novelty and stimulation rated excellent, and efficiency rated “bad.” After 4
 
 ![Table of the most problematic hand-tracking interactions: air tap, direct touch and scrolling](assets/projects/mr-ar/hand-tracking-table.jpg)
 
+## Explore the numbers
+Both charts below use only figures reported above.
+
+{{explore:mr-ar}}
+
 ## Impact
 - Both studies were published, at HFES 2022 and in Frontiers in Virtual Reality in 2023. On the second, I handled the ethics approval, recruitment, data curation, and quantitative analysis, and co-led data collection and qualitative analysis.
 - The multi-window data is open on the [Open Science Framework](https://osf.io/e3u4n), so other teams have numbers to compare against.
+
+## Roads not taken
+- **Letting people correct dictation errors.** I allowed no corrections, so errors came from the system and not from people fixing mistakes.
+- **Time limits and fixed paths in the multi-window study.** I set no time limit, let people walk around the lab, and had them think aloud.
 
 ## What I’d do differently
 Both studies converged on invisible system state. If I ran them again, I would design around feedback from the start. I would also test speech-like background noise and older participants, because mine were all college-aged (average about 22), on one device, in a lab.

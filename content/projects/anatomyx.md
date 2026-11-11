@@ -7,6 +7,13 @@ hero: assets/projects/anatomyx/cover.jpg
 heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX HoloLens 2 app
 ---
 
+## In 60 seconds
+**Question.** What the app’s team should fix first.
+**Method.** An expert heuristic evaluation, then a usability test with 10 people on HoloLens 2.
+**Observed.** Only half of participants managed to pin an item, and the cursor stopped lining up with where people’s hands were.
+**Interpreted.** Both methods converged on tutorial overload, small objects that were hard to see, and weak feedback on what was selected.
+**Decided.** A ranked shortlist in 3 areas: the tutorial, design and consistency, and accessibility.
+
 ## At a glance
 **Role.** Project lead on a 5-person research team with a faculty advisor, responsible for the research end to end.
 **Sponsor.** AnatomyX.
@@ -44,6 +51,11 @@ Everything else went in the full log. Agreeing on criteria first kept the discus
 ## Impact
 - A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in 3 areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
 - A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
+
+## Roads not taken
+- **Reporting every issue.** That would have left the sponsor’s team to decide where to start, so the full log went in an appendix.
+- **Debating each finding on its own.** I proposed a prioritization rule first, so the discussion stayed on how serious a problem was.
+- **Trusting the expert review alone.** It is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
 
 ## What I’d do differently
 I would bring in anatomy students in a real class. 10 participants in a lab show where the interaction breaks, and only a classroom can show whether the fixes hold up in actual learning.

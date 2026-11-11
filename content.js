@@ -6,6 +6,17 @@ window.portfolioContent = {
     "title": "Pitch Sinlapanuntakul",
     "availability": "Actively seeking UX researcher and adjacent roles with start dates in mid-2027.",
     "intro": "I’m a UX researcher + PhD candidate at UW who helps teams rethink problems and see possibilities beyond the obvious. I care about making technology feel meaningfully magical, in ways that once seemed impossible.",
+    "notes": [
+      { "tag": "Currently", "text": "Exploring AI agents in research workflows." },
+      { "tag": "Observed", "text": "Would still like Pokémon to be real someday." }
+    ],
+    "research": [
+      { "date": "DIS 2026", "text": "[How Designers Envision Value-Oriented AI Concepts with Generative AI](https://doi.org/10.1145/3800645.3813053)" },
+      { "date": "DIS 2026", "text": "[AI Concept Envisioning Toolkit for Reflective Juxtaposition of Values and Harms](https://doi.org/10.1145/3800645.3813054)" },
+      { "date": "ProComm 2025", "text": "[Exploring the Future of AI-Powered Design with Working Professionals: A Novel Design Jam Approach](https://doi.org/10.1109/ProComm64814.2025.00042)" },
+      { "date": "Frontiers 2023", "text": "[Exploring the user experience (UX) of a multi-window augmented reality environment](https://doi.org/10.3389/frvir.2023.1194019)" },
+      { "date": "HFES 2022", "text": "[The effects of background noise on user experience and performance of mixed reality voice dictation](https://doi.org/10.1177/1071181322661376)" }
+    ],
     "news": [
       { "date": "06/2026", "text": "Presented 2 papers at DIS 2026." },
       { "date": "11/2025", "text": "Passed my dissertation proposal, now an ABD." },

@@ -386,3 +386,44 @@ strong, b { font-weight: 400; }
 .case-section-content > h2 + .markdown-subtitle { margin-top: 0; }
 .case-section-content > .case-copy + .case-copy { margin-top: 14px; }
 .footer-local .footer-separator { margin: 0 10px; }
+
+/* Field notes: evidence tags, ladder, panels, explorable, hero notes, footer sky */
+.tag { display: inline-block; padding: 2px 8px; border: 1px solid transparent; border-radius: 999px; font-size: 10px; font-weight: 600; letter-spacing: .09em; line-height: 1.4; text-transform: uppercase; white-space: nowrap; }
+.tag--observed { color: #244a6b; background: #e3eef8; border-color: #c9dcec; }
+.tag--interpreted { color: #6b4e12; background: #faf0d9; border-color: #ecdcae; }
+.tag--decided { color: #25552f; background: #e1f1e4; border-color: #c3dec8; }
+.tag--question, .tag--method { color: #55534e; background: #efeeea; border-color: #e0ddd6; }
+.tag--currently { color: #4e2f6a; background: #efe6f6; border-color: #dccaea; }
+.field-notes { display: grid; gap: 8px; max-width: 68ch; margin: 18px 0 0; padding: 0; list-style: none; }
+.field-note { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; color: var(--body-ink); }
+.case-ladder { position: relative; max-width: 68ch; margin: 0; padding: 0; list-style: none; }
+.case-ladder li { position: relative; display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 16px; padding-bottom: 14px; }
+.case-ladder li::before { content: ""; position: absolute; left: 47.5px; top: 26px; bottom: -3px; width: 1px; background: var(--line); }
+.case-ladder li:last-child { padding-bottom: 0; }
+.case-ladder li:last-child::before { display: none; }
+.case-ladder .tag { position: relative; z-index: 1; width: 96px; box-sizing: border-box; height: fit-content; text-align: center; }
+.case-ladder p { margin: 1px 0 0; color: var(--body-ink); font-size: var(--body-size); line-height: var(--body-leading); }
+.case-share { padding: 16px 18px; border: 1px solid var(--line); background: #fcfcfb; }
+.explore { display: grid; gap: 22px; max-width: 68ch; margin: 6px 0 0; padding: 18px; border: 1px solid var(--line); background: #fcfcfb; }
+.explore-title { margin: 0 0 8px; color: var(--ink); font-size: 12px; font-weight: 600; }
+.explore-controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.explore-chip { padding: 5px 11px; color: var(--ink); font: inherit; font-size: 12px; background: transparent; border: 1px solid var(--line); border-radius: 999px; cursor: pointer; }
+.explore-chip[aria-pressed="true"] { color: #fff; background: var(--ink); border-color: var(--ink); }
+.explore-chip:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.explore-dots { display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; max-width: 360px; margin-bottom: 10px; }
+.explore-dot { aspect-ratio: 1; border-radius: 4px; transition: opacity .15s ease; }
+.explore-dot--success { background: #8fc39c; }
+.explore-dot--partial { background: #ecd28f; }
+.explore-dot--failed { background: #d98f84; }
+.explore-dots.is-filtering .explore-dot:not(.is-on) { opacity: .2; }
+.explore-readout { margin: 0; color: var(--body-ink); font-size: 13px; line-height: 1.5; }
+.explore-bar { height: 12px; max-width: 360px; margin-bottom: 10px; background: #ecebe7; border-radius: 6px; overflow: hidden; }
+.explore-bar span { display: block; height: 100%; width: 0; background: #8aa9c7; transition: width .25s ease; }
+.explore-bar.is-empty span { width: 0 !important; }
+.footer-sky { height: 4px; margin: 0 0 14px; background: linear-gradient(90deg, var(--sky-a, #cfd8e3), var(--sky-b, #e7e2d6)); opacity: .9; }
+.site-footer[data-sky="night"] { --sky-a: #3d4560; --sky-b: #6b6f93; }
+.site-footer[data-sky="dawn"] { --sky-a: #e8c3b0; --sky-b: #cdd5e6; }
+.site-footer[data-sky="day"] { --sky-a: #bcd6ec; --sky-b: #e7efe0; }
+.site-footer[data-sky="dusk"] { --sky-a: #e0a98f; --sky-b: #8e86b0; }
+@media (prefers-reduced-motion: reduce) { .explore-dot, .explore-bar span { transition: none; } }
+@media (max-width: 560px) { .case-ladder li { grid-template-columns: 1fr; gap: 6px; } .case-ladder li::before { display: none; } .case-ladder .tag { width: auto; } }

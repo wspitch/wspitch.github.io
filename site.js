@@ -37,6 +37,17 @@
         }
       } else availability.hidden = true;
     }
+    const notes = document.querySelector('[data-home-notes]');
+    if (notes && content.home.notes) content.home.notes.forEach(item => {
+      const li = document.createElement('li'); li.className = 'field-note';
+      addText(li, 'span', `tag tag--${item.tag.toLowerCase()}`, item.tag); addText(li, 'span', '', item.text); notes.append(li);
+    });
+    const research = document.querySelector('[data-research-list]');
+    if (research && content.home.research) content.home.research.forEach(item => {
+      const row = document.createElement('div'); row.className = 'experience-row';
+      addText(row, 'span', 'experience-date', item.date);
+      const p = document.createElement('p'); p.className = 'experience-role'; addInlineText(p, item.text); row.append(p); research.append(row);
+    });
     if (title) title.textContent = content.home.title;
     if (intro) intro.textContent = content.home.intro;
     if (list) content.home.news.forEach(item => {
@@ -90,11 +101,12 @@
 
   const footerRoot=document.querySelector('[data-site-footer]');
   if(footerRoot){
-    footerRoot.innerHTML=`<footer class="site-footer"><div class="footer-inner"><div class="footer-copy">Pitch Sinlapanuntakul © 2026</div><nav class="footer-actions" aria-label="Contact and resources"><button class="email-copy" type="button" data-email-copy>EMAIL</button><span class="footer-separator" aria-hidden="true">/</span><a href="https://scholar.google.com/citations?user=_RGPf2gAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">GOOGLE SCHOLAR</a><span class="footer-separator" aria-hidden="true">/</span><a href="${root}assets/Pitch-Sinlapanuntakul-Resume.pdf" target="_blank" rel="noopener noreferrer">RESUME</a></nav><div class="footer-local"><span class="footer-updated" data-updated hidden>Updated on <time data-updated-date></time></span><span class="footer-separator" data-updated-sep aria-hidden="true" hidden>|</span><span>Seattle <time data-seattle-time aria-label="Seattle time"></time></span></div></div><span class="copy-status" role="status" aria-live="polite"></span></footer>`;
+    footerRoot.innerHTML=`<footer class="site-footer" data-sky="day"><div class="footer-sky" aria-hidden="true"></div><div class="footer-inner"><div class="footer-copy">Pitch Sinlapanuntakul © 2026</div><nav class="footer-actions" aria-label="Contact and resources"><button class="email-copy" type="button" data-email-copy>EMAIL</button><span class="footer-separator" aria-hidden="true">/</span><a href="https://scholar.google.com/citations?user=_RGPf2gAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">GOOGLE SCHOLAR</a><span class="footer-separator" aria-hidden="true">/</span><a href="${root}assets/Pitch-Sinlapanuntakul-Resume.pdf" target="_blank" rel="noopener noreferrer">RESUME</a></nav><div class="footer-local"><span class="footer-updated" data-updated hidden>Updated on <time data-updated-date></time></span><span class="footer-separator" data-updated-sep aria-hidden="true" hidden>|</span><span>Seattle <time data-seattle-time aria-label="Seattle time"></time></span></div></div><span class="copy-status" role="status" aria-live="polite"></span></footer>`;
   }
   const timeNode=document.querySelector('[data-seattle-time]');
   const updateTime=()=>{if(timeNode){const parts=new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',timeZoneName:'short',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'}).formatToParts(new Date());const value=Object.fromEntries(parts.map(part=>[part.type,part.value]));timeNode.textContent=`${value.timeZoneName} ${value.hour}:${value.minute}:${value.second}`}};
-  updateTime();setInterval(updateTime,1000);
+  const setSky=()=>{const footer=document.querySelector('.site-footer');if(!footer)return;const hour=Number(new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',hour:'2-digit',hourCycle:'h23'}).format(new Date()));footer.dataset.sky=hour>=21||hour<5?'night':hour<8?'dawn':hour<17?'day':'dusk'};
+  updateTime();setSky();setInterval(updateTime,1000);setInterval(setSky,60000);
 
   const updatedNode=document.querySelector('[data-updated]');
   if(updatedNode){

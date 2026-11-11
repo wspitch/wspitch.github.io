@@ -7,6 +7,13 @@ hero: assets/projects/values/cover.jpg
 heroAlt: A grid of blue and green Value-Harm Cards from the toolkit
 ---
 
+## In 60 seconds
+**Question.** What would help designers weigh values and harms at the start of an AI concept.
+**Method.** Think-aloud sessions and interviews with 18 designers, a survey of 30, think-aloud sessions with 12, and research through design.
+**Observed.** 16 of 18 designers couldn’t translate a value into features, and 13 of 18 accepted AI suggestions because they sounded technical.
+**Interpreted.** Designers already hold judgment that tools should help them surface, and an AI’s fluency can stand in for their own.
+**Decided.** Build the ACE Toolkit around harm at the start of a concept, inside FigJam, without sliders.
+
 ## At a glance
 **Role.** First author and lead researcher, advised by Mark Zachry, with co-authors on each paper.
 **Timeline.** PhD research, with 2 papers at DIS 2026 (June 2026).
@@ -50,12 +57,17 @@ I tested it with 30 designers. They rated it very useful (6.47 out of 7), but th
 I had given the cards numeric sliders, assuming numbers would help designers compare values. They did not. 21 of 30 said the numbers felt arbitrary. As one put it, what is the difference between a 5 and a 6 on Trust? I removed the sliders and let discussion do the work.
 
 ### The redesign: when harm comes up
-I tested the redesign with 12 designers across 2 design briefs, thinking aloud. Those who saw harm cues early made more substantive changes to their concepts than those who saw them late (3.26 vs. 1.84 on average). That is why the toolkit asks about harm at the start of a concept and not at review.
+I tested the redesign with 12 designers across 2 design briefs, thinking aloud. I used generative AI to help refine those briefs. Those who saw harm cues early made more substantive changes to their concepts than those who saw them late (3.26 vs. 1.84 on average). That is why the toolkit asks about harm at the start of a concept and not at review.
 
 ## Impact
 - A company building an AI product for recruiting and hiring adopted the [ACE Toolkit](http://bit.ly/ACEtoolkit) without being asked. Community usage is modest, so an unprompted pickup is the strongest signal I have that it works outside a study.
 - The toolkit is free on the Figma Community and runs inside FigJam, where designers already work.
 - 2 first-authored DIS 2026 papers, one on how designers work with generative AI and one on the toolkit, and the groundwork for my dissertation.
+
+## Roads not taken
+- **Studying several values at once.** I scoped each session to 1 value and a short time, which isolated what happened to that value and hid how designers handle several together.
+- **Numeric sliders on the cards.** 21 of 30 designers said the numbers felt arbitrary, so I removed them.
+- **Keeping the toolkit as a standalone website.** 26 of 30 hesitated about leaving the tools they already worked in, so I rebuilt it inside FigJam.
 
 ## What’s next
 One value in a short session gave me clarity and hid collisions between values. That gap is where the Value-Tension Map came from, and it is the question I am studying next.

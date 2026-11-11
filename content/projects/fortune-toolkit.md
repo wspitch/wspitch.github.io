@@ -5,6 +5,13 @@ meta: 2021 to 2022 · Google, under NDA · Survey research
 lead: As a UX researcher on a contract research team, I helped validate and extend an internal Product Impression Toolkit, the list of words Google teams use to ask consumers how its hardware feels. The list was widely trusted but had never been checked against how people actually talk, and the revised toolkit was adopted across the organization.
 ---
 
+## In 60 seconds
+**Question.** Which words stay in a company-wide toolkit for measuring how people see Google’s products.
+**Method.** A survey across 5 hardware product types, with removal rules set before any results.
+**Observed.** Most of the toolkit held up. Some words were confusing, some meant different things to different people, and some told us little even when people chose them often.
+**Interpreted.** Popularity was not evidence of usefulness.
+**Decided.** Cut and add words with a written rationale for each, and the revised toolkit was adopted across the organization.
+
 ## At a glance
 **Role.** Contract UX researcher on a team of 5 researchers, working directly with Google stakeholders.
 **Timeline.** 2021 to 2022.
@@ -12,8 +19,10 @@ lead: As a UX researcher on a contract research team, I helped validate and exte
 **The decision.** Which words stay in a company-wide tool for measuring how people see Google’s products.
 **Why a survey.** Validating a company-wide instrument needed breadth across product types, which interviews could not provide.
 
-## A note on this page
-Google told me I can’t share anything data related. I can discuss the problem, how we approached it, what it led to, and what I took from it.
+## What I can share
+**Can share.** The problem, how we approached it, how I worked with stakeholders, what it led to, and what I took from it.
+**Can’t share.** Anything data related, including the words on the toolkit and the results. Google told me not to.
+**Happy to discuss live.** How we set the rules before seeing results, and how I handled the hardest stakeholder conversation.
 
 ## Why a measurement instrument deserves scrutiny
 Teams used the toolkit to understand how people felt about Google’s hardware and about Google as a company. The words had come from product literature, ads, and customer reviews, which reflects how companies talk about products and not how customers do.
@@ -36,6 +45,11 @@ Most of the toolkit held up, and a smaller set of words didn’t. Some were conf
 ## Impact
 - Every change to the toolkit came with a written rationale.
 - My research manager told me teams across the organization adopted the revised toolkit.
+
+## Roads not taken
+- **Cutting words by taste or by how often people chose them.** We set removal rules before we saw any results, because popularity was not evidence of usefulness.
+- **Arguing that a heavily used word was bad.** I showed how people actually used it, acknowledged the cost to comparisons with older studies, and proposed a short note in future reports.
+- **Making calls about individual products.** We made calls about the list and never about a product.
 
 ## What I’d carry forward
 Be explicit about what the evidence cannot support. Because we kept our claims to the toolkit and away from individual products, everything else we reported was easier to trust.

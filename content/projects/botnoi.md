@@ -5,6 +5,13 @@ meta: Summer 2024 · 2 AI voice products · Research function setup
 lead: Botnoi’s teams wanted user insight but had no routine way to get it. Over one summer, across 2 AI voice products, I ran studies and built a research practice, and the update launches I supported were tied to a 28% increase in user base.
 ---
 
+## In 60 seconds
+**Question.** How 2 AI voice products could get user insight on a routine basis.
+**Method.** Usability studies, surveys, interviews, an AI-UX research handbook, and mentoring 5 interns.
+**Observed.** Teams wanted user insight but had no routine way to get it.
+**Interpreted.** A research practice has to outlast one person, so the handbook mattered as much as any single study.
+**Decided.** Botnoi gained a repeatable way to run AI-UX research, and the update launches I supported were tied to a 28% increase in user base.
+
 ## At a glance
 **Role.** UX research intern.
 **Timeline.** Summer 2024.
@@ -22,6 +29,10 @@ In a separate set of workshops, I walked cross-functional teams through who a fe
 - Usability studies on both products gave each team a first structured read on how users handled the product.
 - The handbook gave Botnoi a repeatable way to run AI-UX research, and 5 interns used it to run their own studies.
 - Cross-functional teams practiced asking who a feature could help or harm before building it.
+
+## Roads not taken
+- **Running more studies myself.** “What should we test?” was only half the question, so I wrote a handbook the team could keep using after I left.
+- **Stepping in on every intern choice.** I stepped in when a study’s validity was at risk and otherwise let interns learn from their own choices.
 
 ## What the summer taught me
 

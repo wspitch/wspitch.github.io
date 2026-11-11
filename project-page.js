@@ -6,7 +6,7 @@
   const cardData = [...all.selected, ...(all.more || []), ...all.sandbox].find(project => project.id === id);
   if (!id || !host || !cardData) return;
 
-  fetch(`${root}content/projects/${id}.md?v=20261108r`)
+  fetch(`${root}content/projects/${id}.md?v=20261110a`)
     .then(response => {
       if (!response.ok) throw new Error(`Could not load content/projects/${id}.md`);
       return response.text();
@@ -69,7 +69,7 @@
 
   function renderSections(markdown) {
     markdown = markdown.replace(/<!--[\s\S]*?-->/g, '');
-    let section = null, list = null, paragraph = [], sectionTitle = '', glanceList = null;
+    let section = null, list = null, paragraph = [], sectionTitle = '', glanceList = null, ladder = null;
     const flushParagraph = () => {
       if (!paragraph.length) return;
       const target = getSection()._content || section;
@@ -89,16 +89,26 @@
       if (line.startsWith('## ')) {
         flushParagraph();
         section = document.createElement('section'); section.className='case-section case-section--text';
-        sectionTitle = line.slice(3).trim().toLowerCase(); glanceList = null;
+        sectionTitle = line.slice(3).trim().toLowerCase(); glanceList = null; ladder = null;
         const content=document.createElement('div'); content.className='case-section-content';
         const heading=makeText('h2','case-section-title',line.slice(3));
         heading.id=`case-section-${host.querySelectorAll('.case-section').length+1}`;
         section.setAttribute('aria-labelledby',heading.id); content.append(heading); section.append(content); host.append(section); section._content=content;
-        if(sectionTitle==='at a glance'){ glanceList=document.createElement('dl'); glanceList.className='case-glance'; content.append(glanceList); }
+        if(sectionTitle==='at a glance'||sectionTitle==='what i can share'){ glanceList=document.createElement('dl'); glanceList.className=sectionTitle==='at a glance'?'case-glance':'case-glance case-share'; content.append(glanceList); }
+        if(sectionTitle==='in 60 seconds'){ ladder=document.createElement('ol'); ladder.className='case-ladder'; content.append(ladder); }
         endList(); continue;
       }
       const target=getSection()._content || section;
-      const glanceMatch = sectionTitle==='at a glance' && line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
+      const glanceMatch = (sectionTitle==='at a glance'||sectionTitle==='what i can share') && line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
+      const ladderMatch = sectionTitle==='in 60 seconds' && line.match(/^\*\*([^*]+)\*\*\s*(.*)$/);
+      if (ladderMatch) {
+        flushParagraph();
+        const label=ladderMatch[1].replace(/\.$/,''); const li=document.createElement('li');
+        li.append(makeText('span',`tag tag--${label.toLowerCase()}`,label));
+        const body=document.createElement('p'); appendInline(body,ladderMatch[2]); li.append(body); ladder.append(li); endList(); continue;
+      }
+      const explore = line.match(/^\{\{explore:([\w-]+)\}\}$/);
+      if (explore) { flushParagraph(); const node=makeExplorable(explore[1]); if (node) target.append(node); endList(); continue; }
       if (glanceMatch) {
         flushParagraph();
         const row=document.createElement('div'); row.className='case-glance-row';
@@ -141,6 +151,45 @@
       paragraph.push(line); endList();
     }
     flushParagraph();
+  }
+
+  function makeExplorable(name) {
+    if (name !== 'mr-ar') return null;
+    const box = document.createElement('div'); box.className = 'explore';
+    const toggleGroup = (controls, activeButton) => controls.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed', String(button === activeButton)));
+    const scroll = document.createElement('div'); scroll.className = 'explore-part';
+    scroll.append(makeText('p', 'explore-title', 'Scrolling, 20 participants'));
+    const dots = document.createElement('div'); dots.className = 'explore-dots';
+    const people = [...Array(10).fill('success'), ...Array(9).fill('partial'), 'failed'];
+    const names = {success: 'Succeeded', partial: 'Partly succeeded', failed: 'Failed'};
+    people.forEach((kind, index) => { const dot = document.createElement('span'); dot.className = `explore-dot explore-dot--${kind}`; dot.dataset.kind = kind; dot.title = `Participant ${index + 1}: ${names[kind]}`; dots.append(dot); });
+    const scrollRead = makeText('p', 'explore-readout', 'Select an outcome to highlight it. People expected trackpad scrolling, and the headset expected touchscreen swipes.'); scrollRead.setAttribute('aria-live', 'polite');
+    const scrollControls = document.createElement('div'); scrollControls.className = 'explore-controls';
+    [['success', 'Succeeded (10)', '10 of 20 scrolled successfully.'], ['partial', 'Partly (9)', '9 of 20 scrolled partly.'], ['failed', 'Failed (1)', '1 of 20 could not scroll.']].forEach(([kind, label, text]) => {
+      const button = makeText('button', 'explore-chip', label); button.type = 'button'; button.setAttribute('aria-pressed', 'false');
+      button.addEventListener('click', () => {
+        const on = button.getAttribute('aria-pressed') !== 'true';
+        toggleGroup(scrollControls, on ? button : null);
+        dots.classList.toggle('is-filtering', on);
+        dots.querySelectorAll('.explore-dot').forEach(dot => dot.classList.toggle('is-on', on && dot.dataset.kind === kind));
+        scrollRead.textContent = on ? text : 'Select an outcome to highlight it. People expected trackpad scrolling, and the headset expected touchscreen swipes.';
+      });
+      scrollControls.append(button);
+    });
+    scroll.append(scrollControls, dots, scrollRead);
+    const speech = document.createElement('div'); speech.className = 'explore-part';
+    speech.append(makeText('p', 'explore-title', 'Dictation, by background noise'));
+    const bar = document.createElement('div'); bar.className = 'explore-bar'; const fill = document.createElement('span'); bar.append(fill);
+    const speechRead = makeText('p', 'explore-readout', 'Pick a noise level. Errors stayed at 2 to 5% at all 3 levels.'); speechRead.setAttribute('aria-live', 'polite');
+    const speechControls = document.createElement('div'); speechControls.className = 'explore-controls';
+    [['40 dB', 94, '40 dB, about 47 words per minute. Errors stayed at 2 to 5%.'], ['55 dB', 0, '55 dB. Errors stayed at 2 to 5%. This page reports speed only for the quietest and loudest levels.'], ['70 dB', 82, '70 dB, about 41 words per minute. Errors stayed at 2 to 5%.']].forEach(([label, width, text]) => {
+      const button = makeText('button', 'explore-chip', label); button.type = 'button'; button.setAttribute('aria-pressed', 'false');
+      button.addEventListener('click', () => { toggleGroup(speechControls, button); fill.style.width = width + '%'; bar.classList.toggle('is-empty', !width); speechRead.textContent = text; });
+      speechControls.append(button);
+    });
+    bar.classList.add('is-empty');
+    speech.append(speechControls, bar, speechRead);
+    box.append(scroll, speech); return box;
   }
 
   function appendInline(parent,text) {
