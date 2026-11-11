@@ -21,7 +21,7 @@ heroAlt: Chart of average user experience scores from the multi-window study, wi
 - [“Exploring the user experience (UX) of a multi-window augmented reality environment”](https://doi.org/10.3389/frvir.2023.1194019), Frontiers in Virtual Reality, 2023.
 
 ## Why these two studies, and how I ran them
-Typing in the air is slow and tiring, so voice looks like the obvious fix. But no one had tested HoloLens 2 dictation in noisy rooms, and managing several windows with only your hands was just as untested. I chose both because they sit under most office tasks, so a problem in either would limit headsets for real work.
+Typing in the air is slow and tiring, so voice looks like the obvious fix. But I could not find tests of HoloLens 2 dictation in noisy rooms, and managing several windows with only your hands was just as unexamined. I chose both because they sit under most office tasks, so a problem in either would limit headsets for real work.
 
 **Dictation.** 20 people spoke standard phrases at 3 background noise levels (40, 55, and 70 dB) that matched real offices. I counterbalanced the order and allowed no corrections, so errors came from the system and not from people fixing mistakes.
 

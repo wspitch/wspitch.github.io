@@ -9,7 +9,7 @@ heroAlt: A pencil sketch of a touchscreen with a fingertip, 3 sliders for the co
 
 ## What I can share
 **Can share.** The problem, the study design, how people behaved in general terms, and what I would do differently.
-**Can’t share.** Temperatures, ratings, results, or anything else data related. Google told me not to.
+**Can’t share.** Temperatures, ratings, results, and anything else data related. All of it is under NDA.
 
 ## At a glance
 **Role.** Contract UX researcher on the same team of 5 researchers, working directly with Google stakeholders. I worked on the research from start to finish.
@@ -17,7 +17,7 @@ heroAlt: A pencil sketch of a touchscreen with a fingertip, 3 sliders for the co
 **Method.** Controlled lab experiments on 2 materials, where each person tried a range of surface temperatures, touch durations, and room temperatures, with ratings and observed actions.
 **Why lab experiments.** Temperature, touch duration, and room temperature had to be controlled to separate their effects.
 **Observed.** As surfaces got warmer, people noticed, then investigated, then pulled away. Older participants worried more but took fewer steps to fix the problem.
-**Interpreted.** Comfort depended on who was touching, for how long, and in what room, so ranges fit better than one number.
+**Interpreted.** People differed enough that a range of temperatures fit better than a single number.
 **Decided.** The findings fed material decisions on smart-home hardware.
 
 ## The problem

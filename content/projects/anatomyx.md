@@ -1,8 +1,8 @@
 ---
-title: An augmented reality anatomy app, and hands that couldn’t quite grab it
+title: Deciding what to fix first in an augmented reality anatomy app
 eyebrow: PROJECT LEAD, RESEARCH IN USER EXPERIENCE LAB · SPONSORED BY ANATOMYX
 meta: Led the research end to end · 5-person team with a faculty advisor · Heuristic evaluation and usability test on HoloLens 2
-lead: AnatomyX, our sponsor, makes an augmented reality anatomy app that can show a student a body they could never hold in class, provided the student can work the controls. I led an expert heuristic evaluation and a 10-person usability test on HoloLens 2, then triangulated both into a prioritized list of what to fix first.
+lead: AnatomyX, our sponsor, makes an augmented reality anatomy app for HoloLens 2. I led an expert heuristic evaluation and a 10-person usability test on HoloLens 2, then triangulated both into a prioritized list of what to fix first.
 hero: assets/projects/anatomyx/cover.jpg
 heroAlt: A muscle anatomy model with labeled muscles, shown in the AnatomyX HoloLens 2 app
 ---

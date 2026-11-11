@@ -2,7 +2,7 @@
 title: Mentoring HCI capstone teams
 eyebrow: INSTRUCTOR AND TEACHING ASSISTANT, UNIVERSITY OF WASHINGTON
 meta: 2023 to 2026 · 7 courses in HCDE and HCID
-lead: Helping other people ask better research questions is the part of the work I would happily do forever. Across 7 courses I have taught seminars, advised capstone teams, and worked with students from their first interviews to their final concept videos.
+lead: Across 7 courses I have taught seminars, advised capstone teams, and worked with students from their first interviews to their final concept videos. My focus is helping them ask better research questions before they commit to a direction.
 hero: assets/projects/teaching/cover.jpg
 heroAlt: A large group of students and instructors gathered in a classroom
 ---
@@ -12,11 +12,11 @@ heroAlt: A large group of students and instructors gathered in a classroom
 **Question.** How do I help teams notice what they might be missing before committing to a direction?
 **Method.** Seminars, capstone advising, research feedback, workshops, and design sprints across 7 courses.
 **Observed.** Seminar ratings held at a median of 4.2 to 4.5 out of 5 across 3 terms, and 10 student teams in Capstone Studio each took a concept through prototyping and evaluation and presented it at the end.
-**Interpreted.** The moment just before a team commits is when a good question can still change what gets built.
+**Interpreted.** Teams change direction most readily just before they commit.
 **Decided.** Give feedback on visual grammar, interaction, and concept framing while a team can still change course.
 
 ## My approach
-I care most about the moment just before a team commits, when a good question can still change what gets built. My teaching aims to help students surface what they might be missing before they pick a direction. My feedback on student projects usually covers visual grammar, how the interaction works, and how the core concept is framed.
+I care most about the moment just before a team commits, when a good question can still change what gets built. I help students surface what they might be missing before they pick a direction. My feedback on student projects usually covers visual grammar, how the interaction works, and how the core concept is framed.
 
 ## Capstone Studio (HCID 541), Summers 2024 and 2025
 10 student teams took concepts through development, iterative design, prototyping, and evaluation. They worked with faculty and industry advisors and presented at the end, and I advised teams through that process.

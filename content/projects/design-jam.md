@@ -2,7 +2,7 @@
 title: A design jam on the future of AI-powered design work
 eyebrow: FACILITATOR AND RESEARCHER, UNIVERSITY OF WASHINGTON
 meta: April 2024 · First author, IEEE ProComm 2025
-lead: What would you build if AI were part of every design tool in 3 years? I designed and ran a one-day experiment with 11 working designers, and the format became a published teaching approach.
+lead: I designed and ran a one-day co-design with 11 working designers on what AI-enabled design work could look like in 3 years. The format became a published teaching approach.
 hero: assets/projects/design-jam/organizers.jpg
 heroAlt: The design jam organizers and industry co-hosts posing together in front of an HCDE banner
 ---
@@ -13,7 +13,7 @@ heroAlt: The design jam organizers and industry co-hosts posing together in fron
 **Method.** A one-day co-design with career roadmaps, team ideation, sketching, and Figma prototyping.
 **Why a design jam.** A structured co-design day let working designers imagine the future of their own tools without a fixed brief.
 **Observed.** Designers wanted AI to assist them and not replace them, and they asked for more time, more examples, and more conversation with the guests.
-**Interpreted.** The evidence is participant feedback, so I describe the format as a teaching approach and not a measured outcome.
+**Interpreted.** Designers wanted AI as a collaborator, and focusing on one pain point made the ideas more concrete. The evidence is participant feedback, so I describe the format as a teaching approach and not as a measured outcome.
 **Decided.** Publish the format at IEEE ProComm 2025 for other educators to adapt.
 
 ## Designing the day

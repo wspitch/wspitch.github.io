@@ -421,7 +421,9 @@ strong, b { font-weight: 400; }
 :root { --serif: Charter, "Iowan Old Style", "Palatino Linotype", Georgia, serif; --accent: #5b3fc4; }
 .case-opening .page-title { font-family: var(--serif); font-weight: 600; letter-spacing: -.01em; line-height: 1.15; }
 .case-lede { font-family: var(--serif); font-size: 17px; }
-.case-section-content blockquote { max-width: 40ch; margin: 22px 0; padding: 0 0 0 18px; border-left: 2px solid var(--ink); font-family: var(--serif); font-size: 21px; line-height: 1.35; color: var(--ink); }
+/* quotes */
+.case-section-content blockquote { max-width: 68ch; margin: 16px 0; padding: 0; border: 0; font-family: inherit; font-size: inherit; line-height: inherit; font-weight: 700; color: var(--ink); }
+.case-section-content blockquote p { margin: 0; }
 .body-link { color: var(--accent); }
 .media-slot--small { max-width: 340px; }
 .impact-list--cols { display: block; max-width: none; columns: 2; column-gap: 32px; }
@@ -440,7 +442,6 @@ strong, b { font-weight: 400; }
 .photo-grid .photo-tile { height: auto; aspect-ratio: 4 / 5; }
 .photo-grid .photo-tile img { width: 100%; height: 100%; object-fit: cover; }
 @media (max-width: 560px) { .photo-grid { grid-template-columns: 1fr 1fr 1fr; gap: 6px; } }
-.intro-copy p[data-home-intro] { max-width: 36em; font-size: 19px; line-height: 1.5; color: var(--ink); }
 .intro-copy p.home-availability { margin: 0 0 18px; font-size: 13px; color: var(--muted); }
 .intro-copy p.home-availability strong { color: var(--ink); font-weight: 600; }
 .etc-group { margin: 0 0 36px; }
@@ -452,5 +453,7 @@ strong, b { font-weight: 400; }
 .etc-line { grid-column: 1 / -1; margin: 0; color: var(--body-ink); font-size: 14px; }
 .project-card, .sandbox-grid .project-card { aspect-ratio: auto; grid-template-rows: auto 1fr; }
 .project-image { aspect-ratio: 4 / 3; min-height: 0; }
-@media (max-width:560px){.intro-copy p[data-home-intro]{font-size:16px}}
 .case-section-content strong, .impact-list strong { font-weight: 700; color: var(--ink); }
+
+.footer-sky { display: none; }
+.case-section-content blockquote::before { content: "“"; } .case-section-content blockquote::after { content: "”"; }

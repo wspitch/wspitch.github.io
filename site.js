@@ -33,7 +33,7 @@
         { const txt = content.home.availability, k = txt.indexOf('mid-2027'); if (k > -1) { availability.append(document.createTextNode(txt.slice(0,k)), makeStrong('mid-2027'), document.createTextNode(txt.slice(k+8))); } else availability.textContent = txt; }
         if (content.email) {
           availability.append(document.createTextNode(' '));
-          const hello = document.createElement('a'); hello.className = 'body-link'; hello.href = `mailto:${content.email}`; hello.textContent = 'Say hello';
+          const hello = document.createElement('a'); hello.className = 'body-link'; hello.href = `mailto:${content.email}`; hello.setAttribute('data-email-copy',''); hello.textContent = 'Say hello';
           availability.append(hello, document.createTextNode(' 👋🏻✨'));
         }
       } else availability.hidden = true;
@@ -120,8 +120,8 @@
     } else fromFile();
   }
 
-  const emailButton=document.querySelector('[data-email-copy]');
-  emailButton?.addEventListener('click',async()=>{
+  document.querySelectorAll('[data-email-copy]').forEach(emailButton=>emailButton.addEventListener('click',async(ev)=>{
+    ev.preventDefault();
     const status=document.querySelector('.copy-status');
     let copied=false;
     try{await navigator.clipboard.writeText(email);copied=true}catch{
@@ -130,7 +130,7 @@
     if(status)status.textContent=copied?'Copied':`Copy failed. Email: ${email}`;
     const sticker=document.querySelector('.cursor-sticker');
     if(copied&&sticker&&emailButton.matches(':hover'))sticker.textContent='copied';
-  });
+  }));
 
   const strip=document.querySelector('[data-photo-strip]');
   const toggle=document.querySelector('[data-photo-toggle]');

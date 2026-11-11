@@ -9,7 +9,7 @@ heroAlt: A pencil sketch of a pile of cards, an arrow to a ruler, and a checklis
 
 ## What I can share
 **Can share.** The problem, how we approached it, how I worked with stakeholders, what it led to, and what I took from it.
-**Can’t share.** Anything data related, including the words on the toolkit and the results. Google told me not to.
+**Can’t share.** The words on the toolkit, the results, and anything else data related. All of it is under NDA.
 
 ## At a glance
 **Role.** Contract UX researcher on a team of 5 researchers, working directly with Google stakeholders.
@@ -17,7 +17,7 @@ heroAlt: A pencil sketch of a pile of cards, an arrow to a ruler, and a checklis
 **Method.** A survey across 5 hardware product types with removal rules set before any results, word-use and confusion analysis in R, and thematic coding of open responses.
 **Why a survey.** Validating a company-wide instrument needed breadth across product types, which interviews could not provide.
 **Observed.** Most of the toolkit held up. Some words were confusing, some meant different things to different people, and some told us little even when people chose them often.
-**Interpreted.** Popularity was not evidence of usefulness.
+**Interpreted.** How often people chose a word did not show that it was useful.
 **Decided.** Cut and add words with a written rationale for each, and the revised toolkit was adopted across the organization.
 
 ## Why a measurement instrument deserves scrutiny
