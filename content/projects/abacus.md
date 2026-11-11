@@ -23,7 +23,7 @@ heroAlt: A pencil sketch of the project in 7 steps, from scattered dots through 
 ## Framing the problem
 The brief was open: take a 0-to-1 idea from discovery to a proof of concept. Nobody had defined the problem, and I had about 2 months. In discovery with a short clock, the main risk is answering the wrong questions rigorously.
 
-**I began with the decision and worked backward.** On day one I listed every question leadership might ask and ranked them by what the decision required. Only 3 questions made the cut. Who experiences this problem most acutely? What are they trying to get done? Would a concept change how they work? Pricing, features, and feasibility went to the bottom, because none could be answered with confidence until we knew the need was real.
+I began with the decision and worked backward. On day one I listed every question leadership might ask and ranked them by what the decision required. Only 3 questions made the cut. Who experiences this problem most acutely? What are they trying to get done? Would a concept change how they work? Pricing, features, and feasibility went to the bottom, because none could be answered with confidence until we knew the need was real.
 
 ## Choosing who to serve
 Self-employed people are a broad group, and a first product cannot serve all of them. I started with discovery research on their pain points, and that research is how we settled on micro-business owners as who to serve first. I can’t share what we heard.
@@ -64,10 +64,10 @@ When I shared the direction, someone asked whether we could widen the scope so t
 - Demand and desirability were tested with something real before the roadmap decision.
 
 ## What I ruled out
-- **Building for all self-employed people.** A first product cannot serve every kind of self-employed work, so discovery research narrowed us to micro-business owners.
-- **Ranking pricing, features, and feasibility first.** I moved them to the bottom, because none could be answered with confidence until we knew the need was real.
-- **Asking owners which features they wanted.** Schön and Polanyi pushed me to ask how owners know things, so I stopped asking for feature wishes.
-- **Widening the scope so the concept looked less narrow.** The tests supported an answer only for specific owners, so I kept the boundary and logged the other groups for later.
+- Building for all self-employed people. A first product cannot serve every kind of self-employed work, so discovery research narrowed us to micro-business owners.
+- Ranking pricing, features, and feasibility first. I moved them to the bottom, because none could be answered with confidence until we knew the need was real.
+- Asking owners which features they wanted. Schön and Polanyi pushed me to ask how owners know things, so I stopped asking for feature wishes.
+- Widening the scope so the concept looked less narrow. The tests supported an answer only for specific owners, so I kept the boundary and logged the other groups for later.
 
 ## What I’d carry forward
 Most of the work was choosing the right question. Ranking questions against the decision on day one mattered more to me than any single method, as did being willing to retire my own hypotheses when the evidence disagreed.

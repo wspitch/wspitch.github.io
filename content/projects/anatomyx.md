@@ -50,9 +50,9 @@ Everything else went in the full log. Agreeing on criteria first kept the discus
 - A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
 
 ## What I ruled out
-- **Reporting every issue.** That would have left the sponsor’s team to decide where to start, so the full log went in an appendix.
-- **Debating each finding on its own.** I proposed a prioritization rule first, so the discussion stayed on how serious a problem was.
-- **Trusting the expert review alone.** It is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
+- Reporting every issue. That would have left the sponsor’s team to decide where to start, so the full log went in an appendix.
+- Debating each finding on its own. I proposed a prioritization rule first, so the discussion stayed on how serious a problem was.
+- Trusting the expert review alone. It is fast but rests on expert judgment, so the user test checked whether the experts’ predictions held for real learners.
 
 ## What I’d do differently
 I would bring in anatomy students in a real class. 10 participants in a lab show where the interaction breaks, and only a classroom can show whether the fixes hold up in actual learning.

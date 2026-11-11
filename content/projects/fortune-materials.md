@@ -42,8 +42,8 @@ Age complicated the picture. Older participants worried more about safety but to
 - I presented the work to stakeholders across research, design, engineering, and product.
 
 ## What I ruled out
-- **Extrapolating past what we observed.** The hottest surfaces were short touches only, and we said so in every readout.
-- **Reporting one comfort number.** Comfort depended on who was touching, for how long, and in what room, so we gave ranges.
+- Extrapolating past what we observed. The hottest surfaces were short touches only, and we said so in every readout.
+- Reporting one comfort number. Comfort depended on who was touching, for how long, and in what room, so we gave ranges.
 
 ## What I’d do differently
 2 design choices limited what we could conclude. On one material, the placement of the temperature sensor pushed people to touch the surface in an unnatural way. And everyone did the cooler room first and the warmer room second, so order and room temperature were confounded. In one study, participants also had to imagine a device and couldn’t hold one.

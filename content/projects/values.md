@@ -59,9 +59,9 @@ I had assumed numbers would help designers compare values, and that assumption f
 - 2 first-authored DIS 2026 papers, one on how designers work with generative AI and one on the toolkit, and the groundwork for my dissertation.
 
 ## What I ruled out
-- **Studying several values at once.** One value in a short session isolated what happened to that value and hid how designers handle several together.
-- **Numeric sliders on the cards.** 21 of 30 designers said the numbers felt arbitrary, so I removed them.
-- **Keeping the toolkit as a standalone website.** 26 of 30 hesitated about leaving the tools they already worked in, so I rebuilt it inside FigJam.
+- Studying several values at once. One value in a short session isolated what happened to that value and hid how designers handle several together.
+- Numeric sliders on the cards. 21 of 30 designers said the numbers felt arbitrary, so I removed them.
+- Keeping the toolkit as a standalone website. 26 of 30 hesitated about leaving the tools they already worked in, so I rebuilt it inside FigJam.
 
 ## What’s next
 One value in a short session gave me clarity and hid collisions between values. That gap is where the Value-Tension Map came from, and it is the question I am studying next.

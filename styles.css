@@ -419,8 +419,6 @@ strong, b { font-weight: 400; }
 
 /* Case layout refinements: serif voice, pull quotes, tables, small figures */
 :root { --serif: Charter, "Iowan Old Style", "Palatino Linotype", Georgia, serif; --accent: #5b3fc4; }
-.case-opening .page-title { font-family: var(--serif); font-weight: 600; letter-spacing: -.01em; line-height: 1.15; }
-.case-lede { font-family: var(--serif); font-size: 17px; }
 /* quotes */
 .case-section-content blockquote { max-width: 68ch; margin: 16px 0; padding: 0; border: 0; font-family: inherit; font-size: inherit; line-height: inherit; font-weight: 700; color: var(--ink); }
 .case-section-content blockquote p { margin: 0; }

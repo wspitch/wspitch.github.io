@@ -23,7 +23,7 @@ heroAlt: A pencil sketch of a pile of cards, an arrow to a ruler, and a checklis
 ## Why a measurement instrument deserves scrutiny
 Teams used the toolkit to understand how people felt about Google’s hardware and about Google as a company. The words had come from product literature, ads, and customer reviews, which reflects how companies talk about products and not how customers do.
 
-**A weak item quietly distorts every study that uses it.** A single poor choice repeats across every team that relies on the toolkit, so validating the instrument was worth more than running another study with it.
+A weak item quietly distorts every study that uses it. A single poor choice repeats across every team that relies on the toolkit, so validating the instrument was worth more than running another study with it.
 
 ## Working with stakeholders
 Teams across the company relied on the toolkit, so a removal changed their tools. Each cut needed a reason someone could accept without having been in the room. We wrote a rationale for every word, and because the rules were set before the results, we could show stakeholders why and not only what.
@@ -49,9 +49,9 @@ We also added a few words that several people suggested independently and left o
 - My research manager told me the toolkit has been adopted widely by designers and researchers across the organization for hardware product lines, especially the recent smart-home devices.
 
 ## What I ruled out
-- **Cutting words by taste or by how often people chose them.** We set removal rules before we saw any results, because popularity was not evidence of usefulness.
-- **Arguing that a heavily used word was bad.** I showed how people actually used it, acknowledged the cost to comparisons with older studies, and proposed a short note in future reports.
-- **Making calls about individual products.** We made calls about the list and never about a product.
+- Cutting words by taste or by how often people chose them. We set removal rules before we saw any results, because popularity was not evidence of usefulness.
+- Arguing that a heavily used word was bad. I showed how people actually used it, acknowledged the cost to comparisons with older studies, and proposed a short note in future reports.
+- Making calls about individual products. We made calls about the list and never about a product.
 
 ## What I’d carry forward
 Be explicit about what the evidence cannot support. Because we kept our claims to the toolkit and away from individual products, everything else we reported was easier to trust.

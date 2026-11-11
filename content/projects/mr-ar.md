@@ -64,8 +64,8 @@ Both charts use only figures reported above. Try the 40 dB and 70 dB buttons to 
 - The multi-window data is open on the [Open Science Framework](https://osf.io/e3u4n), so other teams have numbers to compare against.
 
 ## What I ruled out
-- **Letting people correct dictation errors.** I allowed no corrections, so errors came from the system and not from people fixing mistakes.
-- **Time limits and fixed paths in the multi-window study.** I set no time limit, let people walk around the lab, and had them think aloud.
+- Letting people correct dictation errors. I allowed no corrections, so errors came from the system and not from people fixing mistakes.
+- Time limits and fixed paths in the multi-window study. I set no time limit, let people walk around the lab, and had them think aloud.
 
 ## What I’d do differently
 Both studies converged on invisible system state. If I ran them again, I would design around feedback from the start. I would also test speech-like background noise and older participants, because mine were all college-aged (average about 22), on one device, in a lab.
