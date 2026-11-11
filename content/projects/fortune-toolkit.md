@@ -43,8 +43,9 @@ Most of the toolkit held up, and a smaller set of words didn’t. Some were conf
 We also added a few words that several people suggested independently and left out one-off phrasing.
 
 ## Impact
-- Every change to the toolkit came with a written rationale.
-- My research manager told me the toolkit has been adopted widely by designers and researchers across the organization for hardware product lines, especially the recent smart-home devices.
+- The revised toolkit was widely adopted by designers and researchers across the organization for hardware product lines, especially the recent smart-home devices.
+- Every change came with a written rationale that teams could read without being in the room, so the people who relied on the old words could see why each one stayed or went.
+- Because the removal rules were set before any results, a future revision can reuse the same rules and stay comparable.
 
 ## What I ruled out
 - Cutting words by taste or by how often people chose them. We set removal rules before we saw any results, because popularity was not evidence of usefulness.

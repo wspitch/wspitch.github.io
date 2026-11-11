@@ -36,8 +36,9 @@ We tracked behavior as well as ratings, and the behavior told us more. As surfac
 Age complicated the picture. Older participants worried more about safety but took fewer steps to investigate or fix the problem. The room mattered as well, which is why we gave ranges and not one number.
 
 ## Impact
-- The findings fed evidence-based material decisions on smart-home hardware.
-- I presented the work to stakeholders across research, design, engineering, and product.
+- The findings fed evidence-based material decisions across shipped smart-home hardware.
+- I presented the work through executive slide decks to stakeholders across research, design, engineering, and product, which guided hardware product development decisions.
+- Ranges, not a single number, gave designers room to choose materials without relying on one threshold.
 
 ## What I ruled out
 - Extrapolating past what we observed. The hottest surfaces were short touches only, and we said so in every readout.

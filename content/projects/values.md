@@ -53,7 +53,8 @@ I had assumed numbers would help designers compare values, and that assumption f
 
 ## Impact
 - A company building an AI product for recruiting and hiring adopted the [ACE Toolkit](http://bit.ly/ACEtoolkit) without being asked. Community usage is modest, so an unprompted pickup is the strongest signal I have that it works outside a study.
-- The toolkit is free on the Figma Community and runs inside FigJam, where designers already work.
+- The toolkit is free on the Figma Community and runs inside FigJam, where designers already work, with a print PDF.
+- It was revised twice from evidence, first after the website survey and again after designers said the sliders felt arbitrary.
 - 2 first-authored DIS 2026 papers, one on how designers work with generative AI and one on the toolkit, and the groundwork for my dissertation.
 
 ## What I ruled out

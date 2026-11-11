@@ -182,14 +182,13 @@
     const speech = document.createElement('div'); speech.className = 'explore-part';
     speech.append(makeText('p', 'explore-title', 'Dictation, by background noise'));
     const bar = document.createElement('div'); bar.className = 'explore-bar'; const fill = document.createElement('span'); bar.append(fill);
-    const speechRead = makeText('p', 'explore-readout', 'Pick a noise level. Errors stayed at 2 to 5% at all 3 levels.'); speechRead.setAttribute('aria-live', 'polite');
+    const speechRead = makeText('p', 'explore-readout', ''); speechRead.setAttribute('aria-live', 'polite');
     const speechControls = document.createElement('div'); speechControls.className = 'explore-controls';
-    [['40 dB', 94, '40 dB, about 47 words per minute. Errors stayed at 2 to 5%.'], ['55 dB', 0, '55 dB. Errors stayed at 2 to 5%. This page reports speed only for the quietest and loudest levels.'], ['70 dB', 82, '70 dB, about 41 words per minute. Errors stayed at 2 to 5%.']].forEach(([label, width, text]) => {
+    [['40 dB', 94.7, '47.4 words per minute, 2% word errors, perceived usability 78.9 (good). An earlier HoloLens 1 study found 6% errors at this level.'], ['55 dB', 86.7, '43.4 words per minute, 4% word errors, perceived usability 73.0. The HoloLens 1 study found 13% errors here.'], ['70 dB', 81.4, '40.7 words per minute, 5% word errors, perceived usability 68.3, and higher mental demand and effort. The HoloLens 1 study found 55% errors here.']].forEach(([label, width, text], i) => {
       const button = makeText('button', 'explore-chip', label); button.type = 'button'; button.setAttribute('aria-pressed', 'false');
-      button.addEventListener('click', () => { toggleGroup(speechControls, button); fill.style.width = width + '%'; bar.classList.toggle('is-empty', !width); speechRead.textContent = text; });
-      speechControls.append(button);
+      button.addEventListener('click', () => { toggleGroup(speechControls, button); fill.style.width = width + '%'; bar.classList.remove('is-empty'); speechRead.textContent = text; });
+      speechControls.append(button); if (i === 0) button.click();
     });
-    bar.classList.add('is-empty');
     speech.append(speechControls, bar, speechRead);
     box.append(scroll, speech); return box;
   }

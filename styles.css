@@ -455,3 +455,8 @@ strong, b { font-weight: 400; }
 
 .footer-sky { display: none; }
 .case-section-content blockquote::before { content: "“"; } .case-section-content blockquote::after { content: "”"; }
+
+@media (max-width: 600px) {
+  .case-glance-row { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .case-glance { gap: 14px; }
+}

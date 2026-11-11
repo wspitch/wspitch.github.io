@@ -3,8 +3,8 @@ title: From an open brief to a working proof of concept for micro-business owner
 eyebrow: USER RESEARCH INTERN, ABACUS DIGITAL
 meta: Summer 2026 · About 2 months · Under NDA
 lead: I started the summer with an open brief and no defined problem. I took it from discovery research to a proof of concept leadership could react to, and this is how I scoped it, where my thinking changed, and what I would carry into the next open-ended engagement.
-hero: assets/projects/abacus/sketch.svg
-heroAlt: A pencil sketch of the project in 7 steps, from scattered dots through a funnel, a survey, interviews, code, a phone prototype, and a presentation
+hero: assets/projects/abacus/cover.jpg
+heroAlt: The ABACUS Digital team posing in front of the company logo
 ---
 
 ## What I can share
@@ -46,7 +46,6 @@ Their reactions went beyond what I had planned for. The groups were small, so I 
 ## The readout
 I presented the findings to company leadership, including department heads, and demoed the final proof of concept. The deck moved from the problem to the concept to who it is and isn’t for, and it ended on the questions I had left open, so leadership could see where my confidence was high and where it was not.
 
-![The ABACUS Digital team posing in front of the company logo](assets/projects/abacus/cover.jpg)
 ![Colleagues gathered around a large colorful board game at the ABACUS office](assets/projects/abacus/team-game.jpg)
 ![A group of ABACUS colleagues posing together, many giving thumbs up](assets/projects/abacus/team-group.jpg)
 
@@ -56,10 +55,10 @@ When I shared the direction, someone asked whether we could widen the scope so t
 **I defended the boundary with the evidence and not with my preference.** I named what the tests did and did not support and offered to treat the wider scope as a separate question. We kept the boundary and logged the other groups for later.
 
 ## Impact
-- Leadership reviewed my recommendation and put the concept on the product roadmap for future exploration.
+- Leadership put the concept on the product roadmap for future exploration, after I presented the findings to company leadership, including department heads, and demoed the final proof of concept.
+- Concept tests with a working prototype confirmed demand and desirability across personas before the roadmap decision, so the case rested on behavior and not on a slide.
+- The recommendation named who to serve first and left other groups out on purpose. They were logged for later.
 - I delivered a survey, an interview study, a working proof of concept, and a readout deck with a live demo.
-- The recommendation named who to serve and left others out on purpose.
-- Demand and desirability were tested with something real before the roadmap decision.
 
 ## What I ruled out
 - Building for all self-employed people. A first product cannot serve every kind of self-employed work, so discovery research narrowed us to micro-business owners.

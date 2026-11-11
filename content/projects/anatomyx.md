@@ -43,9 +43,9 @@ Between the expert review and 10 sessions, we had a long list of issues. Reporti
 Everything else went in the full log. Agreeing on criteria first kept the discussion on how serious a problem was and away from debating each issue on its own.
 
 ## Impact
-- A ranked shortlist instead of a long list, carried from the evaluation plan through to the final recommendations, in 3 areas: the tutorial, design and consistency, and accessibility. The full issue log went in an appendix.
 - The AnatomyX product team took our findings into consideration and used our recommendations to build their own design guidelines for interface design for AR interactions.
-- A baseline for AnatomyX to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
+- The team received a ranked shortlist in 3 areas, the tutorial, design and consistency, and accessibility, instead of a long list. The full issue log went in an appendix.
+- It also gained a baseline to improve on. Usability scored 62.0, below the common benchmark of 68, and likelihood to recommend was 33. With 10 participants, I read both as directional.
 
 ## What I ruled out
 - Reporting every issue. That would have left the sponsor’s team to decide where to start, so the full log went in an appendix.

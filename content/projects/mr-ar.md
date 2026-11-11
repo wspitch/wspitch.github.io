@@ -30,7 +30,7 @@ Typing in the air is slow and tiring, so voice looks like the obvious fix. But I
 
 
 ### Dictation held up, but user patience didn’t
-I expected noise to wreck accuracy, because an earlier HoloLens 1 study ([Derby et al., 2020](https://doi.org/10.1177/1071181320641509)) found that dictation accuracy dropped once background noise reached 60 dB. On the HoloLens 2, errors stayed at 2 to 5% across all 3 levels. What changed was speed (about 47 words per minute at the quietest level, 41 at the loudest) and how it felt. People couldn’t tell whether the system was slow or had stopped listening, and some stopped mid-phrase to wait. One called the pause before dictation began “annoying.”
+I expected noise to wreck accuracy, because an earlier HoloLens 1 study ([Derby et al., 2020](https://doi.org/10.1177/1071181320641509)) found that dictation accuracy dropped once background noise reached 60 dB. On the HoloLens 2, word errors were 2% at 40 dB, 4% at 55 dB, and 5% at 70 dB, against 6%, 13%, and 55% on the HoloLens 1. Perceived usability stayed in the “good” range. What changed was speed (47.4 words per minute at 40 dB, 43.4 at 55 dB, and 40.7 at 70 dB) and how it felt: mental demand, temporal demand, and effort were all higher at 70 dB. People couldn’t tell whether the system was slow or had stopped listening, and some stopped mid-phrase to wait. One called the pause before dictation began “annoying.”
 
 *A team could* show when the system is ready and when it has finished, and offer homophone choices when a word comes out wrong.
 
@@ -59,6 +59,7 @@ Both charts use only figures reported above. Try the 40 dB and 70 dB buttons to 
 
 ## Impact
 - Both studies were published, at HFES 2022 and in Frontiers in Virtual Reality in 2023. On the second, I handled the ethics approval, recruitment, data curation, and quantitative analysis, and co-led data collection and qualitative analysis.
+- Each finding comes with a recommendation a product team can act on, such as showing when the system is listening and when a grab has registered.
 - The multi-window data is open on the [Open Science Framework](https://osf.io/e3u4n), so other teams have numbers to compare against.
 
 ## What I ruled out
