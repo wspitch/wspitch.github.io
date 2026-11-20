@@ -30,7 +30,7 @@
     const availability = document.querySelector('[data-home-availability]');
     if (availability) {
       if (content.home.availability) {
-        { const txt = content.home.availability, k = txt.indexOf('mid-2027'); if (k > -1) { availability.append(document.createTextNode(txt.slice(0,k)), makeStrong('mid-2027'), document.createTextNode(txt.slice(k+8))); } else availability.textContent = txt; }
+        availability.textContent = content.home.availability;
         if (content.email) {
           availability.append(document.createTextNode(' '));
           const hello = document.createElement('a'); hello.className = 'body-link'; hello.href = `mailto:${content.email}`; hello.setAttribute('data-email-copy',''); hello.textContent = 'Say hello';

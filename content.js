@@ -26,10 +26,10 @@ window.portfolioContent = {
   "about": {
     "title": "About Pitch",
     "paragraphs": [
-      "Hi, I’m Pitch, a 5th-year PhD candidate in Human Centered Design & Engineering at the University of Washington.",
+      "Hi, I’m Pitch, a 5th-year PhD candidate in [Human Centered Design & Engineering](https://www.hcde.washington.edu) at the University of Washington.",
       "I’m drawn to the space where technology meets imagination, especially when it brings something to life that once seemed impossible. I believe technology can do more than make things faster or easier. At its best, it can surprise us, stir up a sense of nostalgia, or make something feel closer than we ever thought it could. I want to help create those moments, where technology feels meaningfully magical :)",
       "I’ve found myself drawn to the questions that don’t have obvious answers and the process of making an idea better through thoughtful research and experimentation. I care about understanding what we might be missing before we commit to a direction, and about presenting ideas in ways that make people stop, think, and see something differently. These days I am also exploring AI agents in research workflows.",
-      "My dissertation looks at what happens when designers’ values collide, a question that grew out of building the Value-Tension Map. In applied work, I have presented findings and live demos to company leadership, and worked with stakeholders at Google, ABACUS Digital, and Botnoi, starting each project from the decision the team has to make.",
+      "My dissertation looks at what happens when designers’ values collide, a question that grew out of building the [AI Concept Envisioning (ACE) toolkit](http://bit.ly/ACEtoolkit). In applied work, I have presented findings and live demos to company leadership, and worked with stakeholders at Google, [ABACUS Digital](https://www.abacusdigital.com), and [Botnoi](https://botnoi.ai), starting each project from the decision the team has to make.",
       "Outside of research, I’m still someone who gets excited about the possibilities of things that don’t exist yet. I would love to see Pokémon become real someday. Until then, I’m spending my free time hiking, singing, and binge-watching anime."
     ]
   }
