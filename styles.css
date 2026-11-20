@@ -178,7 +178,7 @@ strong, b { font-weight: 400; }
 }
 .page-title { margin: 8px 0 14px; font-family: "Google Sans", Arial, sans-serif; font-size: clamp(25px, 3.1vw, 34px); font-weight: 700; letter-spacing: -.035em; }
 .page-intro { max-width: 650px; margin: 0 0 36px; color: var(--body-ink); }
-.etc-publications { margin-top: 30px; }
+.etc-publications { margin-top: 6px; margin-bottom: 28px; }
 .about-copy { max-width: 800px; }
 .about-copy .bio-lead { margin: 0 0 17px; color: var(--body-ink); font-size: 16px; font-weight: 400; letter-spacing: -.015em; line-height: 1.55; }
 .about-copy p { margin: 0 0 16px; }
@@ -463,3 +463,4 @@ strong, b { font-weight: 400; }
 
 .photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 @media (max-width: 560px) { .photo-grid { grid-template-columns: 1fr 1fr; } }
+.page-intro + .etc-publications { margin-top: -14px; }
