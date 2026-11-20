@@ -5,7 +5,7 @@ This portfolio is being prepared in the local `portfolio-redesign` branch of the
 ## Where to edit
 
 - `content.js`: homepage name and introduction, Research Experience placeholders, About heading and paragraphs.
-- `projects.js`: card titles, descriptions, image paths, route, order, and grouping. All seven portfolio cases are in `selected`; `sandbox` holds the etc cards.
+- `projects.js`: card titles, descriptions, image paths, route, order, and grouping. All seven portfolio cases are in `selected`; `sandbox` (the data key for the etc cards) holds them.
 - `content/projects/<id>.md`: long-form project writing, metadata, and media placeholders. Each project has an HTML shell at the matching route. Markdown `##` and `###` headings become sections and subtitles; `- ` starts a list; inline `**bold**`, `*italic*`, and `[link](URL)` are supported. `## At a glance` entries formatted as `**Role.** value` render as a label/value stack. Draft comments remain in the Markdown but are hidden on the page.
 - `assets/`: add project photos, diagrams, or videos here. Use `![Alt description](assets/photo.jpg)` for an image or `[Video: Walkthrough](assets/demo.mp4)` for a video. To use a cover, set the project file’s `hero:` to `assets/cover.jpg` and optionally add `heroAlt: A concise description of the image.` For a project card image, change that entry’s `image` in `projects.js`.
 - `about.html`: About photo-strip file paths and alt text. The strip repeats the same photos to scroll continuously; update both sets of `src` values when adding them.

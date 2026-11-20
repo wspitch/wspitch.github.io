@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Local preview server that never caches and serves /etc as etc.html (like GitHub Pages).
+"""Local preview server that never caches and serves /etc/ from etc/index.html (like GitHub Pages).
 Run: python3 dev-server.py  then open http://localhost:8000"""
 import http.server, socketserver, os
 class H(http.server.SimpleHTTPRequestHandler):

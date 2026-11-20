@@ -80,7 +80,7 @@ window.projectData = {
       "image": "assets/project-sandbox-4.svg",
       "imageAlt": "Pencil sketch of 3 sticky notes above a prototype frame",
       "description": "Designed and ran a design jam with 11 working designers, published as a teaching approach at IEEE ProComm 2025.",
-      "route": "sandbox/design-jam.html",
+      "route": "etc/design-jam.html",
       "order": 1,
       "accent": "#d5c7dc"
     },
@@ -91,7 +91,7 @@ window.projectData = {
       "image": "assets/project-sandbox-5.svg",
       "imageAlt": "Pencil sketch of a poster on an easel",
       "description": "Advised capstone teams and taught 7 HCDE and HCID courses at the University of Washington.",
-      "route": "sandbox/teaching.html",
+      "route": "etc/teaching.html",
       "order": 2,
       "accent": "#c8c8c4"
     },
@@ -102,7 +102,7 @@ window.projectData = {
       "image": "assets/project-sandbox-2.svg",
       "imageAlt": "Pencil sketch of a target with a cursor that has drifted away from where a hand points",
       "description": "Led a heuristic evaluation and user test of an augmented reality anatomy app to rank what its sponsor should fix first.",
-      "route": "sandbox/anatomyx.html",
+      "route": "etc/anatomyx.html",
       "order": 3,
       "accent": "#c5d2d8"
     }

@@ -63,8 +63,8 @@
     for (const piece of item.heroOrder || ['eyebrow','title','meta','lead','hero']) if (pieces[piece]) opening.append(pieces[piece]);
     host.append(opening);
     renderSections(item.sections);
-    const back = makeText('a','back-link',cardData.route.startsWith('sandbox/') ? '← Back to etc' : '← Back to Selected Projects');
-    back.href = root + (cardData.route.startsWith('sandbox/') ? 'etc' : 'index.html#work'); host.append(back);
+    const back = makeText('a','back-link',cardData.route.startsWith('etc/') ? '← Back to etc' : '← Back to Selected Projects');
+    back.href = root + (cardData.route.startsWith('etc/') ? 'etc/' : 'index.html#work'); host.append(back);
   }
 
   function renderSections(markdown) {
